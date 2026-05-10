@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AI-powered food detection, classification, and nutritional analysis using deep learning.">
+    <title>NutriScan AI — Food Detection & Nutrition Analyzer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <!-- ===== Header ===== -->
+    <header class="header" id="header">
+        <div class="header-inner">
+            <div class="logo">
+                <div class="logo-icon">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"/>
+                        <path d="M2 17l10 5 10-5"/>
+                        <path d="M2 12l10 5 10-5"/>
+                    </svg>
+                </div>
+                <span class="logo-text">NutriScan<span class="logo-ai">AI</span></span>
+            </div>
+            <nav class="nav-links">
+                <a href="#upload-section" class="nav-link active">Scan</a>
+                <a href="#results-section" class="nav-link">Results</a>
+                <a href="#nutrition-section" class="nav-link">Nutrition</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main">
+        <!-- ===== Hero Section ===== -->
+        <section class="hero" id="hero">
+            <div class="hero-bg-orbs">
+                <div class="orb orb-1"></div>
+                <div class="orb orb-2"></div>
+                <div class="orb orb-3"></div>
+            </div>
+            <h1 class="hero-title">
+                <span class="hero-title-line">Detect. Classify.</span>
+                <span class="hero-title-line gradient-text">Analyze Nutrition.</span>
+            </h1>
+            <p class="hero-subtitle">Upload a food image and let our AI identify items, predict labels, and estimate calories & macros in seconds.</p>
+        </section>
+
+        <!-- ===== Upload Section ===== -->
+        <section class="section" id="upload-section">
+            <div class="upload-zone" id="upload-zone">
+                <div class="upload-zone-content" id="upload-zone-content">
+                    <div class="upload-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                            <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/>
+                            <polyline points="17 8 12 3 7 8"/>
+                            <line x1="12" y1="3" x2="12" y2="15"/>
+                        </svg>
+                    </div>
+                    <p class="upload-text">Drag & drop your food image here</p>
+                    <p class="upload-subtext">or click to browse — PNG, JPG, WEBP (max 16MB)</p>
+                    <button class="btn btn-primary" id="browse-btn">Choose Image</button>
+                </div>
+                <input type="file" id="file-input" accept="image/png,image/jpeg,image/webp,image/bmp" hidden>
+                <!-- Preview shown after upload -->
+                <div class="upload-preview" id="upload-preview" style="display:none;">
+                    <img id="preview-image" alt="Preview">
+                    <button class="btn btn-outline btn-sm" id="clear-btn">✕ Clear</button>
+                </div>
+            </div>
+            <button class="btn btn-primary btn-lg btn-analyze" id="analyze-btn" disabled>
+                <span class="btn-icon">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="20" height="20">
+                        <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+                    </svg>
+                </span>
+                Analyze Food
+            </button>
+        </section>
+
+        <!-- ===== Loading Overlay ===== -->
+        <div class="loading-overlay" id="loading-overlay" style="display:none;">
+            <div class="loading-card">
+                <div class="spinner"></div>
+                <p class="loading-text">Analyzing your food image...</p>
+                <p class="loading-subtext">Running detection → classification → nutrition lookup</p>
+            </div>
+        </div>
+
+        <!-- ===== Error Banner ===== -->
+        <div class="error-banner" id="error-banner" style="display:none;">
+            <span class="error-icon">⚠</span>
+            <span id="error-text"></span>
+            <button class="error-close" id="error-close">✕</button>
+        </div>
+
+        <!-- ===== Results Section ===== -->
+        <section class="section" id="results-section" style="display:none;">
+            <h2 class="section-title">Detection Results</h2>
+            <p class="section-subtitle" id="results-message"></p>
+
+            <!-- Detection Image with Bounding Boxes -->
+            <div class="detection-canvas-wrapper" id="detection-canvas-wrapper">
+                <canvas id="detection-canvas"></canvas>
+            </div>
+
+            <!-- Detected Items Grid -->
+            <div class="detections-grid" id="detections-grid"></div>
+        </section>
+
+        <!-- ===== Nutrition Summary Section ===== -->
+        <section class="section" id="nutrition-section" style="display:none;">
+            <h2 class="section-title">Nutritional Summary</h2>
+            <p class="section-subtitle">Total estimated nutrition for all selected food items</p>
+            <div class="nutrition-summary-cards" id="nutrition-summary-cards"></div>
+            <div class="nutrition-detail-table-wrapper">
+                <table class="nutrition-table" id="nutrition-table">
+                    <thead>
+                        <tr>
+                            <th>Food Item</th>
+                            <th>Portion</th>
+                            <th>Calories</th>
+                            <th>Protein</th>
+                            <th>Carbs</th>
+                            <th>Fat</th>
+                        </tr>
+                    </thead>
+                    <tbody id="nutrition-table-body"></tbody>
+                    <tfoot id="nutrition-table-foot"></tfoot>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <!-- ===== Footer ===== -->
+    <footer class="footer">
+        <p>NutriScan AI — Deep Learning Food Analysis Pipeline &nbsp;|&nbsp; Models can be swapped for improved accuracy</p>
+    </footer>
+
+    <script src="/js/app.js"></script>
+</body>
+</html>

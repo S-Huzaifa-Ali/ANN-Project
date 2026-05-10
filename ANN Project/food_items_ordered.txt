@@ -1,0 +1,750 @@
+#     Food Item                                               Serving Size                    Calories  Protein(g)   Carbs(g)   Fat(g)
+---------------------------------------------------------------------------------------------------------------------------------------
+1     Khakhra                                                 3 pieces (~75g)                    357.0         7.8       47.0     16.2
+2     Amritsari Kulcha                                        1 kulcha (~120g)                   320.0         9.0       50.0      9.0
+3     Paniyaram                                               6 pieces (~180g)                   270.0         9.0       37.5      9.0
+4     Gujhia                                                  2 pieces (~120g)                   460.0         6.0       60.0     20.0
+5     Chivda                                                  1 cup (~70g)                       315.0         5.6       42.0     14.0
+6     Onion Pakoda                                            6 pieces (~150g)                   315.0         7.3       25.0     20.6
+7     Ghevar                                                  1 piece (~100g)                    450.0         6.0       45.0     25.0
+8     Veal Cordon Bleu                                        1 roll (~229g)                     540.0        33.0       22.0     35.0
+9     Mysore Pak                                              2 pieces (~90g)                    355.0         1.6       34.0     24.0
+10    Pepperoni Pizza                                         2 slices (~200g)                   560.0        24.0       56.0     28.0
+11    Lutefisk                                                1 plate (~200g)                    120.0        32.0        0.0      1.0
+12    Scrapple                                                3 slices (~150g)                   340.0        12.9       22.5     22.2
+13    Aloo Mutter                                             1 bowl (~200g)                     310.0         7.4       35.4     15.4
+14    Phirni                                                  1 bowl (~150g)                     290.0         5.0       56.0      6.0
+15    Gajar Ka Halwa                                          1 bowl (~150g)                     390.0         5.6       42.0     21.7
+16    Welsh Rarebit                                           2 slices (~200g)                   480.0        20.0       32.0     30.0
+17    Navratan Korma                                          1 bowl (~250g)                     380.0         9.5       32.5     26.8
+18    Lobster Thermidor                                       1 plate (~300g)                    450.0        42.0       12.0     27.0
+19    Idiyappam                                               3 pieces (~150g)                   200.0         5.0       40.0      2.0
+20    Matzo Ball (soup)                                       1 bowl (~300g)                     280.0        12.0       30.0     10.0
+21    Rugelach                                                4 pieces (~112g)                   500.0         6.0       60.0     26.0
+22    Knish                                                   1 large (~170g)                    340.0         8.0       54.0     11.0
+23    Moo Goo Gai Pan                                         1 plate (~280g)                    330.0        31.8        9.2     18.2
+24    Sabudana Khichdi                                        1 bowl (~200g)                     360.0         5.0       60.0     13.0
+25    Salisbury Steak                                         1 piece + gravy (~250g)            373.0        17.5       14.5     27.0
+26    Chicken Marengo                                         1 plate (~300g)                    410.0        38.0       14.0     23.0
+27    Schnitzel                                               1 piece (~200g)                    500.0        34.0       22.0     32.0
+28    Steak Au Poivre                                         1 plate (~250g)                    520.0        38.0        6.0     38.0
+29    Haggis                                                  1 serving (~150g)                  350.0        15.0       20.0     25.0
+30    Mostaccioli                                             1 plate (~250g)                    480.0        20.0       62.0     17.0
+31    Pepper Steak                                            1 plate (~280g)                    430.0        34.0       18.0     26.0
+32    Pirogi (Pierogi)                                        5 pieces (~175g)                   360.0        10.0       56.0     12.0
+33    Tamale Pie                                              1 serving (~250g)                  430.0        18.0       42.0     22.0
+34    Eccles Cake                                             2 cakes (~100g)                    420.0         4.0       60.0     18.0
+35    Rissole                                                 2 pieces (~150g)                   390.0        18.0       22.0     26.0
+36    Tamale                                                  2 pieces (~200g)                   420.0        14.0       50.0     18.0
+37    Ziti                                                    1 plate (~250g)                    440.0        16.0       70.0     12.0
+38    Scotch Egg                                              1 egg (~140g)                      300.0        14.0       12.0     20.0
+39    Sukiyaki                                                1 bowl (~300g)                     310.0        22.0       18.0     17.0
+40    Moussaka                                                1 serving (~300g)                  450.0        24.0       28.0     28.0
+41    Fruitcake                                               1 slice (~80g)                     300.0         3.0       52.0     10.0
+42    Osso Buco                                               1 shank + sauce (~350g)            465.0        54.0       14.0     22.0
+43    Sabudana Vada                                           3 pieces (~105g)                   327.0         5.0       40.0     16.0
+44    Syllabub                                                1 glass (~150g)                    360.0         2.0       22.0     28.0
+45    Tetrazzini (Chicken)                                    1 plate (~300g)                    495.0        26.0       39.0     25.5
+46    Tagliatelle                                             1 plate (~250g)                    380.0        13.0       68.0      8.0
+47    Entrecote                                               1 steak (~200g)                    450.0        30.0        0.0     35.0
+48    Streusel                                                1 serving (~100g)                  380.0         4.0       52.0     17.0
+49    Victoria Sandwich                                       1 slice (~100g)                    390.0         4.0       46.0     20.0
+50    Vermicelli                                              1 plate (~180g)                    285.0         9.0       57.0      3.0
+51    Pilaf                                                   1 plate (~250g)                    350.0         8.5       61.0      7.8
+52    Galantine                                               1 serving (~200g)                  310.0        28.0        8.0     18.0
+53    Sloppy Joe                                              1 sandwich (~250g)                 430.0        21.0       50.0     16.0
+54    Sauerkraut                                              1 cup (~142g)                       27.0         1.3        6.1      0.2
+55    Rock Cake                                               1 piece (~85g)                     310.0         5.0       44.0     13.0
+56    Pot Pie (Chicken)                                       1 serving (~240g)                  477.0        12.0       46.0     28.0
+57    Shirred Egg                                             2 eggs (~120g)                     210.0        13.0        2.0     16.0
+58    Sponge Cake                                             1 slice (~80g)                     238.0         5.8       46.0      4.4
+59    Besan Laddu                                             2 pieces (~100g)                   614.0        16.0       76.0     27.0
+60    Porridge (Oatmeal)                                      1 bowl (~250g)                     150.0         5.0       27.0      2.5
+61    Scrambled Eggs                                          2 eggs (~120g)                     182.0        12.0        2.0     14.0
+62    Fried Egg                                               2 eggs (~92g)                      180.0        12.6        0.8     14.0
+63    Beef Bourguignonne                                      1 bowl (~300g)                     450.0        44.0       16.0     22.0
+64    Tapenade                                                4 tbsp (~60g)                      160.0         1.0        4.0     16.0
+65    Gyro                                                    1 pita (~300g)                     490.0        31.0       40.0     22.0
+66    Carbonnade Flamande                                     1 bowl (~300g)                     410.0        32.0       18.0     22.0
+67    Jerky (Beef)                                            1 bag (~90g)                       261.0        33.0       17.0      7.0
+68    Tortellini                                              1 plate (~250g)                    380.0        16.0       54.0     11.0
+69    Reuben Sandwich                                         1 sandwich (~280g)                 520.0        28.0       44.0     26.0
+70    Cruller                                                 1 piece (~65g)                     260.0         4.0       28.0     15.0
+71    Stuffed Cabbage                                         3 rolls (~300g)                    390.0        24.0       30.0     18.0
+72    Curry Goat                                              1 bowl (~300g)                     450.0        38.0       12.0     28.0
+73    Japchae                                                 1 plate (~250g)                    320.0         8.0       54.0      9.0
+74    Manicotti                                               2 pieces (~280g)                   420.0        20.0       48.0     16.0
+75    Green Bean Casserole                                    1 cup (~245g)                      230.0         5.0       22.0     14.0
+76    Hokkien Mee                                             1 plate (~350g)                    450.0        22.0       52.0     18.0
+77    Cream Pie                                               1 slice (~140g)                    490.0         5.8       53.0     29.0
+78    Gołąbki (Cabbage Rolls)                                 3 rolls (~300g)                    440.0        24.0       32.0     22.0
+79    Hae Mee (Prawn Mee)                                     1 bowl (~400g)                     430.0        28.0       52.0     12.0
+80    Mozzarella Sticks                                       4 sticks (~113g)                   370.0        18.0       28.0     21.0
+81    Poi                                                     1 cup (~227g)                      180.0         2.0       43.0      0.2
+82    Savarin                                                 1 serving (~120g)                  340.0         5.0       48.0     14.0
+83    Tourtière                                               1 slice (~200g)                    490.0        20.0       32.0     30.0
+84    Chocolate Covered Strawberries                          5 pieces (~100g)                   180.0         1.5       24.0      9.0
+85    Crab Rangoon                                            4 pieces (~80g)                    240.0         8.0       24.0     13.0
+86    Dinuguan                                                1 bowl (~250g)                     275.0        30.0        7.5     15.0
+87    Fish Sticks                                             4 sticks (~112g)                   280.0        18.0       22.0     13.0
+88    Fruit Curd (Lemon Curd)                                 2 tbsp (~40g)                      120.0         1.0       18.0      5.0
+89    Konnyaku (Konjac)                                       1 serving (~150g)                   10.0         0.2        2.0      0.0
+90    Bouillabaisse                                           1 bowl (~400g)                     280.0        32.0       14.0     10.0
+91    Dirty Rice                                              1 cup (~200g)                      280.0        10.0       36.0     10.0
+92    Gulai Ayam                                              1 bowl (~300g)                     390.0        30.0       10.0     26.0
+93    Lemonade                                                1 glass (~240ml)                    99.0         0.2       26.0      0.2
+94    Mutton Handi                                            1 bowl (~300g)                     460.0        38.0       10.0     30.0
+95    Paupiette                                               2 rolls (~200g)                    340.0        28.0        8.0     22.0
+96    Pineapple Tart                                          3 pieces (~75g)                    310.0         3.0       42.0     14.0
+97    Pizza Carbonara                                         2 slices (~200g)                   520.0        22.0       52.0     24.0
+98    Tobiko (Flying Fish Roe)                                2 tbsp (~28g)                       40.0         4.0        2.0      1.5
+99    Vol-au-Vent                                             2 pieces (~150g)                   380.0        12.0       28.0     24.0
+100   Æbleflæsk (Danish Apple Pork)                           1 serving (~200g)                  420.0        22.0       18.0     30.0
+101   Bistek (Tagalog)                                        1 serving (~200g)                  380.0        32.0       10.0     22.0
+102   Chakli                                                  5 pieces (~75g)                    375.0         7.5       45.0     22.5
+103   Es Pisang Ijo                                           1 serving (~250g)                  280.0         4.0       52.0      7.0
+104   Flan                                                    1 ramekin (~150g)                  295.0         8.0       46.0      8.5
+105   Gyutan (Grilled Beef Tongue)                            1 serving (~120g)                  257.0        14.4        0.0     18.0
+106   Menudo                                                  1 bowl (~300g)                     360.0        34.0       24.0     14.0
+107   Sausage and Peppers                                     1 plate (~300g)                    420.0        20.0       18.0     30.0
+108   Sliced Fish Soup                                        1 bowl (~400g)                     200.0        24.0       10.0      6.0
+109   Cebolada (Portuguese Onion Beef)                        1 serving (~250g)                  310.0        24.0       16.0     18.0
+110   Charqui (Dried Beef)                                    1 serving (~80g)                   240.0        36.0        4.0      8.0
+111   Cheese Fries                                            1 serving (~200g)                  540.0        14.0       54.0     30.0
+112   Katsudon                                                1 bowl (~400g)                     678.0        28.0       82.0     24.0
+113   Pappa al Pomodoro                                       1 bowl (~300g)                     280.0         8.0       40.0     10.0
+114   Pasteis de Bacalhau                                     3 pieces (~120g)                   280.0        14.0       26.0     14.0
+115   Porchetta                                               1 serving (~150g)                  420.0        30.0        4.0     32.0
+116   Princess Cake                                           1 slice (~120g)                    390.0         5.0       44.0     21.0
+117   Spanish Rice                                            1 cup (~200g)                      280.0         6.0       48.0      8.0
+118   Boiled Beef                                             1 serving (~200g)                  340.0        42.0        0.0     18.0
+119   Chicken Provençale                                      1 plate (~300g)                    360.0        38.0       12.0     18.0
+120   Dong'an Chicken                                         1 plate (~250g)                    320.0        28.0       14.0     18.0
+121   Drunken Chicken                                         1 serving (~200g)                  290.0        28.0        6.0     16.0
+122   Pork Tenderloin Sandwich                                1 sandwich (~250g)                 480.0        28.0       42.0     22.0
+123   Chocolate Marshmallow Pie                               1 slice (~120g)                    430.0         5.0       62.0     18.0
+124   Pakora                                                  6 pieces (~150g)                   315.0         7.3       25.0     20.6
+125   Pavlova                                                 1 slice (~150g)                    290.0         4.0       50.0      8.0
+126   Poached Egg                                             2 eggs (~100g)                     144.0        12.0        0.8     10.0
+127   Avocado Fries                                           1 serving (~150g)                  340.0         4.0       28.0     24.0
+128   Bibingka                                                1 piece (~120g)                    250.0         5.0       40.0      8.0
+129   Bugnes (French Fritter)                                 3 pieces (~90g)                    340.0         5.0       44.0     16.0
+130   Eggplant Omelette (Tortang Talong)                      1 serving (~200g)                  220.0        10.0       12.0     15.0
+131   Hoppin' John                                            1 bowl (~250g)                     380.0        14.0       60.0     10.0
+132   Jambonneau (Ham Hock)                                   1 serving (~200g)                  380.0        34.0        0.0     26.0
+133   Rou Jia Mo (Chinese Pork Burger)                        1 sandwich (~200g)                 420.0        24.0       48.0     14.0
+134   Bandeja Paisa                                           1 plate (~500g)                   1100.0        58.0      110.0     46.0
+135   Oysters Rockefeller                                     6 oysters (~180g)                  310.0        14.0       20.0     18.0
+136   Sweet Potato Pie                                        1 slice (~140g)                    340.0         5.0       52.0     13.0
+137   Sopa de Mandioca (Cassava Soup)                         1 bowl (~300g)                     220.0         8.0       36.0      6.0
+138   Çiğ Köfte                                               1 plate (~200g)                    260.0         6.0       42.0      8.0
+139   Arròs Negre (Squid Ink Rice)                            1 plate (~300g)                    420.0        22.0       58.0     12.0
+140   Buffalo Wings                                           6 wings (~180g)                    430.0        36.0        6.0     28.0
+141   Ikan Goreng (Fried Fish)                                1 serving (~200g)                  320.0        34.0        8.0     16.0
+142   Pâté                                                    2 tbsp (~50g)                      170.0         7.0        2.0     14.0
+143   Rigatoni                                                1 plate (~250g)                    400.0        14.0       72.0      8.0
+144   Soft-Shell Crab (Fried)                                 2 crabs (~150g)                    310.0        18.0       22.0     16.0
+145   Baked Alaska                                            1 slice (~150g)                    380.0         6.0       62.0     12.0
+146   Bean Pie                                                1 slice (~120g)                    320.0         8.0       52.0     10.0
+147   Coffee Jelly                                            1 serving (~200g)                  160.0         3.0       36.0      2.0
+148   Mission Burrito                                         1 burrito (~400g)                  750.0        36.0       88.0     28.0
+149   Peanut Soup                                             1 bowl (~300g)                     420.0        14.0       26.0     30.0
+150   Penne                                                   1 plate (~250g)                    380.0        13.0       68.0      7.0
+151   Carrot Bread                                            1 slice (~60g)                     180.0         3.0       27.0      6.0
+152   Coq au Vin                                              1 serving (~350g)                  450.0        30.0       15.0     25.0
+153   Fried Cheese                                            1 serving (~100g)                  381.0        17.0       20.0     27.0
+154   Peach Melba                                             1 serving (~200g)                  317.0         3.0       62.0      7.0
+155   Fishcake                                                1 cake (~85g)                      200.0        12.0       15.0     10.0
+156   Ikan Bakar                                              1 serving (~150g)                  390.0        27.0       23.0     16.0
+157   Lohikeitto                                              1 bowl (~350g)                     236.0        10.0       13.0     15.4
+158   Rice Cakes                                              2 cakes (~18g)                     380.0         9.0       77.0      3.0
+159   Carrot Chips                                            1 serving (~30g)                   350.0         4.0       55.0     12.0
+160   Lebkuchen                                               1 cookie (~33g)                    394.0         6.0       67.0     12.0
+161   White Boiled Shrimp                                     1 serving (~100g)                   99.0        21.0        0.0      1.0
+162   Onigiri                                                 1 piece (~100g)                    168.0         3.5       37.0      0.3
+163   Pongal                                                  1 serving (~212g)                  212.0         5.5       29.0      8.2
+164   Rendang                                                 1 serving (~150g)                  350.0        20.0       10.0     25.0
+165   Twix                                                    1 bar (~58g)                       502.0         4.9       64.8     24.9
+166   Corn Crab Soup                                          1 cup (~238g)                      146.0         9.7       19.4      4.9
+167   Mushroom Gravy                                          ¼ cup (~60g)                        60.0         1.5        7.0      3.0
+168   Tomato Soup                                             1 cup (~245g)                       72.0         1.8       15.0      1.5
+169   Chilli Crab                                             1 serving (~250g)                  220.0        16.0       12.0     12.0
+170   Strawberry Sundae                                       1 sundae (~150g)                   192.0         3.0       27.0      8.0
+171   Mirchi ka Salan                                         ½ cup (~120g)                      220.0         5.0        9.0     18.0
+172   Spätzle                                                 1 cup (~136g)                      178.0         6.1       34.0      2.9
+173   Wakame                                                  ½ cup (~40g)                        45.0         3.0        9.0      0.6
+174   Avocado Key Lime Pie                                    1 slice (~125g)                    300.0         5.0       38.0     14.0
+175   Red Bean Cake                                           1 piece (~80g)                     280.0         5.5       50.0      6.0
+176   Soufflé                                                 1 serving (~100g)                  180.0         9.0       12.0     11.0
+177   Bon Bon Chicken                                         1 serving (~150g)                  308.0        30.0        9.0     16.2
+178   Carrot Cake Cookie                                      1 cookie (~40g)                    415.0         5.0       55.0     19.0
+179   Rogan Josh                                              1 serving (~200g)                  306.0        26.6        9.8     17.2
+180   Upside Down Cake                                        1 slice (~120g)                    330.0         3.5       50.0     13.0
+181   Café Liégeois                                           1 serving (~150g)                  220.0         4.0       28.0     11.0
+182   Strawberry Ice Cream                                    ½ cup (~66g)                       207.0         3.5       24.0     11.0
+183   Denver Sandwich                                         1 sandwich (~250g)                 406.0        23.0       35.0     19.0
+184   Medu Vada                                               2 pieces (~80g)                    170.0         6.0       22.0     10.0
+185   Ciambelle                                               1 piece (~60g)                     380.0         8.0       58.0     13.0
+186   Fish Head Curry                                         1 serving (~200g)                  145.0        15.0        6.0      7.0
+187   Stuffed Avocado                                         1 half (~150g)                     180.0         5.0        9.0     15.0
+188   Bubble and Squeak                                       1 patty (~150g)                    127.0         3.0       16.0      6.0
+189   Chicken Noodle Soup                                     1 cup (~245g)                       62.0         3.0        7.0      2.0
+190   Misal Pav                                               1 plate (~289g)                    289.0         8.7       24.5     17.4
+191   Red Slaw                                                ½ cup (~80g)                        80.0         1.5        8.0      5.0
+192   Sicilian Orange Salad                                   1 serving (~150g)                   90.0         1.5       14.0      3.5
+193   Mee Pok                                                 1 serving (~200g)                  260.0        10.0       50.0      3.0
+194   Whitebait                                               1 serving (~100g)                  434.0        19.5        5.3     47.5
+195   Bourbon Chicken                                         1 serving (~150g)                  285.0        27.0       21.0      9.0
+196   Chicken Fingers                                         3 pieces (~90g)                    230.0        16.0       15.0     11.0
+197   Pączki                                                  1 piece (~75g)                     387.0         6.0       55.0     15.0
+198   Apple Turnover                                          1 piece (~85g)                     330.0         4.0       43.0     16.0
+199   Chicken Marsala                                         1 serving (~200g)                  195.0        20.0        8.0     10.0
+200   Bacon Explosion                                         1 slice (~100g)                    400.0        22.0        2.0     34.0
+201   Chop Suey                                               1 cup (~220g)                      125.0         8.0       10.0      6.0
+202   Francesinha                                             1 serving (~350g)                  310.0        20.0       22.0     16.0
+203   Asam Pedas                                              1 serving (~200g)                  100.0        12.0        5.0      4.0
+204   Grits                                                   1 cup cooked (~242g)                71.0         1.7       15.0      0.5
+205   Pound Cake                                              1 slice (~55g)                     388.0         5.0       53.0     18.0
+206   Brisket                                                 1 serving (~85g)                   279.0        28.0        0.0     18.0
+207   Duck Soup Noodles                                       1 bowl (~400g)                     180.0        12.0       22.0      5.0
+208   Vegetarian Chili                                        1 cup (~250g)                      100.0         5.5       14.0      2.0
+209   Chili                                                   1 cup (~250g)                      150.0        10.0       12.0      7.0
+210   Crumpet                                                 1 piece (~40g)                     198.0         6.5       38.0      1.5
+211   Turnip Cake                                             2 pieces (~100g)                   170.0         3.5       27.0      5.5
+212   Seafood Boil                                            1 serving (~300g)                  180.0        18.0        5.0     10.0
+213   Prawn Soup                                              1 cup (~240g)                       50.0         5.0        4.0      1.5
+214   Stuffed Mushrooms                                       4 pieces (~120g)                   130.0         5.5        8.0      9.0
+215   Ayam Betutu                                             1 serving (~150g)                  220.0        22.0        5.0     13.0
+216   Confit                                                  1 serving (~100g)                  420.0        25.0        0.0     36.0
+217   Lobster                                                 1 serving (~85g)                    89.0        19.0        0.0      1.5
+218   Tempura                                                 4 pieces (~100g)                   280.0         9.0       26.0     16.0
+219   Butter Pie                                              1 slice (~150g)                    330.0         7.0       35.0     18.0
+220   Bún Ốc                                                  1 bowl (~400g)                      90.0         7.0       10.0      2.0
+221   Limpet                                                  1 serving (~100g)                   95.0        18.0        2.0      2.0
+222   Tenderloin                                              1 serving (~85g)                   271.0        26.0        0.0     18.0
+223   Nattō                                                   1 pack (~50g)                      211.0        17.7       14.4     11.0
+224   Wonton                                                  6 pieces (~90g)                    150.0         7.0       18.0      5.0
+225   Beef Stroganoff                                         1 cup (~200g)                      185.0        14.0        6.0     12.0
+226   Poori                                                   2 pieces (~60g)                    336.0         7.0       40.0     16.0
+227   Puri Bhaji                                              1 plate (~200g)                    280.0         7.0       35.0     13.0
+228   Taro Dumpling                                           3 pieces (~90g)                    240.0         5.0       28.0     12.0
+229   Beef Bun                                                1 bun (~80g)                       300.0        12.0       38.0     11.0
+230   Gingerbread                                             1 piece (~40g)                     365.0         4.5       70.0      8.0
+231   Boston Cream Pie                                        1 slice (~100g)                    310.0         5.0       46.0     12.0
+232   Champurrado                                             1 cup (~240g)                      100.0         2.5       19.0      2.5
+233   Aligot                                                  ½ cup (~120g)                      260.0        10.0       25.0     14.0
+234   Crab Puff                                               2 pieces (~80g)                    290.0         9.0       28.0     16.0
+235   Nasi Kuning                                             1 serving (~200g)                  165.0         3.5       35.0      1.5
+236   Suckling Pig                                            1 serving (~100g)                  295.0        23.0        0.0     22.0
+237   Coquilles Saint-Jacques                                 1 serving (~150g)                  180.0        16.0        8.0      9.0
+238   Cottage Pie                                             1 serving (~250g)                  130.0         8.5       10.0      6.0
+239   Apple Dumpling                                          1 piece (~150g)                    280.0         3.0       45.0     10.0
+240   Botan-ebi                                               1 serving (~85g)                    95.0        18.0        1.0      2.0
+241   Pig's Trotters                                          1 serving (~100g)                  240.0        19.0        0.0     18.0
+242   Laddu                                                   1 piece (~50g)                     450.0         7.0       65.0     18.0
+243   Okinawa Soba                                            1 bowl (~350g)                     155.0         9.0       26.0      2.0
+244   Barbecued Spareribs                                     1 serving (~140g)                  310.0        22.0        8.0     21.0
+245   Sheep's Trotters                                        1 serving (~100g)                  210.0        20.0        0.0     15.0
+246   Syrniki                                                 3 cakes (~120g)                    230.0        12.0       22.0     10.0
+247   Frittata                                                1 serving (~120g)                  170.0        13.0        3.0     12.0
+248   Vindaloo                                                1 serving (~200g)                  175.0        18.0        6.0      9.0
+249   Croissant                                               1 medium (~57g)                    406.0         8.0       46.0     21.0
+250   Lettuce Soup                                            1 bowl (~300g)                      35.0         2.0        4.0      1.5
+251   Refried Beans                                           ½ cup (~120g)                      108.0         6.0       16.3      2.4
+252   Apple Cobbler                                           1 serving (~150g)                  265.0         2.5       48.0      7.5
+253   Naengmyeon                                              1 bowl (~400g)                     125.0         4.0       25.0      1.0
+254   Strudel                                                 1 slice (~100g)                    274.0         3.3       40.5     11.0
+255   Cannelloni                                              2 tubes (~200g)                    157.0         6.3       18.4      6.5
+256   Orange Chicken                                          1 serving (~150g)                  262.0        14.5       22.0     13.0
+257   Chowder                                                 1 cup (~245g)                      102.0         4.5       12.0      4.0
+258   Sapo Tahu                                               1 serving (~200g)                  118.0         8.0        7.0      6.5
+259   Shrimp Toast                                            2 pieces (~80g)                    320.0        10.0       22.0     20.0
+260   Boiled Egg                                              1 large egg (~50g)                 155.0        13.0        1.1     11.0
+261   Ham and Eggs                                            1 serving (~150g)                  195.0        16.0        2.0     14.0
+262   Prawn Cocktail                                          1 serving (~150g)                   85.0        13.5        5.0      2.0
+263   Chicken Cacciatore                                      1 cup (~244g)                      109.0         9.3        4.8      5.4
+264   Parmigiana                                              1 serving (~200g)                  175.0        11.0       10.0     10.0
+265   Bánh Bò                                                 1 piece (~80g)                     240.0         3.5       45.0      5.0
+266   Es Campur                                               1 glass (~350g)                    185.0         2.5       38.0      4.0
+267   Stew Peas                                               1 cup (~250g)                      148.0         9.0       18.0      4.5
+268   Bacon Lettuce Tomato Sandwich                           1 sandwich (~180g)                 248.0        11.0       27.0     11.0
+269   Cherry Ice Cream                                        ½ cup (~66g)                       207.0         3.5       24.0     11.0
+270   Corn Tortilla                                           1 tortilla (~28g)                  218.0         5.5       45.0      2.5
+271   Dolmas                                                  4 pieces (~100g)                   133.0         2.9       16.7      6.7
+272   Set Dosa                                                2 dosas (~160g)                    188.0         5.2       32.0      5.5
+273   Avocado Sauce                                           2 tbsp (~30g)                      160.0         2.0        7.0     14.0
+274   Arancini                                                2 balls (~120g)                    300.0         8.0       37.0     13.0
+275   Sweet Saffron Rice                                      1 cup (~185g)                      220.0         4.0       46.0      3.0
+276   Fettuccine                                              1 cup cooked (~140g)                99.0         6.2       20.0      2.1
+277   Melt Sandwich                                           1 sandwich (~200g)                 295.0        16.0       28.0     13.0
+278   Sev Puri                                                6 puris (~100g)                    315.0         6.5       42.0     13.0
+279   Wenchang Chicken                                        1 serving (~150g)                  195.0        22.0        2.0     11.0
+280   Crayfish                                                1 serving (~85g)                    77.0        16.0        0.0      1.1
+281   Terrine                                                 1 slice (~80g)                     210.0        14.0        2.0     16.0
+282   Red Bean Ice                                            1 cup (~250g)                      160.0         3.5       32.0      3.0
+283   Bánh Canh                                               1 bowl (~400g)                     140.0         8.5       22.0      3.0
+284   Bhindi Masala                                           1 cup (~150g)                      125.0         3.5       12.0      7.5
+285   Custard                                                 ½ cup (~120g)                      122.0         4.0       16.5      4.5
+286   Chiles en Nogada                                        1 chile (~200g)                    215.0         9.0       22.0     11.0
+287   Linguine                                                1 cup cooked (~140g)               131.0         5.5       26.0      1.0
+288   Minestrone                                              1 cup (~245g)                       82.0         4.5       11.5      2.0
+289   Brown Stew Chicken                                      1 serving (~200g)                  185.0        20.0        6.0      9.0
+290   Cheese Maki                                             6 pieces (~100g)                   210.0         7.0       30.0      7.0
+291   Ham and Cheese Sandwich                                 1 sandwich (~150g)                 310.0        17.0       26.0     14.0
+292   Ginger Beef                                             1 serving (~150g)                  245.0        18.0       14.0     13.0
+293   Meatball                                                3 pieces (~90g)                    248.0        16.0        8.0     17.0
+294   Cassoulet                                               1 cup (~250g)                      153.0        10.5       14.0      6.0
+295   Chicken Cordon Bleu                                     1 piece (~140g)                    229.0        21.0       11.0     11.0
+296   Chicken Parmigiana                                      1 serving (~200g)                  204.0        21.0        9.0      9.5
+297   Plateau de Fruits de Mer                                1 serving (~300g)                  100.0        18.0        3.0      2.5
+298   Babi Panggang                                           1 serving (~150g)                  280.0        22.0        4.0     20.0
+299   Crumble                                                 1 serving (~120g)                  290.0         3.5       45.0     11.0
+300   Italian Tomato Pie                                      1 slice (~150g)                    240.0         8.5       32.0      9.0
+301   Thukpa                                                  1 bowl (~400g)                     130.0         9.0       18.0      3.5
+302   Caldo Verde                                             1 bowl (~300g)                      75.0         3.5       10.0      2.5
+303   Sambar                                                  1 cup (~240g)                       60.0         3.5        8.5      1.5
+304   Colcannon                                               1 cup (~200g)                      150.0         4.0       22.0      5.5
+305   Dandan Noodles                                          1 bowl (~300g)                     280.0        14.0       32.0     11.0
+306   Lemon Meringue Pie                                      1 slice (~100g)                    325.0         4.5       56.0      9.5
+307   Rice and Peas                                           1 cup (~200g)                      205.0         5.5       40.0      3.5
+308   Stinky Tofu                                             1 serving (~100g)                  145.0        10.0        5.0      9.5
+309   Beef Chow Fun                                           1 serving (~280g)                  185.0        11.0       22.0      6.5
+310   Red Beans and Rice                                      1 cup (~200g)                      195.0         8.5       35.0      3.0
+311   Ayam Goreng                                             1 piece (~100g)                    260.0        20.0       10.0     16.0
+312   Tsukemono                                               ¼ cup (~50g)                        20.0         1.0        4.0      0.1
+313   Unagi                                                   1 serving (~85g)                   184.0        18.4        0.0     11.5
+314   Farfalle                                                1 cup cooked (~140g)               131.0         5.0       27.0      0.5
+315   Cockle                                                  1 serving (~100g)                   79.0        13.0        2.0      1.5
+316   Milk Shake                                              1 cup (~300g)                      112.0         3.5       18.0      3.5
+317   Pot Roast                                               1 serving (~170g)                  218.0        25.0        3.0     12.0
+318   Corn Pudding                                            ½ cup (~120g)                      175.0         4.0       28.0      6.0
+319   She-Crab Soup                                           1 cup (~245g)                      145.0         9.0        8.0      9.0
+320   Torte                                                   1 slice (~100g)                    380.0         6.0       42.0     21.0
+321   Coda alla Vaccinara                                     1 serving (~250g)                  195.0        18.0        8.0     11.0
+322   Chazuke                                                 1 bowl (~350g)                      80.0         4.5       14.0      1.0
+323   Egg Roll                                                1 roll (~85g)                      220.0         7.5       24.0     10.0
+324   Vitello Tonnato                                         1 serving (~150g)                  215.0        22.0        3.0     13.0
+325   Croquette                                               2 pieces (~80g)                    250.0         8.0       22.0     14.5
+326   Blackberry Pie                                          1 slice (~125g)                    290.0         3.0       44.0     11.0
+327   Bún Bò Huế                                              1 bowl (~500g)                     120.0         8.5       14.0      4.0
+328   Cheese Pudding                                          ½ cup (~120g)                      215.0        11.0       12.0     13.0
+329   Banana Pancakes                                         2 pancakes (~120g)                 245.0         5.5       38.0      8.5
+330   Clam                                                    1 serving (~85g)                    74.0        12.8        2.6      1.0
+331   Andong Jjimdak                                          1 serving (~250g)                  185.0        17.0       14.0      7.5
+332   Tafelspitz                                              1 serving (~200g)                  170.0        24.0        2.0      8.0
+333   Arab Salad                                              1 cup (~200g)                       80.0         2.0        8.0      5.0
+334   Pommes Dauphine                                         6 pieces (~100g)                   265.0         5.0       28.0     14.5
+335   Pasta (plain)                                           1 cup cooked (~140g)               131.0         5.0       25.0      1.0
+336   Plum Cake                                               1 slice (~100g)                    350.0         5.0       52.0     13.5
+337   Kadhi                                                   1 cup (~240g)                      120.0         4.5       10.0      7.0
+338   Corn Dog                                                1 dog (~75g)                       260.0         7.0       26.0     14.0
+339   Suanmeitang                                             1 cup (~250g)                       50.0         0.5       12.0      0.1
+340   Barbecued Wing                                          3 wings (~120g)                    285.0        22.0        8.0     18.0
+341   Cheese Roll                                             1 roll (~80g)                      290.0        11.0       30.0     14.0
+342   Crudo                                                   1 serving (~100g)                   95.0        16.0        1.0      3.0
+343   Corn Chip                                               1 oz (~28g)                        520.0         7.0       58.0     29.0
+344   Tinga                                                   1 serving (~150g)                  185.0        16.0        8.0     10.0
+345   Fritter                                                 2 pieces (~80g)                    280.0         5.5       30.0     15.0
+346   Kung Pao Chicken                                        1 cup (~200g)                      129.0         9.8        6.0      7.5
+347   Zürcher Geschnetzeltes                                  1 serving (~200g)                  220.0        20.0        5.0     13.5
+348   Crab                                                    1 serving (~85g)                    84.0        17.4        0.0      1.5
+349   Enchilada                                               1 enchilada (~170g)                213.0        10.0       24.0      8.5
+350   Chicken and Waffles                                     1 serving (~250g)                  340.0        22.0       32.0     14.0
+351   Chili_con_carne                                         1 cup (~250g)                      270.0        15.0       22.0      9.0
+352   Mutton_korma                                            1 cup (~250g)                      420.0        24.0       10.0     33.0
+353   Couscous                                                1 cup cooked (~157g)               176.0         6.0       36.0      0.3
+354   Crab_in_Padang_sauce                                    1 serving (~300g)                  380.0        28.0       22.0     18.0
+355   Bacon_egg_and_cheese_sandwich                           1 sandwich (~150g)                 400.0        18.0       30.0     20.0
+356   Adobo                                                   1 serving (~200g)                  300.0        25.0        5.0     20.0
+357   Mì_Quảng                                                1 bowl (~350g)                     550.0        28.0       65.0     20.0
+358   Coconut_cream                                           1/4 cup (~60g)                     198.0         2.0        4.0     21.0
+359   Mushy_peas                                              1 serving (~100g)                   98.0         6.0       16.0      0.4
+360   Pork_tenderloin                                         3 oz cooked (~85g)                 122.0        22.0        0.0      3.0
+361   Pasta_alla_Norma                                        1 serving (~350g)                  480.0        16.0       68.0     17.0
+362   Crumb_cake                                              1 slice (~92g)                     340.0         5.0       56.0     10.0
+363   Orzo                                                    1 cup cooked (~157g)               221.0         8.0       44.0      1.3
+364   Soba                                                    1 cup cooked (~114g)               113.0         6.0       24.0      0.1
+365   Banana_split                                            1 serving (~400g)                  800.0        10.0      120.0     30.0
+366   Compote                                                 1/2 cup (~125g)                    107.0         1.0       27.0      0.3
+367   Kheer                                                   1 cup (~250g)                      308.0        11.0       35.0     15.0
+368   Chiffon_cake                                            1 slice (~80g)                     250.0         5.0       38.0      9.0
+369   Fish_chowder                                            1 cup (~244g)                      276.0        20.0       15.0     15.0
+370   Lentil_soup                                             1 cup (~250g)                      180.0        10.0       25.0      4.0
+371   Coffee_cake                                             1 slice (~58g)                     189.0         3.0       29.0      8.0
+372   Pasta_al_pomodoro                                       1 serving (~300g)                  350.0        12.0       60.0      8.0
+373   Currywurst                                              1 serving (~138g)                  341.0        13.0       18.0     25.0
+374   Oyster_omelette                                         1 serving (~200g)                  320.0        15.0       25.0     18.0
+375   Cobbler_food                                            1 serving (~150g)                  350.0         3.0       55.0     13.0
+376   Cheese_bun                                              1 bun (~100g)                      320.0        10.0       42.0     13.0
+377   Casserole                                               1 cup (~240g)                      300.0        18.0       22.0     15.0
+378   Huitre (Oysters)                                        6 medium (~84g)                     57.0         6.0        3.0      2.0
+379   Cherry_pie                                              1 slice (~125g)                    325.0         3.0       50.0     14.0
+380   Anzac_biscuit                                           1 biscuit (~30g)                   132.0         2.0       18.0      6.0
+381   Broccoli_slaw                                           1 cup (~140g)                      130.0         3.0       15.0      7.0
+382   Cotoletta                                               1 piece (~150g)                    380.0        27.0       18.0     22.0
+383   Soused_herring                                          1 fillet (~75g)                    145.0        15.0        3.0      8.0
+384   Black_pepper_crab                                       1 serving (~300g)                  350.0        30.0       10.0     20.0
+385   Pizza_pugliese                                          1 slice (~120g)                    280.0        11.0       35.0     10.0
+386   Stir-fried_tomato_and_scrambled_eggs                    1 serving (~200g)                  210.0        12.0       10.0     14.0
+387   Torta_caprese                                           1 slice (~100g)                    400.0         7.0       35.0     27.0
+388   Green_papaya_salad                                      1 cup (~200g)                      100.0         2.0       20.0      2.0
+389   Har_gow                                                 4 pieces (~80g)                    130.0         8.0       16.0      4.0
+390   Kaju_katli                                              2 pieces (~30g)                    160.0         3.0       22.0      8.0
+391   Strawberry_jam                                          1 tbsp (~20g)                       56.0         0.0       14.0      0.0
+392   Carrot_juice                                            1 cup (~236ml)                      94.0         2.0       22.0      0.3
+393   Beef_noodle_soup                                        1 bowl (~400g)                     450.0        28.0       50.0     13.0
+394   Michigan_hot_dog                                        1 dog (~150g)                      380.0        14.0       32.0     22.0
+395   Avocado_bread (Avocado Toast)                           1 slice (~150g)                    290.0         7.0       30.0     17.0
+396   Calamari                                                1 serving (~85g)                   149.0        15.0        7.0      7.0
+397   Christmas_cake                                          1 slice (~80g)                     320.0         4.0       56.0     10.0
+398   Payasam                                                 1 cup (~250g)                      280.0         7.0       45.0      9.0
+399   Pork_Knuckles_and_Ginger_Stew                           1 serving (~300g)                  520.0        35.0       18.0     35.0
+400   Rajma_chawal                                            1 plate (~400g)                    480.0        18.0       80.0      8.0
+401   Crab_dip                                                2 tbsp (~30g)                       90.0         5.0        2.0      7.0
+402   Bánh_chuối (Banana cake/pudding)                        1 serving (~150g)                  290.0         4.0       45.0     10.0
+403   Bún_riêu                                                1 bowl (~400g)                     380.0        22.0       45.0     10.0
+404   Fricassee                                               1 serving (~250g)                  380.0        30.0       10.0     24.0
+405   Fuqi_feipian                                            1 serving (~150g)                  280.0        20.0        8.0     19.0
+406   White_cut_chicken                                       1 serving (~150g)                  235.0        30.0        1.0     12.0
+407   Galbi (Korean short ribs)                               1 serving (~200g)                  540.0        38.0       10.0     38.0
+408   Strawberry_pie                                          1 slice (~125g)                    310.0         3.0       46.0     13.0
+409   Corned_beef_sandwich                                    1 sandwich (~200g)                 430.0        22.0       40.0     20.0
+410   Char_kway_teow                                          1 plate (~300g)                    520.0        20.0       65.0     20.0
+411   Yuxiangrousi (Fish-fragrant shredded pork)              1 serving (~200g)                  280.0        20.0       15.0     16.0
+412   Gravlax                                                 3 oz (~85g)                        130.0        14.0        1.0      8.0
+413   Korean_fried_chicken                                    1 serving (~200g)                  480.0        30.0       28.0     28.0
+414   Sausage_sandwich                                        1 sandwich (~200g)                 500.0        20.0       40.0     28.0
+415   Sardine                                                 1 can (~92g)                       190.0        23.0        0.0     11.0
+416   Hiyayakko (Cold tofu)                                   1 serving (~150g)                   75.0         8.0        3.0      4.0
+417   Carpaccio                                               1 serving (~85g)                   150.0        17.0        1.0      9.0
+418   Chicken_nugget                                          6 pieces (~100g)                   296.0        15.0       17.0     19.0
+419   Key_lime_pie                                            1 slice (~113g)                    330.0         6.0       48.0     14.0
+420   Raita                                                   1/2 cup (~120g)                     70.0         4.0        6.0      3.0
+421   Drunken_shrimp                                          1 serving (~200g)                  210.0        26.0        5.0      8.0
+422   Bubur_ayam (Chicken congee)                             1 bowl (~350g)                     280.0        18.0       35.0      6.0
+423   Creamed_eggs_on_toast                                   1 serving (~200g)                  320.0        14.0       28.0     17.0
+424   Peanut_butter_cookie                                    1 cookie (~40g)                    190.0         4.0       22.0     10.0
+425   Lemon_ice_box_pie                                       1 slice (~113g)                    340.0         5.0       48.0     15.0
+426   Cucumber_soup                                           1 cup (~240g)                       90.0         3.0        8.0      5.0
+427   Ants_climbing_a_tree (Mabo vermicelli)                  1 serving (~200g)                  360.0        18.0       32.0     17.0
+428   Denver_omelette                                         1 omelette (~220g)                 320.0        22.0        8.0     22.0
+429   Pork_ball                                               5 pieces (~100g)                   220.0        16.0        8.0     14.0
+430   Quiche_Lorraine                                         1 slice (~140g)                    370.0        14.0       22.0     26.0
+431   Panzanella                                              1 serving (~200g)                  230.0         5.0       28.0     12.0
+432   Pani_puri                                               6 pieces (~100g)                   180.0         4.0       30.0      5.0
+433   Steamed_rice                                            1 cup cooked (~186g)               242.0         4.0       53.0      0.4
+434   Rice_ball (Onigiri)                                     1 piece (~100g)                    185.0         4.0       40.0      0.5
+435   Fried_aubergine (Eggplant)                              1 cup (~100g)                      160.0         2.0        9.0     13.0
+436   Mee_siam                                                1 plate (~300g)                    420.0        16.0       65.0     10.0
+437   Bangers_and_mash                                        1 serving (~350g)                  520.0        20.0       45.0     28.0
+438   Buttercream                                             2 tbsp (~30g)                      150.0         0.0       18.0      9.0
+439   Hainanese_chicken_rice                                  1 plate (~400g)                    560.0        32.0       62.0     18.0
+440   Pig's_organ_soup                                        1 bowl (~350g)                     200.0        22.0        8.0      8.0
+441   Tomato_bredie (Lamb stew)                               1 serving (~300g)                  380.0        28.0       18.0     22.0
+442   Fish_head_casserole                                     1 serving (~350g)                  320.0        30.0       12.0     16.0
+443   Israeli_salad                                           1 cup (~150g)                       80.0         2.0        8.0      5.0
+444   Nasi_liwet                                              1 plate (~300g)                    480.0        15.0       68.0     16.0
+445   Shaker_Lemon_Pie                                        1 slice (~120g)                    380.0         5.0       58.0     15.0
+446   Svíčková (Czech beef sirloin)                           1 serving (~350g)                  550.0        35.0       40.0     25.0
+447   Cured_salmon                                            3 oz (~85g)                        130.0        18.0        0.0      6.0
+448   Eisbein (Pork knuckle)                                  1 serving (~300g)                  680.0        50.0        2.0     52.0
+449   Jewish_apple_cake                                       1 slice (~100g)                    360.0         5.0       52.0     15.0
+450   Butadon (Pork rice bowl)                                1 bowl (~350g)                     580.0        28.0       75.0     18.0
+451   Bisque_food                                             1 cup (~250g)                      300.0        13.0       18.0     18.0
+452   Queso_flameado                                          1 serving (~150g)                  443.0        29.0        2.0     34.0
+453   Ayam_bakar                                              1 serving (~200g)                  320.0        30.0        8.0     18.0
+454   Pipikaula (Hawaiian dried beef)                         1 serving (~85g)                   220.0        25.0        0.0     13.0
+455   Huangqiao_sesame_cake                                   1 piece (~80g)                     280.0         7.0       35.0     13.0
+456   Fish_steak                                              1 fillet (~180g)                   280.0        35.0        0.0     14.0
+457   Jiuniang (fermented rice wine)                          1/2 cup (~120g)                    130.0         2.0       28.0      0.5
+458   Pulled_pork                                             1 serving (~140g)                  250.0        22.0        0.0     15.0
+459   Pork_blood_soup                                         1 bowl (~350g)                     220.0        18.0       10.0     12.0
+460   Abalone                                                 3 oz (~85g)                         89.0        15.0        5.0      1.0
+461   Chinese_chicken_salad                                   1 serving (~300g)                  380.0        25.0       30.0     18.0
+462   Tuna_salad                                              1/2 cup (~120g)                    190.0        20.0        4.0     11.0
+463   Wonton_noodles                                          1 bowl (~350g)                     420.0        20.0       55.0     12.0
+464   Rava_dosa                                               2 pieces (~120g)                   220.0         5.0       32.0      8.0
+465   Coconut_shrimp                                          6 pieces (~150g)                   380.0        18.0       30.0     20.0
+466   Goulash                                                 1 cup (~250g)                      275.0        17.0       22.0     10.0
+467   Lemon_chicken                                           1 serving (~200g)                  350.0        30.0       18.0     16.0
+468   Fried_tofu                                              1 cup (~130g)                      220.0        17.0        8.0     14.0
+469   Kachori                                                 1 piece (~60g)                     180.0         4.0       22.0      9.0
+470   Sausage_bun                                             1 bun (~120g)                      310.0        12.0       35.0     14.0
+471   Olivier_salad                                           1 cup (~200g)                      290.0        10.0       20.0     19.0
+472   Sauerbraten                                             1 serving (~250g)                  420.0        38.0       18.0     22.0
+473   Toad_in_the_hole                                        1 serving (~250g)                  450.0        20.0       38.0     24.0
+474   Tuna_fish_sandwich                                      1 sandwich (~180g)                 380.0        25.0       36.0     14.0
+475   Baingan_bharta                                          1 cup (~200g)                      150.0         4.0       15.0      8.0
+476   Lemon_tart                                              1 slice (~100g)                    320.0         5.0       42.0     15.0
+477   Pea_soup                                                1 cup (~250g)                      185.0        11.0       28.0      4.0
+478   Dabeli                                                  1 piece (~120g)                    280.0         7.0       40.0     10.0
+479   Kakuni (braised pork belly)                             1 serving (~150g)                  450.0        22.0        8.0     37.0
+480   Mapo_doufu                                              1 serving (~200g)                  280.0        16.0       12.0     19.0
+481   Kedgeree                                                1 serving (~250g)                  380.0        25.0       42.0     11.0
+482   Mongolian_beef                                          1 serving (~200g)                  430.0        28.0       30.0     22.0
+483   Mango_pomelo_sago                                       1 cup (~250g)                      200.0         2.0       42.0      4.0
+484   Gejang (marinated raw crab)                             1 serving (~100g)                  120.0        18.0        4.0      4.0
+485   Potato_salad                                            1 cup (~200g)                      280.0         4.0       32.0     16.0
+486   Fish_ball                                               6 pieces (~100g)                   120.0        10.0       12.0      3.0
+487   Shanghai_fried_noodles                                  1 plate (~300g)                    480.0        18.0       65.0     16.0
+488   Fried_onion                                             1/4 cup (~30g)                     100.0         2.0       10.0      6.0
+489   Apple_strudel                                           1 serving (~120g)                  280.0         4.0       40.0     12.0
+490   Laksa                                                   1 bowl (~400g)                     580.0        22.0       58.0     30.0
+491   Jalebi                                                  3 pieces (~100g)                   300.0         3.0       55.0     10.0
+492   Salmon_pie                                              1 slice (~180g)                    380.0        22.0       30.0     18.0
+493   Doufunao (soy milk curd)                                1 bowl (~300g)                     160.0        12.0        8.0      8.0
+494   Botifarra (Catalan sausage)                             1 link (~100g)                     300.0        16.0        2.0     26.0
+495   Cream_of_broccoli_soup                                  1 cup (~245g)                      180.0         7.0       16.0     10.0
+496   Cabbage_soup                                            1 cup (~240g)                       90.0         4.0       12.0      2.0
+497   Lo_mein                                                 1 serving (~330g)                  490.0        20.0       65.0     16.0
+498   Zongzi (sticky rice dumpling)                           1 piece (~150g)                    310.0         8.0       50.0      9.0
+499   Chaas (buttermilk)                                      1 cup (~240ml)                      60.0         4.0        6.0      2.0
+500   Papdi_chaat                                             1 plate (~150g)                    280.0         7.0       38.0     12.0
+501   Breakfast_burrito                                       1 burrito (~250g)                  500.0        22.0       48.0     24.0
+502   Cheese_plate                                            1 serving (~100g)                  380.0        22.0        3.0     32.0
+503   Steak                                                   6 oz cooked (~170g)                420.0        44.0        0.0     26.0
+504   Steak_tartare                                           1 serving (~150g)                  285.0        27.0        3.0     18.0
+505   Tabbouleh                                               1 cup (~160g)                      170.0         4.0       22.0      8.0
+506   Carrot_soup                                             1 cup (~245g)                      130.0         3.0       18.0      5.0
+507   Pumpkin_pie                                             1 slice (~130g)                    316.0         7.0       46.0     14.0
+508   Corn_stew                                               1 cup (~245g)                      180.0         5.0       32.0      4.0
+509   Carrot_salad                                            1 cup (~110g)                      130.0         1.0       18.0      6.0
+510   Borscht                                                 1 cup (~244g)                      100.0         4.0       14.0      3.0
+511   Apple_sauce                                             1/2 cup (~122g)                    100.0         0.2       28.0      0.1
+512   Deep-fried_peanuts                                      1/4 cup (~35g)                     200.0         8.0        7.0     17.0
+513   Banana_pudding                                          1 cup (~280g)                      360.0         6.0       60.0     11.0
+514   Pork_ribs                                               1 serving (~200g)                  500.0        30.0        3.0     42.0
+515   Pork_knuckle                                            1 serving (~300g)                  680.0        50.0        2.0     52.0
+516   Tostada                                                 1 piece (~135g)                    290.0        13.0       30.0     14.0
+517   Curry_Mee                                               1 bowl (~400g)                     550.0        20.0       62.0     24.0
+518   Frappe                                                  1 serving (~350ml)                 280.0         4.0       48.0      9.0
+519   Steamed_meatball                                        4 pieces (~120g)                   240.0        18.0       10.0     15.0
+520   BLT_sandwich                                            1 sandwich (~200g)                 420.0        16.0       38.0     22.0
+521   Baked_beans                                             1 cup (~250g)                      240.0        12.0       48.0      2.0
+522   Boiled_peanuts                                          1/2 cup (~90g)                     180.0         8.0       12.0     12.0
+523   Sesame_chicken                                          1 serving (~200g)                  480.0        28.0       40.0     22.0
+524   Spiced_beef                                             1 serving (~150g)                  300.0        28.0        5.0     18.0
+525   Masala_papad                                            1 piece (~30g)                      80.0         3.0       10.0      3.0
+526   Kebab                                                   1 skewer (~120g)                   290.0        22.0        5.0     20.0
+527   Strawberry_cheesecake                                   1 slice (~125g)                    380.0         7.0       42.0     21.0
+528   Agedashi_tofu                                           1 serving (~200g)                  200.0        10.0       18.0     10.0
+529   Claypot_chicken_rice                                    1 serving (~350g)                  540.0        28.0       68.0     16.0
+530   Spinach_soup                                            1 cup (~240g)                       90.0         5.0        8.0      4.0
+531   Corn_soup                                               1 cup (~245g)                      160.0         5.0       28.0      4.0
+532   Noodle_soup                                             1 bowl (~350g)                     280.0        14.0       38.0      7.0
+533   Squash_soup                                             1 cup (~245g)                      120.0         3.0       20.0      4.0
+534   Chicken_Kiev                                            1 piece (~200g)                    520.0        32.0       18.0     36.0
+535   Nuomici (glutinous rice ball)                           3 pieces (~90g)                    230.0         3.0       45.0      5.0
+536   Youtiao (Chinese fried dough)                           1 stick (~70g)                     240.0         5.0       28.0     12.0
+537   Leek_soup                                               1 cup (~240g)                      100.0         3.0       12.0      4.0
+538   Tonkatsu                                                1 serving (~160g)                  400.0        25.0       22.0     25.0
+539   Chicken_salad                                           1 cup (~200g)                      300.0        22.0        8.0     20.0
+540   Fish_soup                                               1 bowl (~350g)                     180.0        22.0       10.0      5.0
+541   Nasi_goreng                                             1 plate (~280g)                    476.0        20.0       64.0     15.0
+542   Pig's_ear                                               1 serving (~100g)                  220.0        18.0        0.0     16.0
+543   Bread_roll                                              1 roll (~55g)                      150.0         5.0       28.0      2.0
+544   Bacon_sandwich                                          1 sandwich (~180g)                 420.0        18.0       35.0     22.0
+545   Succotash                                               1 cup (~185g)                      200.0         8.0       32.0      5.0
+546   Bacon_and_eggs                                          1 serving (~150g)                  380.0        22.0        1.0     32.0
+547   Rasgulla                                                2 pieces (~110g)                   180.0         5.0       36.0      2.0
+548   Strawberry_tart                                         1 tart (~120g)                     320.0         5.0       42.0     15.0
+549   Zhajiangmian                                            1 bowl (~350g)                     580.0        22.0       75.0     20.0
+550   Black_Forest_gateau                                     1 slice (~120g)                    274.0         4.0       38.0     13.0
+551   Cherry_cake                                             1 slice (~100g)                    310.0         5.0       48.0     12.0
+552   Wotou                                                   1 piece (~120g)                    230.0         6.0       46.0      2.0
+553   Chole_bhature                                           1 serving (~300g)                  580.0        16.0       75.0     24.0
+554   Blueberry_pie                                           1 slice (~125g)                    290.0         3.0       44.0     12.0
+555   Mango_pudding                                           1 cup (~200g)                      220.0         4.0       38.0      7.0
+556   Butter_cake                                             1 slice (~100g)                    380.0         5.0       48.0     20.0
+557   Anago (sea eel)                                         3 oz (~85g)                        156.0        16.0        0.0     10.0
+558   Fondue                                                  1/2 cup (~100g)                    320.0        18.0        5.0     26.0
+559   Pickled_cucumber                                        1 cup (~155g)                       20.0         1.0        4.0      0.1
+560   Avocado_toast                                           1 slice (~150g)                    290.0         7.0       30.0     17.0
+561   Rouladen                                                1 roll (~200g)                     380.0        32.0        8.0     24.0
+562   Aburaage                                                1 piece (~30g)                      80.0         5.0        1.0      6.0
+563   Dal_khichdi                                             1 cup (~250g)                      280.0        12.0       48.0      6.0
+564   Ham_salad                                               1/2 cup (~120g)                    200.0        12.0        5.0     15.0
+565   Di_san_xian (potato, eggplant, pepper stir-fry)         1 serving (~200g)                  280.0         4.0       28.0     17.0
+566   Shrimp_ball                                             4 pieces (~80g)                    130.0        12.0        8.0      5.0
+567   Coleslaw                                                1 cup (~120g)                      150.0         1.0       18.0      8.0
+568   Yeung_Chow_fried_rice                                   1 plate (~300g)                    480.0        20.0       62.0     16.0
+569   Shuizhu (water-boiled beef/fish)                        1 serving (~300g)                  420.0        28.0       15.0     28.0
+570   Mousse                                                  1/2 cup (~120g)                    220.0         4.0       25.0     12.0
+571   Bean_salad                                              1 cup (~200g)                      190.0         9.0       30.0      5.0
+572   Smoked_salmon                                           3 oz (~85g)                        100.0        16.0        0.0      4.0
+573   Vichyssoise                                             1 cup (~245g)                      180.0         4.0       18.0     10.0
+574   Tomato_omelette                                         1 serving (~200g)                  220.0        12.0       10.0     15.0
+575   Applesauce_cake                                         1 slice (~100g)                    320.0         4.0       50.0     12.0
+576   Tonkotsu_ramen                                          1 bowl (~500g)                     580.0        26.0       65.0     24.0
+577   Tomato_and_egg_soup                                     1 bowl (~300g)                     120.0         8.0        8.0      6.0
+578   Stuffed_eggplant                                        1 serving (~250g)                  280.0        12.0       18.0     18.0
+579   Almond_biscuit                                          2 pieces (~40g)                    190.0         4.0       24.0     10.0
+580   Rice_pudding                                            1 cup (~250g)                      310.0         8.0       55.0      7.0
+581   Steamed_clams                                           1 serving (~180g)                  150.0        26.0        5.0      2.0
+582   Butter_pecan (ice cream)                                1/2 cup (~65g)                     280.0         3.0       28.0     18.0
+583   Fried_chicken                                           1 piece (~140g)                    400.0        30.0       14.0     26.0
+584   French_fries                                            1 medium serving (~117g)           365.0         4.0       48.0     17.0
+585   Hot_dog                                                 1 with bun (~113g)                 310.0        12.0       24.0     18.0
+586   Seaweed_salad                                           1 cup (~100g)                       70.0         2.0       10.0      2.0
+587   Meatloaf                                                1 slice (~100g)                    280.0        18.0       14.0     16.0
+588   Jajangmyeon                                             1 bowl (~500g)                     560.0        20.0       80.0     16.0
+589   Hongshao_rou (red braised pork belly)                   1 serving (~200g)                  520.0        22.0       18.0     42.0
+590   Banana_bread                                            1 slice (~60g)                     198.0         3.0       34.0      6.0
+591   Beef_Wellington                                         1 serving (~250g)                  560.0        35.0       30.0     34.0
+592   Pizza                                                   1 slice (~107g)                    285.0        12.0       36.0     10.0
+593   Apple_crisp                                             1 serving (~150g)                  320.0         3.0       52.0     12.0
+594   Spaghetti_bolognese                                     1 serving (~350g)                  480.0        24.0       58.0     16.0
+595   Chocolate_cake                                          1 slice (~100g)                    370.0         5.0       52.0     17.0
+596   Pancakes                                                2 pancakes (~150g)                 350.0         8.0       58.0     10.0
+597   Waffles                                                 1 waffle (~75g)                    220.0         6.0       30.0      9.0
+598   Red_velvet_cake                                         1 slice (~100g)                    380.0         5.0       52.0     18.0
+599   Strawberry_cake                                         1 slice (~100g)                    320.0         4.0       48.0     13.0
+600   Beef_tartare                                            1 serving (~150g)                  285.0        27.0        3.0     18.0
+601   Bubur_kacang_hijau (mung bean porridge)                 1 cup (~250g)                      210.0         8.0       40.0      3.0
+602   Mie_goreng                                              1 plate (~300g)                    480.0        16.0       65.0     16.0
+603   Sushi                                                   6 pieces (~150g)                   250.0        10.0       46.0      3.0
+604   Shrimp_and_grits                                        1 serving (~350g)                  500.0        28.0       45.0     22.0
+605   Spaghetti_carbonara                                     1 serving (~300g)                  580.0        24.0       65.0     24.0
+606   Prime_rib                                               6 oz (~170g)                       500.0        42.0        0.0     36.0
+607   Chicken_soup                                            1 bowl (~240g)                     170.0        18.0       14.0      5.0
+608   Escargots                                               6 pieces (~100g)                   140.0        15.0        3.0      7.0
+609   Tuna_tartare                                            1 serving (~150g)                  200.0        28.0        4.0      8.0
+610   Lobster_roll_sandwich                                   1 roll (~200g)                     430.0        22.0       38.0     22.0
+611   Fish_and_chips                                          1 serving (~340g)                  800.0        28.0       76.0     44.0
+612   Poha                                                    1 cup (~180g)                      270.0         6.0       48.0      6.0
+613   Samgyetang                                              1 bowl (~450g)                     372.0        27.0       13.0     21.0
+614   Blancmange                                              1 cup (~156g)                      191.0         5.0       28.0      6.0
+615   Fried_calamari                                          1 serving (~85g)                   150.0        10.0       10.0      8.0
+616   Miso_soup                                               1 cup (~240ml)                      40.0         3.0        5.0      1.0
+617   Spinach_salad                                           1 cup (~100g)                       80.0         4.0        6.0      5.0
+618   Cream_of_mushroom_soup                                  1 cup (~245g)                      200.0         5.0       18.0     12.0
+619   Strawberry_shortcake                                    1 serving (~200g)                  380.0         6.0       52.0     18.0
+620   Peking_duck                                             1 serving (~200g)                  520.0        32.0       12.0     38.0
+621   Cup_cakes                                               1 cupcake (~60g)                   230.0         3.0       35.0     10.0
+622   Scallops                                                3 oz cooked (~85g)                 100.0        19.0        5.0      1.0
+623   Lamb_chop                                               1 chop (~120g)                     360.0        26.0        0.0     28.0
+624   Guacamole                                               2 tbsp (~30g)                       50.0         1.0        3.0      5.0
+625   Pork_chop                                               1 chop (~140g)                     330.0        30.0        0.0     22.0
+626   Jambalaya                                               1 cup (~244g)                      380.0        22.0       42.0     12.0
+627   Ravioli                                                 1 cup (~120g)                      320.0        14.0       45.0     10.0
+628   Pulled_pork_sandwich                                    1 sandwich (~280g)                 500.0        28.0       48.0     20.0
+629   Frozen_yogurt                                           1/2 cup (~85g)                     120.0         3.0       24.0      2.0
+630   Spring_rolls                                            2 pieces (~100g)                   180.0         5.0       22.0      8.0
+631   Curry_rice                                              1 plate (~400g)                    520.0        16.0       72.0     18.0
+632   Schweinshaxe (German pork knuckle)                      1 serving (~300g)                  680.0        50.0        2.0     52.0
+633   Beef_carpaccio                                          1 serving (~85g)                   150.0        17.0        1.0      9.0
+634   Buttery_bread                                           1 slice (~40g)                     150.0         3.0       18.0      8.0
+635   Ice_cream                                               1/2 cup (~66g)                     145.0         3.0       17.0      8.0
+636   Mussels                                                 3 oz (~85g)                         73.0        10.0        3.0      2.0
+637   Risotto                                                 1 cup (~200g)                      380.0        12.0       52.0     14.0
+638   Falafel                                                 3 pieces (~90g)                    210.0         9.0       28.0      8.0
+639   Coconut_cake                                            1 slice (~100g)                    350.0         4.0       48.0     17.0
+640   Foie_gras                                               1 oz (~28g)                        130.0         3.0        2.0     13.0
+641   Grilled_salmon                                          1 fillet (~170g)                   350.0        40.0        0.0     20.0
+642   Pumpkin_bread                                           1 slice (~60g)                     190.0         3.0       32.0      6.0
+643   Fish_curry                                              1 serving (~250g)                  320.0        28.0       12.0     18.0
+644   Oysters                                                 6 medium (~84g)                     57.0         6.0        3.0      2.0
+645   Gyoza                                                   6 pieces (~120g)                   280.0        12.0       32.0     12.0
+646   Pad_thai                                                1 plate (~350g)                    550.0        22.0       68.0     20.0
+647   Baby_back_ribs                                          1 serving (~300g)                  620.0        44.0        8.0     46.0
+648   Croque_madame                                           1 sandwich (~220g)                 520.0        26.0       35.0     32.0
+649   Chicken_quesadilla                                      1 quesadilla (~200g)               480.0        28.0       40.0     22.0
+650   Baklava                                                 1 piece (~60g)                     290.0         4.0       35.0     16.0
+651   Eggs_benedict                                           1 serving (~230g)                  530.0        22.0       28.0     38.0
+652   Cannoli                                                 1 piece (~85g)                     310.0         8.0       32.0     18.0
+653   Seafood_pizza                                           1 slice (~130g)                    290.0        16.0       35.0     10.0
+654   Aloo_gobi                                               1 cup (~200g)                      180.0         5.0       24.0      8.0
+655   Panna_cotta                                             1 serving (~150g)                  240.0         5.0       22.0     15.0
+656   Stuffed_peppers                                         1 pepper (~200g)                   280.0        14.0       28.0     12.0
+657   Creme_brulee                                            1 ramekin (~120g)                  290.0         5.0       26.0     19.0
+658   Omelette                                                2-egg (~130g)                      200.0        14.0        2.0     15.0
+659   Rack_of_lamb                                            3 ribs (~150g)                     430.0        30.0        0.0     34.0
+660   Quesadilla                                              1 piece (~140g)                    400.0        18.0       38.0     20.0
+661   Grilled_cheese_sandwich                                 1 sandwich (~120g)                 380.0        14.0       35.0     22.0
+662   Hara_bhara_kabab                                        3 pieces (~120g)                   360.0        10.0       42.0     16.0
+663   Deviled_eggs                                            2 halves (~60g)                    110.0         6.0        1.0      9.0
+664   Thali                                                   1 plate (~500g)                    650.0        22.0       90.0     22.0
+665   Bread_pudding                                           1 serving (~150g)                  340.0         8.0       48.0     14.0
+666   Chocolate_mousse                                        1/2 cup (~120g)                    240.0         4.0       22.0     16.0
+667   Dumplings                                               6 pieces (~120g)                   280.0        12.0       38.0      8.0
+668   Macaroni_and_cheese                                     1 cup (~200g)                      350.0        14.0       44.0     13.0
+669   Ambrosia_fruit_salad                                    1 cup (~210g)                      240.0         2.0       48.0      6.0
+670   Gnocchi                                                 1 cup (~150g)                      250.0         6.0       48.0      4.0
+671   Beet_salad                                              1 cup (~150g)                      130.0         3.0       18.0      5.0
+672   Kwetiau_goreng                                          1 plate (~300g)                    480.0        14.0       68.0     14.0
+673   Cheese_and_tomato_sandwich                              1 sandwich (~180g)                 350.0        14.0       38.0     16.0
+674   Congee                                                  1 bowl (~400g)                     180.0         6.0       38.0      1.0
+675   Profiterole                                             3 pieces (~90g)                    330.0         6.0       32.0     20.0
+676   Steamed_momo                                            6 pieces (~150g)                   260.0        14.0       32.0      8.0
+677   Fried_noodles                                           1 plate (~300g)                    480.0        14.0       64.0     18.0
+678   Scampi                                                  1 serving (~200g)                  380.0        28.0       12.0     24.0
+679   Stuffed_tomatoes                                        1 serving (~200g)                  220.0         8.0       22.0     12.0
+680   Burrito                                                 1 burrito (~300g)                  540.0        22.0       70.0     18.0
+681   Chow_mein                                               1 plate (~300g)                    480.0        18.0       62.0     16.0
+682   Dhokla                                                  2 pieces (~100g)                   150.0         5.0       24.0      4.0
+683   Cheesecake                                              1 slice (~125g)                    400.0         8.0       36.0     26.0
+684   Sausage_roll                                            1 roll (~100g)                     320.0        10.0       24.0     22.0
+685   Banana_salad                                            1 cup (~200g)                      180.0         2.0       40.0      3.0
+686   Aloo_paratha                                            1 paratha (~120g)                  300.0         6.0       40.0     13.0
+687   Anda_curry (egg curry)                                  1 serving (~200g)                  280.0        16.0       10.0     20.0
+688   Apple_pie                                               1 slice (~125g)                    296.0         3.0       43.0     14.0
+689   Beignets                                                3 pieces (~90g)                    340.0         6.0       48.0     14.0
+690   Bibimbap                                                1 bowl (~450g)                     560.0        22.0       78.0     16.0
+691   Biryani                                                 1 serving (~350g)                  560.0        28.0       65.0     20.0
+692   Bruschetta                                              2 pieces (~100g)                   180.0         4.0       26.0      7.0
+693   Caesar_salad                                            1 serving (~180g)                  300.0         8.0       12.0     26.0
+694   Caprese_salad                                           1 serving (~200g)                  220.0        12.0        6.0     17.0
+695   Carrot_cake                                             1 slice (~100g)                    380.0         5.0       50.0     19.0
+696   Ceviche                                                 1 serving (~150g)                  160.0        20.0       10.0      4.0
+697   Chana_masala                                            1 cup (~200g)                      240.0        12.0       35.0      7.0
+698   Chapati                                                 1 piece (~40g)                     120.0         3.0       22.0      3.0
+699   Chicken_pizza                                           1 slice (~130g)                    300.0        18.0       34.0     10.0
+700   Chicken_curry                                           1 serving (~250g)                  380.0        28.0       15.0     22.0
+701   Chicken_wings                                           4 wings (~160g)                    430.0        30.0        4.0     32.0
+702   Churros                                                 3 pieces (~90g)                    310.0         4.0       42.0     14.0
+703   Clam_chowder                                            1 cup (~245g)                      280.0        14.0       22.0     16.0
+704   Club_sandwich                                           1 sandwich (~250g)                 540.0        28.0       50.0     24.0
+705   Crab_cakes                                              2 cakes (~130g)                    320.0        18.0       20.0     18.0
+706   Donuts                                                  1 glazed (~60g)                    250.0         4.0       34.0     12.0
+707   Edamame                                                 1/2 cup shelled (~78g)              95.0         8.0        8.0      4.0
+708   Falooda                                                 1 glass (~300ml)                   320.0         6.0       58.0      8.0
+709   Filet_mignon                                            6 oz (~170g)                       420.0        44.0        0.0     26.0
+710   French_onion_soup                                       1 bowl (~240g)                     290.0        12.0       28.0     14.0
+711   French_toast                                            2 slices (~130g)                   320.0        10.0       42.0     12.0
+712   Fried_rice                                              1 cup (~200g)                      340.0        10.0       52.0     10.0
+713   Garlic_naan                                             1 piece (~90g)                     280.0         8.0       44.0      8.0
+714   Garlic_bread                                            1 slice (~45g)                     170.0         4.0       22.0      8.0
+715   Greek_salad                                             1 cup (~150g)                      180.0         5.0       10.0     14.0
+716   Grilled_sandwich                                        1 sandwich (~150g)                 350.0        14.0       38.0     16.0
+717   Gulab_jamun                                             2 pieces (~60g)                    180.0         3.0       30.0      6.0
+718   Hamburger                                               1 burger (~200g)                   540.0        26.0       44.0     28.0
+719   Ham_sandwich                                            1 sandwich (~180g)                 360.0        22.0       36.0     14.0
+720   Hot_and_sour_soup                                       1 cup (~244g)                      120.0         8.0       12.0      4.0
+721   Huevos_rancheros                                        1 serving (~220g)                  380.0        18.0       28.0     22.0
+722   Hummus                                                  2 tbsp (~30g)                       70.0         2.0        6.0      5.0
+723   Idli                                                    2 pieces (~80g)                    130.0         4.0       26.0      1.0
+724   Kulfi                                                   1 serving (~80g)                   190.0         5.0       26.0      8.0
+725   Lasagna                                                 1 serving (~250g)                  480.0        22.0       48.0     22.0
+726   Lobster_bisque                                          1 cup (~245g)                      280.0        14.0       14.0     18.0
+727   Macarons                                                2 pieces (~50g)                    210.0         3.0       32.0      8.0
+728   Margherita_pizza                                        1 slice (~120g)                    270.0        11.0       34.0     10.0
+729   Masala_dosa                                             1 dosa (~200g)                     340.0         8.0       52.0     12.0
+730   Nachos                                                  1 serving (~150g)                  480.0        14.0       52.0     24.0
+731   Onion_rings                                             6 rings (~90g)                     275.0         4.0       34.0     14.0
+732   Paella                                                  1 serving (~350g)                  520.0        28.0       65.0     14.0
+733   Palak_paneer                                            1 cup (~200g)                      280.0        14.0       12.0     20.0
+734   Paneer_masala                                           1 cup (~200g)                      320.0        16.0       14.0     22.0
+735   Paneer_pizza                                            1 slice (~130g)                    310.0        14.0       35.0     13.0
+736   Pav_bhaji                                               1 plate (~300g)                    480.0        12.0       68.0     18.0
+737   Pho                                                     1 bowl (~450g)                     420.0        28.0       50.0     10.0
+738   Poutine                                                 1 serving (~400g)                  740.0        22.0       72.0     42.0
+739   Ramen                                                   1 bowl (~500g)                     520.0        24.0       66.0     16.0
+740   Samosa                                                  2 pieces (~100g)                   300.0         6.0       38.0     14.0
+741   Sashimi                                                 6 pieces (~120g)                   180.0        28.0        0.0      7.0
+742   Sauteed_mushrooms                                       1 cup (~100g)                       90.0         3.0        6.0      6.0
+743   Seekh_kebab                                             2 skewers (~120g)                  280.0        22.0        5.0     19.0
+744   Tacos                                                   2 tacos (~180g)                    360.0        18.0       36.0     16.0
+745   Takoyaki                                                6 pieces (~120g)                   260.0        10.0       32.0     10.0
+746   Tiramisu                                                1 serving (~150g)                  380.0         8.0       38.0     22.0
+747   Uttapam                                                 1 piece (~120g)                    200.0         6.0       32.0      6.0
+748   Vada_pav                                                1 piece (~150g)                    310.0         8.0       42.0     13.0

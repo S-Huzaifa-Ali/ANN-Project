@@ -1,0 +1,6734 @@
+[
+  {
+    "id": 1,
+    "food_item": "Khakhra",
+    "serving_size": "3 pieces (~75g)",
+    "calories": 357.0,
+    "protein_g": 7.8,
+    "carbs_g": 47.0,
+    "fat_g": 16.2
+  },
+  {
+    "id": 2,
+    "food_item": "Amritsari Kulcha",
+    "serving_size": "1 kulcha (~120g)",
+    "calories": 320.0,
+    "protein_g": 9.0,
+    "carbs_g": 50.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 3,
+    "food_item": "Paniyaram",
+    "serving_size": "6 pieces (~180g)",
+    "calories": 270.0,
+    "protein_g": 9.0,
+    "carbs_g": 37.5,
+    "fat_g": 9.0
+  },
+  {
+    "id": 4,
+    "food_item": "Gujhia",
+    "serving_size": "2 pieces (~120g)",
+    "calories": 460.0,
+    "protein_g": 6.0,
+    "carbs_g": 60.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 5,
+    "food_item": "Chivda",
+    "serving_size": "1 cup (~70g)",
+    "calories": 315.0,
+    "protein_g": 5.6,
+    "carbs_g": 42.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 6,
+    "food_item": "Onion Pakoda",
+    "serving_size": "6 pieces (~150g)",
+    "calories": 315.0,
+    "protein_g": 7.3,
+    "carbs_g": 25.0,
+    "fat_g": 20.6
+  },
+  {
+    "id": 7,
+    "food_item": "Ghevar",
+    "serving_size": "1 piece (~100g)",
+    "calories": 450.0,
+    "protein_g": 6.0,
+    "carbs_g": 45.0,
+    "fat_g": 25.0
+  },
+  {
+    "id": 8,
+    "food_item": "Veal Cordon Bleu",
+    "serving_size": "1 roll (~229g)",
+    "calories": 540.0,
+    "protein_g": 33.0,
+    "carbs_g": 22.0,
+    "fat_g": 35.0
+  },
+  {
+    "id": 9,
+    "food_item": "Mysore Pak",
+    "serving_size": "2 pieces (~90g)",
+    "calories": 355.0,
+    "protein_g": 1.6,
+    "carbs_g": 34.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 10,
+    "food_item": "Pepperoni Pizza",
+    "serving_size": "2 slices (~200g)",
+    "calories": 560.0,
+    "protein_g": 24.0,
+    "carbs_g": 56.0,
+    "fat_g": 28.0
+  },
+  {
+    "id": 11,
+    "food_item": "Lutefisk",
+    "serving_size": "1 plate (~200g)",
+    "calories": 120.0,
+    "protein_g": 32.0,
+    "carbs_g": 0.0,
+    "fat_g": 1.0
+  },
+  {
+    "id": 12,
+    "food_item": "Scrapple",
+    "serving_size": "3 slices (~150g)",
+    "calories": 340.0,
+    "protein_g": 12.9,
+    "carbs_g": 22.5,
+    "fat_g": 22.2
+  },
+  {
+    "id": 13,
+    "food_item": "Aloo Mutter",
+    "serving_size": "1 bowl (~200g)",
+    "calories": 310.0,
+    "protein_g": 7.4,
+    "carbs_g": 35.4,
+    "fat_g": 15.4
+  },
+  {
+    "id": 14,
+    "food_item": "Phirni",
+    "serving_size": "1 bowl (~150g)",
+    "calories": 290.0,
+    "protein_g": 5.0,
+    "carbs_g": 56.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 15,
+    "food_item": "Gajar Ka Halwa",
+    "serving_size": "1 bowl (~150g)",
+    "calories": 390.0,
+    "protein_g": 5.6,
+    "carbs_g": 42.0,
+    "fat_g": 21.7
+  },
+  {
+    "id": 16,
+    "food_item": "Welsh Rarebit",
+    "serving_size": "2 slices (~200g)",
+    "calories": 480.0,
+    "protein_g": 20.0,
+    "carbs_g": 32.0,
+    "fat_g": 30.0
+  },
+  {
+    "id": 17,
+    "food_item": "Navratan Korma",
+    "serving_size": "1 bowl (~250g)",
+    "calories": 380.0,
+    "protein_g": 9.5,
+    "carbs_g": 32.5,
+    "fat_g": 26.8
+  },
+  {
+    "id": 18,
+    "food_item": "Lobster Thermidor",
+    "serving_size": "1 plate (~300g)",
+    "calories": 450.0,
+    "protein_g": 42.0,
+    "carbs_g": 12.0,
+    "fat_g": 27.0
+  },
+  {
+    "id": 19,
+    "food_item": "Idiyappam",
+    "serving_size": "3 pieces (~150g)",
+    "calories": 200.0,
+    "protein_g": 5.0,
+    "carbs_g": 40.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 20,
+    "food_item": "Matzo Ball (soup)",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 280.0,
+    "protein_g": 12.0,
+    "carbs_g": 30.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 21,
+    "food_item": "Rugelach",
+    "serving_size": "4 pieces (~112g)",
+    "calories": 500.0,
+    "protein_g": 6.0,
+    "carbs_g": 60.0,
+    "fat_g": 26.0
+  },
+  {
+    "id": 22,
+    "food_item": "Knish",
+    "serving_size": "1 large (~170g)",
+    "calories": 340.0,
+    "protein_g": 8.0,
+    "carbs_g": 54.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 23,
+    "food_item": "Moo Goo Gai Pan",
+    "serving_size": "1 plate (~280g)",
+    "calories": 330.0,
+    "protein_g": 31.8,
+    "carbs_g": 9.2,
+    "fat_g": 18.2
+  },
+  {
+    "id": 24,
+    "food_item": "Sabudana Khichdi",
+    "serving_size": "1 bowl (~200g)",
+    "calories": 360.0,
+    "protein_g": 5.0,
+    "carbs_g": 60.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 25,
+    "food_item": "Salisbury Steak",
+    "serving_size": "1 piece + gravy (~250g)",
+    "calories": 373.0,
+    "protein_g": 17.5,
+    "carbs_g": 14.5,
+    "fat_g": 27.0
+  },
+  {
+    "id": 26,
+    "food_item": "Chicken Marengo",
+    "serving_size": "1 plate (~300g)",
+    "calories": 410.0,
+    "protein_g": 38.0,
+    "carbs_g": 14.0,
+    "fat_g": 23.0
+  },
+  {
+    "id": 27,
+    "food_item": "Schnitzel",
+    "serving_size": "1 piece (~200g)",
+    "calories": 500.0,
+    "protein_g": 34.0,
+    "carbs_g": 22.0,
+    "fat_g": 32.0
+  },
+  {
+    "id": 28,
+    "food_item": "Steak Au Poivre",
+    "serving_size": "1 plate (~250g)",
+    "calories": 520.0,
+    "protein_g": 38.0,
+    "carbs_g": 6.0,
+    "fat_g": 38.0
+  },
+  {
+    "id": 29,
+    "food_item": "Haggis",
+    "serving_size": "1 serving (~150g)",
+    "calories": 350.0,
+    "protein_g": 15.0,
+    "carbs_g": 20.0,
+    "fat_g": 25.0
+  },
+  {
+    "id": 30,
+    "food_item": "Mostaccioli",
+    "serving_size": "1 plate (~250g)",
+    "calories": 480.0,
+    "protein_g": 20.0,
+    "carbs_g": 62.0,
+    "fat_g": 17.0
+  },
+  {
+    "id": 31,
+    "food_item": "Pepper Steak",
+    "serving_size": "1 plate (~280g)",
+    "calories": 430.0,
+    "protein_g": 34.0,
+    "carbs_g": 18.0,
+    "fat_g": 26.0
+  },
+  {
+    "id": 32,
+    "food_item": "Pirogi (Pierogi)",
+    "serving_size": "5 pieces (~175g)",
+    "calories": 360.0,
+    "protein_g": 10.0,
+    "carbs_g": 56.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 33,
+    "food_item": "Tamale Pie",
+    "serving_size": "1 serving (~250g)",
+    "calories": 430.0,
+    "protein_g": 18.0,
+    "carbs_g": 42.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 34,
+    "food_item": "Eccles Cake",
+    "serving_size": "2 cakes (~100g)",
+    "calories": 420.0,
+    "protein_g": 4.0,
+    "carbs_g": 60.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 35,
+    "food_item": "Rissole",
+    "serving_size": "2 pieces (~150g)",
+    "calories": 390.0,
+    "protein_g": 18.0,
+    "carbs_g": 22.0,
+    "fat_g": 26.0
+  },
+  {
+    "id": 36,
+    "food_item": "Tamale",
+    "serving_size": "2 pieces (~200g)",
+    "calories": 420.0,
+    "protein_g": 14.0,
+    "carbs_g": 50.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 37,
+    "food_item": "Ziti",
+    "serving_size": "1 plate (~250g)",
+    "calories": 440.0,
+    "protein_g": 16.0,
+    "carbs_g": 70.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 38,
+    "food_item": "Scotch Egg",
+    "serving_size": "1 egg (~140g)",
+    "calories": 300.0,
+    "protein_g": 14.0,
+    "carbs_g": 12.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 39,
+    "food_item": "Sukiyaki",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 310.0,
+    "protein_g": 22.0,
+    "carbs_g": 18.0,
+    "fat_g": 17.0
+  },
+  {
+    "id": 40,
+    "food_item": "Moussaka",
+    "serving_size": "1 serving (~300g)",
+    "calories": 450.0,
+    "protein_g": 24.0,
+    "carbs_g": 28.0,
+    "fat_g": 28.0
+  },
+  {
+    "id": 41,
+    "food_item": "Fruitcake",
+    "serving_size": "1 slice (~80g)",
+    "calories": 300.0,
+    "protein_g": 3.0,
+    "carbs_g": 52.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 42,
+    "food_item": "Osso Buco",
+    "serving_size": "1 shank + sauce (~350g)",
+    "calories": 465.0,
+    "protein_g": 54.0,
+    "carbs_g": 14.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 43,
+    "food_item": "Sabudana Vada",
+    "serving_size": "3 pieces (~105g)",
+    "calories": 327.0,
+    "protein_g": 5.0,
+    "carbs_g": 40.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 44,
+    "food_item": "Syllabub",
+    "serving_size": "1 glass (~150g)",
+    "calories": 360.0,
+    "protein_g": 2.0,
+    "carbs_g": 22.0,
+    "fat_g": 28.0
+  },
+  {
+    "id": 45,
+    "food_item": "Tetrazzini (Chicken)",
+    "serving_size": "1 plate (~300g)",
+    "calories": 495.0,
+    "protein_g": 26.0,
+    "carbs_g": 39.0,
+    "fat_g": 25.5
+  },
+  {
+    "id": 46,
+    "food_item": "Tagliatelle",
+    "serving_size": "1 plate (~250g)",
+    "calories": 380.0,
+    "protein_g": 13.0,
+    "carbs_g": 68.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 47,
+    "food_item": "Entrecote",
+    "serving_size": "1 steak (~200g)",
+    "calories": 450.0,
+    "protein_g": 30.0,
+    "carbs_g": 0.0,
+    "fat_g": 35.0
+  },
+  {
+    "id": 48,
+    "food_item": "Streusel",
+    "serving_size": "1 serving (~100g)",
+    "calories": 380.0,
+    "protein_g": 4.0,
+    "carbs_g": 52.0,
+    "fat_g": 17.0
+  },
+  {
+    "id": 49,
+    "food_item": "Victoria Sandwich",
+    "serving_size": "1 slice (~100g)",
+    "calories": 390.0,
+    "protein_g": 4.0,
+    "carbs_g": 46.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 50,
+    "food_item": "Vermicelli",
+    "serving_size": "1 plate (~180g)",
+    "calories": 285.0,
+    "protein_g": 9.0,
+    "carbs_g": 57.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 51,
+    "food_item": "Pilaf",
+    "serving_size": "1 plate (~250g)",
+    "calories": 350.0,
+    "protein_g": 8.5,
+    "carbs_g": 61.0,
+    "fat_g": 7.8
+  },
+  {
+    "id": 52,
+    "food_item": "Galantine",
+    "serving_size": "1 serving (~200g)",
+    "calories": 310.0,
+    "protein_g": 28.0,
+    "carbs_g": 8.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 53,
+    "food_item": "Sloppy Joe",
+    "serving_size": "1 sandwich (~250g)",
+    "calories": 430.0,
+    "protein_g": 21.0,
+    "carbs_g": 50.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 54,
+    "food_item": "Sauerkraut",
+    "serving_size": "1 cup (~142g)",
+    "calories": 27.0,
+    "protein_g": 1.3,
+    "carbs_g": 6.1,
+    "fat_g": 0.2
+  },
+  {
+    "id": 55,
+    "food_item": "Rock Cake",
+    "serving_size": "1 piece (~85g)",
+    "calories": 310.0,
+    "protein_g": 5.0,
+    "carbs_g": 44.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 56,
+    "food_item": "Pot Pie (Chicken)",
+    "serving_size": "1 serving (~240g)",
+    "calories": 477.0,
+    "protein_g": 12.0,
+    "carbs_g": 46.0,
+    "fat_g": 28.0
+  },
+  {
+    "id": 57,
+    "food_item": "Shirred Egg",
+    "serving_size": "2 eggs (~120g)",
+    "calories": 210.0,
+    "protein_g": 13.0,
+    "carbs_g": 2.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 58,
+    "food_item": "Sponge Cake",
+    "serving_size": "1 slice (~80g)",
+    "calories": 238.0,
+    "protein_g": 5.8,
+    "carbs_g": 46.0,
+    "fat_g": 4.4
+  },
+  {
+    "id": 59,
+    "food_item": "Besan Laddu",
+    "serving_size": "2 pieces (~100g)",
+    "calories": 614.0,
+    "protein_g": 16.0,
+    "carbs_g": 76.0,
+    "fat_g": 27.0
+  },
+  {
+    "id": 60,
+    "food_item": "Porridge (Oatmeal)",
+    "serving_size": "1 bowl (~250g)",
+    "calories": 150.0,
+    "protein_g": 5.0,
+    "carbs_g": 27.0,
+    "fat_g": 2.5
+  },
+  {
+    "id": 61,
+    "food_item": "Scrambled Eggs",
+    "serving_size": "2 eggs (~120g)",
+    "calories": 182.0,
+    "protein_g": 12.0,
+    "carbs_g": 2.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 62,
+    "food_item": "Fried Egg",
+    "serving_size": "2 eggs (~92g)",
+    "calories": 180.0,
+    "protein_g": 12.6,
+    "carbs_g": 0.8,
+    "fat_g": 14.0
+  },
+  {
+    "id": 63,
+    "food_item": "Beef Bourguignonne",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 450.0,
+    "protein_g": 44.0,
+    "carbs_g": 16.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 64,
+    "food_item": "Tapenade",
+    "serving_size": "4 tbsp (~60g)",
+    "calories": 160.0,
+    "protein_g": 1.0,
+    "carbs_g": 4.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 65,
+    "food_item": "Gyro",
+    "serving_size": "1 pita (~300g)",
+    "calories": 490.0,
+    "protein_g": 31.0,
+    "carbs_g": 40.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 66,
+    "food_item": "Carbonnade Flamande",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 410.0,
+    "protein_g": 32.0,
+    "carbs_g": 18.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 67,
+    "food_item": "Jerky (Beef)",
+    "serving_size": "1 bag (~90g)",
+    "calories": 261.0,
+    "protein_g": 33.0,
+    "carbs_g": 17.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 68,
+    "food_item": "Tortellini",
+    "serving_size": "1 plate (~250g)",
+    "calories": 380.0,
+    "protein_g": 16.0,
+    "carbs_g": 54.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 69,
+    "food_item": "Reuben Sandwich",
+    "serving_size": "1 sandwich (~280g)",
+    "calories": 520.0,
+    "protein_g": 28.0,
+    "carbs_g": 44.0,
+    "fat_g": 26.0
+  },
+  {
+    "id": 70,
+    "food_item": "Cruller",
+    "serving_size": "1 piece (~65g)",
+    "calories": 260.0,
+    "protein_g": 4.0,
+    "carbs_g": 28.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 71,
+    "food_item": "Stuffed Cabbage",
+    "serving_size": "3 rolls (~300g)",
+    "calories": 390.0,
+    "protein_g": 24.0,
+    "carbs_g": 30.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 72,
+    "food_item": "Curry Goat",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 450.0,
+    "protein_g": 38.0,
+    "carbs_g": 12.0,
+    "fat_g": 28.0
+  },
+  {
+    "id": 73,
+    "food_item": "Japchae",
+    "serving_size": "1 plate (~250g)",
+    "calories": 320.0,
+    "protein_g": 8.0,
+    "carbs_g": 54.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 74,
+    "food_item": "Manicotti",
+    "serving_size": "2 pieces (~280g)",
+    "calories": 420.0,
+    "protein_g": 20.0,
+    "carbs_g": 48.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 75,
+    "food_item": "Green Bean Casserole",
+    "serving_size": "1 cup (~245g)",
+    "calories": 230.0,
+    "protein_g": 5.0,
+    "carbs_g": 22.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 76,
+    "food_item": "Hokkien Mee",
+    "serving_size": "1 plate (~350g)",
+    "calories": 450.0,
+    "protein_g": 22.0,
+    "carbs_g": 52.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 77,
+    "food_item": "Cream Pie",
+    "serving_size": "1 slice (~140g)",
+    "calories": 490.0,
+    "protein_g": 5.8,
+    "carbs_g": 53.0,
+    "fat_g": 29.0
+  },
+  {
+    "id": 78,
+    "food_item": "Gołąbki (Cabbage Rolls)",
+    "serving_size": "3 rolls (~300g)",
+    "calories": 440.0,
+    "protein_g": 24.0,
+    "carbs_g": 32.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 79,
+    "food_item": "Hae Mee (Prawn Mee)",
+    "serving_size": "1 bowl (~400g)",
+    "calories": 430.0,
+    "protein_g": 28.0,
+    "carbs_g": 52.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 80,
+    "food_item": "Mozzarella Sticks",
+    "serving_size": "4 sticks (~113g)",
+    "calories": 370.0,
+    "protein_g": 18.0,
+    "carbs_g": 28.0,
+    "fat_g": 21.0
+  },
+  {
+    "id": 81,
+    "food_item": "Poi",
+    "serving_size": "1 cup (~227g)",
+    "calories": 180.0,
+    "protein_g": 2.0,
+    "carbs_g": 43.0,
+    "fat_g": 0.2
+  },
+  {
+    "id": 82,
+    "food_item": "Savarin",
+    "serving_size": "1 serving (~120g)",
+    "calories": 340.0,
+    "protein_g": 5.0,
+    "carbs_g": 48.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 83,
+    "food_item": "Tourtière",
+    "serving_size": "1 slice (~200g)",
+    "calories": 490.0,
+    "protein_g": 20.0,
+    "carbs_g": 32.0,
+    "fat_g": 30.0
+  },
+  {
+    "id": 84,
+    "food_item": "Chocolate Covered Strawberries",
+    "serving_size": "5 pieces (~100g)",
+    "calories": 180.0,
+    "protein_g": 1.5,
+    "carbs_g": 24.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 85,
+    "food_item": "Crab Rangoon",
+    "serving_size": "4 pieces (~80g)",
+    "calories": 240.0,
+    "protein_g": 8.0,
+    "carbs_g": 24.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 86,
+    "food_item": "Dinuguan",
+    "serving_size": "1 bowl (~250g)",
+    "calories": 275.0,
+    "protein_g": 30.0,
+    "carbs_g": 7.5,
+    "fat_g": 15.0
+  },
+  {
+    "id": 87,
+    "food_item": "Fish Sticks",
+    "serving_size": "4 sticks (~112g)",
+    "calories": 280.0,
+    "protein_g": 18.0,
+    "carbs_g": 22.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 88,
+    "food_item": "Fruit Curd (Lemon Curd)",
+    "serving_size": "2 tbsp (~40g)",
+    "calories": 120.0,
+    "protein_g": 1.0,
+    "carbs_g": 18.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 89,
+    "food_item": "Konnyaku (Konjac)",
+    "serving_size": "1 serving (~150g)",
+    "calories": 10.0,
+    "protein_g": 0.2,
+    "carbs_g": 2.0,
+    "fat_g": 0.0
+  },
+  {
+    "id": 90,
+    "food_item": "Bouillabaisse",
+    "serving_size": "1 bowl (~400g)",
+    "calories": 280.0,
+    "protein_g": 32.0,
+    "carbs_g": 14.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 91,
+    "food_item": "Dirty Rice",
+    "serving_size": "1 cup (~200g)",
+    "calories": 280.0,
+    "protein_g": 10.0,
+    "carbs_g": 36.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 92,
+    "food_item": "Gulai Ayam",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 390.0,
+    "protein_g": 30.0,
+    "carbs_g": 10.0,
+    "fat_g": 26.0
+  },
+  {
+    "id": 93,
+    "food_item": "Lemonade",
+    "serving_size": "1 glass (~240ml)",
+    "calories": 99.0,
+    "protein_g": 0.2,
+    "carbs_g": 26.0,
+    "fat_g": 0.2
+  },
+  {
+    "id": 94,
+    "food_item": "Mutton Handi",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 460.0,
+    "protein_g": 38.0,
+    "carbs_g": 10.0,
+    "fat_g": 30.0
+  },
+  {
+    "id": 95,
+    "food_item": "Paupiette",
+    "serving_size": "2 rolls (~200g)",
+    "calories": 340.0,
+    "protein_g": 28.0,
+    "carbs_g": 8.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 96,
+    "food_item": "Pineapple Tart",
+    "serving_size": "3 pieces (~75g)",
+    "calories": 310.0,
+    "protein_g": 3.0,
+    "carbs_g": 42.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 97,
+    "food_item": "Pizza Carbonara",
+    "serving_size": "2 slices (~200g)",
+    "calories": 520.0,
+    "protein_g": 22.0,
+    "carbs_g": 52.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 98,
+    "food_item": "Tobiko (Flying Fish Roe)",
+    "serving_size": "2 tbsp (~28g)",
+    "calories": 40.0,
+    "protein_g": 4.0,
+    "carbs_g": 2.0,
+    "fat_g": 1.5
+  },
+  {
+    "id": 99,
+    "food_item": "Vol-au-Vent",
+    "serving_size": "2 pieces (~150g)",
+    "calories": 380.0,
+    "protein_g": 12.0,
+    "carbs_g": 28.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 100,
+    "food_item": "Æbleflæsk (Danish Apple Pork)",
+    "serving_size": "1 serving (~200g)",
+    "calories": 420.0,
+    "protein_g": 22.0,
+    "carbs_g": 18.0,
+    "fat_g": 30.0
+  },
+  {
+    "id": 101,
+    "food_item": "Bistek (Tagalog)",
+    "serving_size": "1 serving (~200g)",
+    "calories": 380.0,
+    "protein_g": 32.0,
+    "carbs_g": 10.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 102,
+    "food_item": "Chakli",
+    "serving_size": "5 pieces (~75g)",
+    "calories": 375.0,
+    "protein_g": 7.5,
+    "carbs_g": 45.0,
+    "fat_g": 22.5
+  },
+  {
+    "id": 103,
+    "food_item": "Es Pisang Ijo",
+    "serving_size": "1 serving (~250g)",
+    "calories": 280.0,
+    "protein_g": 4.0,
+    "carbs_g": 52.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 104,
+    "food_item": "Flan",
+    "serving_size": "1 ramekin (~150g)",
+    "calories": 295.0,
+    "protein_g": 8.0,
+    "carbs_g": 46.0,
+    "fat_g": 8.5
+  },
+  {
+    "id": 105,
+    "food_item": "Gyutan (Grilled Beef Tongue)",
+    "serving_size": "1 serving (~120g)",
+    "calories": 257.0,
+    "protein_g": 14.4,
+    "carbs_g": 0.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 106,
+    "food_item": "Menudo",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 360.0,
+    "protein_g": 34.0,
+    "carbs_g": 24.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 107,
+    "food_item": "Sausage and Peppers",
+    "serving_size": "1 plate (~300g)",
+    "calories": 420.0,
+    "protein_g": 20.0,
+    "carbs_g": 18.0,
+    "fat_g": 30.0
+  },
+  {
+    "id": 108,
+    "food_item": "Sliced Fish Soup",
+    "serving_size": "1 bowl (~400g)",
+    "calories": 200.0,
+    "protein_g": 24.0,
+    "carbs_g": 10.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 109,
+    "food_item": "Cebolada (Portuguese Onion Beef)",
+    "serving_size": "1 serving (~250g)",
+    "calories": 310.0,
+    "protein_g": 24.0,
+    "carbs_g": 16.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 110,
+    "food_item": "Charqui (Dried Beef)",
+    "serving_size": "1 serving (~80g)",
+    "calories": 240.0,
+    "protein_g": 36.0,
+    "carbs_g": 4.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 111,
+    "food_item": "Cheese Fries",
+    "serving_size": "1 serving (~200g)",
+    "calories": 540.0,
+    "protein_g": 14.0,
+    "carbs_g": 54.0,
+    "fat_g": 30.0
+  },
+  {
+    "id": 112,
+    "food_item": "Katsudon",
+    "serving_size": "1 bowl (~400g)",
+    "calories": 678.0,
+    "protein_g": 28.0,
+    "carbs_g": 82.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 113,
+    "food_item": "Pappa al Pomodoro",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 280.0,
+    "protein_g": 8.0,
+    "carbs_g": 40.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 114,
+    "food_item": "Pasteis de Bacalhau",
+    "serving_size": "3 pieces (~120g)",
+    "calories": 280.0,
+    "protein_g": 14.0,
+    "carbs_g": 26.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 115,
+    "food_item": "Porchetta",
+    "serving_size": "1 serving (~150g)",
+    "calories": 420.0,
+    "protein_g": 30.0,
+    "carbs_g": 4.0,
+    "fat_g": 32.0
+  },
+  {
+    "id": 116,
+    "food_item": "Princess Cake",
+    "serving_size": "1 slice (~120g)",
+    "calories": 390.0,
+    "protein_g": 5.0,
+    "carbs_g": 44.0,
+    "fat_g": 21.0
+  },
+  {
+    "id": 117,
+    "food_item": "Spanish Rice",
+    "serving_size": "1 cup (~200g)",
+    "calories": 280.0,
+    "protein_g": 6.0,
+    "carbs_g": 48.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 118,
+    "food_item": "Boiled Beef",
+    "serving_size": "1 serving (~200g)",
+    "calories": 340.0,
+    "protein_g": 42.0,
+    "carbs_g": 0.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 119,
+    "food_item": "Chicken Provençale",
+    "serving_size": "1 plate (~300g)",
+    "calories": 360.0,
+    "protein_g": 38.0,
+    "carbs_g": 12.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 120,
+    "food_item": "Dong'an Chicken",
+    "serving_size": "1 plate (~250g)",
+    "calories": 320.0,
+    "protein_g": 28.0,
+    "carbs_g": 14.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 121,
+    "food_item": "Drunken Chicken",
+    "serving_size": "1 serving (~200g)",
+    "calories": 290.0,
+    "protein_g": 28.0,
+    "carbs_g": 6.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 122,
+    "food_item": "Pork Tenderloin Sandwich",
+    "serving_size": "1 sandwich (~250g)",
+    "calories": 480.0,
+    "protein_g": 28.0,
+    "carbs_g": 42.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 123,
+    "food_item": "Chocolate Marshmallow Pie",
+    "serving_size": "1 slice (~120g)",
+    "calories": 430.0,
+    "protein_g": 5.0,
+    "carbs_g": 62.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 124,
+    "food_item": "Pakora",
+    "serving_size": "6 pieces (~150g)",
+    "calories": 315.0,
+    "protein_g": 7.3,
+    "carbs_g": 25.0,
+    "fat_g": 20.6
+  },
+  {
+    "id": 125,
+    "food_item": "Pavlova",
+    "serving_size": "1 slice (~150g)",
+    "calories": 290.0,
+    "protein_g": 4.0,
+    "carbs_g": 50.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 126,
+    "food_item": "Poached Egg",
+    "serving_size": "2 eggs (~100g)",
+    "calories": 144.0,
+    "protein_g": 12.0,
+    "carbs_g": 0.8,
+    "fat_g": 10.0
+  },
+  {
+    "id": 127,
+    "food_item": "Avocado Fries",
+    "serving_size": "1 serving (~150g)",
+    "calories": 340.0,
+    "protein_g": 4.0,
+    "carbs_g": 28.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 128,
+    "food_item": "Bibingka",
+    "serving_size": "1 piece (~120g)",
+    "calories": 250.0,
+    "protein_g": 5.0,
+    "carbs_g": 40.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 129,
+    "food_item": "Bugnes (French Fritter)",
+    "serving_size": "3 pieces (~90g)",
+    "calories": 340.0,
+    "protein_g": 5.0,
+    "carbs_g": 44.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 130,
+    "food_item": "Eggplant Omelette (Tortang Talong)",
+    "serving_size": "1 serving (~200g)",
+    "calories": 220.0,
+    "protein_g": 10.0,
+    "carbs_g": 12.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 131,
+    "food_item": "Hoppin' John",
+    "serving_size": "1 bowl (~250g)",
+    "calories": 380.0,
+    "protein_g": 14.0,
+    "carbs_g": 60.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 132,
+    "food_item": "Jambonneau (Ham Hock)",
+    "serving_size": "1 serving (~200g)",
+    "calories": 380.0,
+    "protein_g": 34.0,
+    "carbs_g": 0.0,
+    "fat_g": 26.0
+  },
+  {
+    "id": 133,
+    "food_item": "Rou Jia Mo (Chinese Pork Burger)",
+    "serving_size": "1 sandwich (~200g)",
+    "calories": 420.0,
+    "protein_g": 24.0,
+    "carbs_g": 48.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 134,
+    "food_item": "Bandeja Paisa",
+    "serving_size": "1 plate (~500g)",
+    "calories": 1100.0,
+    "protein_g": 58.0,
+    "carbs_g": 110.0,
+    "fat_g": 46.0
+  },
+  {
+    "id": 135,
+    "food_item": "Oysters Rockefeller",
+    "serving_size": "6 oysters (~180g)",
+    "calories": 310.0,
+    "protein_g": 14.0,
+    "carbs_g": 20.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 136,
+    "food_item": "Sweet Potato Pie",
+    "serving_size": "1 slice (~140g)",
+    "calories": 340.0,
+    "protein_g": 5.0,
+    "carbs_g": 52.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 137,
+    "food_item": "Sopa de Mandioca (Cassava Soup)",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 220.0,
+    "protein_g": 8.0,
+    "carbs_g": 36.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 138,
+    "food_item": "Çiğ Köfte",
+    "serving_size": "1 plate (~200g)",
+    "calories": 260.0,
+    "protein_g": 6.0,
+    "carbs_g": 42.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 139,
+    "food_item": "Arròs Negre (Squid Ink Rice)",
+    "serving_size": "1 plate (~300g)",
+    "calories": 420.0,
+    "protein_g": 22.0,
+    "carbs_g": 58.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 140,
+    "food_item": "Buffalo Wings",
+    "serving_size": "6 wings (~180g)",
+    "calories": 430.0,
+    "protein_g": 36.0,
+    "carbs_g": 6.0,
+    "fat_g": 28.0
+  },
+  {
+    "id": 141,
+    "food_item": "Ikan Goreng (Fried Fish)",
+    "serving_size": "1 serving (~200g)",
+    "calories": 320.0,
+    "protein_g": 34.0,
+    "carbs_g": 8.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 142,
+    "food_item": "Pâté",
+    "serving_size": "2 tbsp (~50g)",
+    "calories": 170.0,
+    "protein_g": 7.0,
+    "carbs_g": 2.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 143,
+    "food_item": "Rigatoni",
+    "serving_size": "1 plate (~250g)",
+    "calories": 400.0,
+    "protein_g": 14.0,
+    "carbs_g": 72.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 144,
+    "food_item": "Soft-Shell Crab (Fried)",
+    "serving_size": "2 crabs (~150g)",
+    "calories": 310.0,
+    "protein_g": 18.0,
+    "carbs_g": 22.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 145,
+    "food_item": "Baked Alaska",
+    "serving_size": "1 slice (~150g)",
+    "calories": 380.0,
+    "protein_g": 6.0,
+    "carbs_g": 62.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 146,
+    "food_item": "Bean Pie",
+    "serving_size": "1 slice (~120g)",
+    "calories": 320.0,
+    "protein_g": 8.0,
+    "carbs_g": 52.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 147,
+    "food_item": "Coffee Jelly",
+    "serving_size": "1 serving (~200g)",
+    "calories": 160.0,
+    "protein_g": 3.0,
+    "carbs_g": 36.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 148,
+    "food_item": "Mission Burrito",
+    "serving_size": "1 burrito (~400g)",
+    "calories": 750.0,
+    "protein_g": 36.0,
+    "carbs_g": 88.0,
+    "fat_g": 28.0
+  },
+  {
+    "id": 149,
+    "food_item": "Peanut Soup",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 420.0,
+    "protein_g": 14.0,
+    "carbs_g": 26.0,
+    "fat_g": 30.0
+  },
+  {
+    "id": 150,
+    "food_item": "Penne",
+    "serving_size": "1 plate (~250g)",
+    "calories": 380.0,
+    "protein_g": 13.0,
+    "carbs_g": 68.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 151,
+    "food_item": "Carrot Bread",
+    "serving_size": "1 slice (~60g)",
+    "calories": 180.0,
+    "protein_g": 3.0,
+    "carbs_g": 27.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 152,
+    "food_item": "Coq au Vin",
+    "serving_size": "1 serving (~350g)",
+    "calories": 450.0,
+    "protein_g": 30.0,
+    "carbs_g": 15.0,
+    "fat_g": 25.0
+  },
+  {
+    "id": 153,
+    "food_item": "Fried Cheese",
+    "serving_size": "1 serving (~100g)",
+    "calories": 381.0,
+    "protein_g": 17.0,
+    "carbs_g": 20.0,
+    "fat_g": 27.0
+  },
+  {
+    "id": 154,
+    "food_item": "Peach Melba",
+    "serving_size": "1 serving (~200g)",
+    "calories": 317.0,
+    "protein_g": 3.0,
+    "carbs_g": 62.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 155,
+    "food_item": "Fishcake",
+    "serving_size": "1 cake (~85g)",
+    "calories": 200.0,
+    "protein_g": 12.0,
+    "carbs_g": 15.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 156,
+    "food_item": "Ikan Bakar",
+    "serving_size": "1 serving (~150g)",
+    "calories": 390.0,
+    "protein_g": 27.0,
+    "carbs_g": 23.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 157,
+    "food_item": "Lohikeitto",
+    "serving_size": "1 bowl (~350g)",
+    "calories": 236.0,
+    "protein_g": 10.0,
+    "carbs_g": 13.0,
+    "fat_g": 15.4
+  },
+  {
+    "id": 158,
+    "food_item": "Rice Cakes",
+    "serving_size": "2 cakes (~18g)",
+    "calories": 380.0,
+    "protein_g": 9.0,
+    "carbs_g": 77.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 159,
+    "food_item": "Carrot Chips",
+    "serving_size": "1 serving (~30g)",
+    "calories": 350.0,
+    "protein_g": 4.0,
+    "carbs_g": 55.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 160,
+    "food_item": "Lebkuchen",
+    "serving_size": "1 cookie (~33g)",
+    "calories": 394.0,
+    "protein_g": 6.0,
+    "carbs_g": 67.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 161,
+    "food_item": "White Boiled Shrimp",
+    "serving_size": "1 serving (~100g)",
+    "calories": 99.0,
+    "protein_g": 21.0,
+    "carbs_g": 0.0,
+    "fat_g": 1.0
+  },
+  {
+    "id": 162,
+    "food_item": "Onigiri",
+    "serving_size": "1 piece (~100g)",
+    "calories": 168.0,
+    "protein_g": 3.5,
+    "carbs_g": 37.0,
+    "fat_g": 0.3
+  },
+  {
+    "id": 163,
+    "food_item": "Pongal",
+    "serving_size": "1 serving (~212g)",
+    "calories": 212.0,
+    "protein_g": 5.5,
+    "carbs_g": 29.0,
+    "fat_g": 8.2
+  },
+  {
+    "id": 164,
+    "food_item": "Rendang",
+    "serving_size": "1 serving (~150g)",
+    "calories": 350.0,
+    "protein_g": 20.0,
+    "carbs_g": 10.0,
+    "fat_g": 25.0
+  },
+  {
+    "id": 165,
+    "food_item": "Twix",
+    "serving_size": "1 bar (~58g)",
+    "calories": 502.0,
+    "protein_g": 4.9,
+    "carbs_g": 64.8,
+    "fat_g": 24.9
+  },
+  {
+    "id": 166,
+    "food_item": "Corn Crab Soup",
+    "serving_size": "1 cup (~238g)",
+    "calories": 146.0,
+    "protein_g": 9.7,
+    "carbs_g": 19.4,
+    "fat_g": 4.9
+  },
+  {
+    "id": 167,
+    "food_item": "Mushroom Gravy",
+    "serving_size": "¼ cup (~60g)",
+    "calories": 60.0,
+    "protein_g": 1.5,
+    "carbs_g": 7.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 168,
+    "food_item": "Tomato Soup",
+    "serving_size": "1 cup (~245g)",
+    "calories": 72.0,
+    "protein_g": 1.8,
+    "carbs_g": 15.0,
+    "fat_g": 1.5
+  },
+  {
+    "id": 169,
+    "food_item": "Chilli Crab",
+    "serving_size": "1 serving (~250g)",
+    "calories": 220.0,
+    "protein_g": 16.0,
+    "carbs_g": 12.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 170,
+    "food_item": "Strawberry Sundae",
+    "serving_size": "1 sundae (~150g)",
+    "calories": 192.0,
+    "protein_g": 3.0,
+    "carbs_g": 27.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 171,
+    "food_item": "Mirchi ka Salan",
+    "serving_size": "½ cup (~120g)",
+    "calories": 220.0,
+    "protein_g": 5.0,
+    "carbs_g": 9.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 172,
+    "food_item": "Spätzle",
+    "serving_size": "1 cup (~136g)",
+    "calories": 178.0,
+    "protein_g": 6.1,
+    "carbs_g": 34.0,
+    "fat_g": 2.9
+  },
+  {
+    "id": 173,
+    "food_item": "Wakame",
+    "serving_size": "½ cup (~40g)",
+    "calories": 45.0,
+    "protein_g": 3.0,
+    "carbs_g": 9.0,
+    "fat_g": 0.6
+  },
+  {
+    "id": 174,
+    "food_item": "Avocado Key Lime Pie",
+    "serving_size": "1 slice (~125g)",
+    "calories": 300.0,
+    "protein_g": 5.0,
+    "carbs_g": 38.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 175,
+    "food_item": "Red Bean Cake",
+    "serving_size": "1 piece (~80g)",
+    "calories": 280.0,
+    "protein_g": 5.5,
+    "carbs_g": 50.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 176,
+    "food_item": "Soufflé",
+    "serving_size": "1 serving (~100g)",
+    "calories": 180.0,
+    "protein_g": 9.0,
+    "carbs_g": 12.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 177,
+    "food_item": "Bon Bon Chicken",
+    "serving_size": "1 serving (~150g)",
+    "calories": 308.0,
+    "protein_g": 30.0,
+    "carbs_g": 9.0,
+    "fat_g": 16.2
+  },
+  {
+    "id": 178,
+    "food_item": "Carrot Cake Cookie",
+    "serving_size": "1 cookie (~40g)",
+    "calories": 415.0,
+    "protein_g": 5.0,
+    "carbs_g": 55.0,
+    "fat_g": 19.0
+  },
+  {
+    "id": 179,
+    "food_item": "Rogan Josh",
+    "serving_size": "1 serving (~200g)",
+    "calories": 306.0,
+    "protein_g": 26.6,
+    "carbs_g": 9.8,
+    "fat_g": 17.2
+  },
+  {
+    "id": 180,
+    "food_item": "Upside Down Cake",
+    "serving_size": "1 slice (~120g)",
+    "calories": 330.0,
+    "protein_g": 3.5,
+    "carbs_g": 50.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 181,
+    "food_item": "Café Liégeois",
+    "serving_size": "1 serving (~150g)",
+    "calories": 220.0,
+    "protein_g": 4.0,
+    "carbs_g": 28.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 182,
+    "food_item": "Strawberry Ice Cream",
+    "serving_size": "½ cup (~66g)",
+    "calories": 207.0,
+    "protein_g": 3.5,
+    "carbs_g": 24.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 183,
+    "food_item": "Denver Sandwich",
+    "serving_size": "1 sandwich (~250g)",
+    "calories": 406.0,
+    "protein_g": 23.0,
+    "carbs_g": 35.0,
+    "fat_g": 19.0
+  },
+  {
+    "id": 184,
+    "food_item": "Medu Vada",
+    "serving_size": "2 pieces (~80g)",
+    "calories": 170.0,
+    "protein_g": 6.0,
+    "carbs_g": 22.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 185,
+    "food_item": "Ciambelle",
+    "serving_size": "1 piece (~60g)",
+    "calories": 380.0,
+    "protein_g": 8.0,
+    "carbs_g": 58.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 186,
+    "food_item": "Fish Head Curry",
+    "serving_size": "1 serving (~200g)",
+    "calories": 145.0,
+    "protein_g": 15.0,
+    "carbs_g": 6.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 187,
+    "food_item": "Stuffed Avocado",
+    "serving_size": "1 half (~150g)",
+    "calories": 180.0,
+    "protein_g": 5.0,
+    "carbs_g": 9.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 188,
+    "food_item": "Bubble and Squeak",
+    "serving_size": "1 patty (~150g)",
+    "calories": 127.0,
+    "protein_g": 3.0,
+    "carbs_g": 16.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 189,
+    "food_item": "Chicken Noodle Soup",
+    "serving_size": "1 cup (~245g)",
+    "calories": 62.0,
+    "protein_g": 3.0,
+    "carbs_g": 7.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 190,
+    "food_item": "Misal Pav",
+    "serving_size": "1 plate (~289g)",
+    "calories": 289.0,
+    "protein_g": 8.7,
+    "carbs_g": 24.5,
+    "fat_g": 17.4
+  },
+  {
+    "id": 191,
+    "food_item": "Red Slaw",
+    "serving_size": "½ cup (~80g)",
+    "calories": 80.0,
+    "protein_g": 1.5,
+    "carbs_g": 8.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 192,
+    "food_item": "Sicilian Orange Salad",
+    "serving_size": "1 serving (~150g)",
+    "calories": 90.0,
+    "protein_g": 1.5,
+    "carbs_g": 14.0,
+    "fat_g": 3.5
+  },
+  {
+    "id": 193,
+    "food_item": "Mee Pok",
+    "serving_size": "1 serving (~200g)",
+    "calories": 260.0,
+    "protein_g": 10.0,
+    "carbs_g": 50.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 194,
+    "food_item": "Whitebait",
+    "serving_size": "1 serving (~100g)",
+    "calories": 434.0,
+    "protein_g": 19.5,
+    "carbs_g": 5.3,
+    "fat_g": 47.5
+  },
+  {
+    "id": 195,
+    "food_item": "Bourbon Chicken",
+    "serving_size": "1 serving (~150g)",
+    "calories": 285.0,
+    "protein_g": 27.0,
+    "carbs_g": 21.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 196,
+    "food_item": "Chicken Fingers",
+    "serving_size": "3 pieces (~90g)",
+    "calories": 230.0,
+    "protein_g": 16.0,
+    "carbs_g": 15.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 197,
+    "food_item": "Pączki",
+    "serving_size": "1 piece (~75g)",
+    "calories": 387.0,
+    "protein_g": 6.0,
+    "carbs_g": 55.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 198,
+    "food_item": "Apple Turnover",
+    "serving_size": "1 piece (~85g)",
+    "calories": 330.0,
+    "protein_g": 4.0,
+    "carbs_g": 43.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 199,
+    "food_item": "Chicken Marsala",
+    "serving_size": "1 serving (~200g)",
+    "calories": 195.0,
+    "protein_g": 20.0,
+    "carbs_g": 8.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 200,
+    "food_item": "Bacon Explosion",
+    "serving_size": "1 slice (~100g)",
+    "calories": 400.0,
+    "protein_g": 22.0,
+    "carbs_g": 2.0,
+    "fat_g": 34.0
+  },
+  {
+    "id": 201,
+    "food_item": "Chop Suey",
+    "serving_size": "1 cup (~220g)",
+    "calories": 125.0,
+    "protein_g": 8.0,
+    "carbs_g": 10.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 202,
+    "food_item": "Francesinha",
+    "serving_size": "1 serving (~350g)",
+    "calories": 310.0,
+    "protein_g": 20.0,
+    "carbs_g": 22.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 203,
+    "food_item": "Asam Pedas",
+    "serving_size": "1 serving (~200g)",
+    "calories": 100.0,
+    "protein_g": 12.0,
+    "carbs_g": 5.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 204,
+    "food_item": "Grits",
+    "serving_size": "1 cup cooked (~242g)",
+    "calories": 71.0,
+    "protein_g": 1.7,
+    "carbs_g": 15.0,
+    "fat_g": 0.5
+  },
+  {
+    "id": 205,
+    "food_item": "Pound Cake",
+    "serving_size": "1 slice (~55g)",
+    "calories": 388.0,
+    "protein_g": 5.0,
+    "carbs_g": 53.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 206,
+    "food_item": "Brisket",
+    "serving_size": "1 serving (~85g)",
+    "calories": 279.0,
+    "protein_g": 28.0,
+    "carbs_g": 0.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 207,
+    "food_item": "Duck Soup Noodles",
+    "serving_size": "1 bowl (~400g)",
+    "calories": 180.0,
+    "protein_g": 12.0,
+    "carbs_g": 22.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 208,
+    "food_item": "Vegetarian Chili",
+    "serving_size": "1 cup (~250g)",
+    "calories": 100.0,
+    "protein_g": 5.5,
+    "carbs_g": 14.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 209,
+    "food_item": "Chili",
+    "serving_size": "1 cup (~250g)",
+    "calories": 150.0,
+    "protein_g": 10.0,
+    "carbs_g": 12.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 210,
+    "food_item": "Crumpet",
+    "serving_size": "1 piece (~40g)",
+    "calories": 198.0,
+    "protein_g": 6.5,
+    "carbs_g": 38.0,
+    "fat_g": 1.5
+  },
+  {
+    "id": 211,
+    "food_item": "Turnip Cake",
+    "serving_size": "2 pieces (~100g)",
+    "calories": 170.0,
+    "protein_g": 3.5,
+    "carbs_g": 27.0,
+    "fat_g": 5.5
+  },
+  {
+    "id": 212,
+    "food_item": "Seafood Boil",
+    "serving_size": "1 serving (~300g)",
+    "calories": 180.0,
+    "protein_g": 18.0,
+    "carbs_g": 5.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 213,
+    "food_item": "Prawn Soup",
+    "serving_size": "1 cup (~240g)",
+    "calories": 50.0,
+    "protein_g": 5.0,
+    "carbs_g": 4.0,
+    "fat_g": 1.5
+  },
+  {
+    "id": 214,
+    "food_item": "Stuffed Mushrooms",
+    "serving_size": "4 pieces (~120g)",
+    "calories": 130.0,
+    "protein_g": 5.5,
+    "carbs_g": 8.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 215,
+    "food_item": "Ayam Betutu",
+    "serving_size": "1 serving (~150g)",
+    "calories": 220.0,
+    "protein_g": 22.0,
+    "carbs_g": 5.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 216,
+    "food_item": "Confit",
+    "serving_size": "1 serving (~100g)",
+    "calories": 420.0,
+    "protein_g": 25.0,
+    "carbs_g": 0.0,
+    "fat_g": 36.0
+  },
+  {
+    "id": 217,
+    "food_item": "Lobster",
+    "serving_size": "1 serving (~85g)",
+    "calories": 89.0,
+    "protein_g": 19.0,
+    "carbs_g": 0.0,
+    "fat_g": 1.5
+  },
+  {
+    "id": 218,
+    "food_item": "Tempura",
+    "serving_size": "4 pieces (~100g)",
+    "calories": 280.0,
+    "protein_g": 9.0,
+    "carbs_g": 26.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 219,
+    "food_item": "Butter Pie",
+    "serving_size": "1 slice (~150g)",
+    "calories": 330.0,
+    "protein_g": 7.0,
+    "carbs_g": 35.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 220,
+    "food_item": "Bún Ốc",
+    "serving_size": "1 bowl (~400g)",
+    "calories": 90.0,
+    "protein_g": 7.0,
+    "carbs_g": 10.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 221,
+    "food_item": "Limpet",
+    "serving_size": "1 serving (~100g)",
+    "calories": 95.0,
+    "protein_g": 18.0,
+    "carbs_g": 2.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 222,
+    "food_item": "Tenderloin",
+    "serving_size": "1 serving (~85g)",
+    "calories": 271.0,
+    "protein_g": 26.0,
+    "carbs_g": 0.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 223,
+    "food_item": "Nattō",
+    "serving_size": "1 pack (~50g)",
+    "calories": 211.0,
+    "protein_g": 17.7,
+    "carbs_g": 14.4,
+    "fat_g": 11.0
+  },
+  {
+    "id": 224,
+    "food_item": "Wonton",
+    "serving_size": "6 pieces (~90g)",
+    "calories": 150.0,
+    "protein_g": 7.0,
+    "carbs_g": 18.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 225,
+    "food_item": "Beef Stroganoff",
+    "serving_size": "1 cup (~200g)",
+    "calories": 185.0,
+    "protein_g": 14.0,
+    "carbs_g": 6.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 226,
+    "food_item": "Poori",
+    "serving_size": "2 pieces (~60g)",
+    "calories": 336.0,
+    "protein_g": 7.0,
+    "carbs_g": 40.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 227,
+    "food_item": "Puri Bhaji",
+    "serving_size": "1 plate (~200g)",
+    "calories": 280.0,
+    "protein_g": 7.0,
+    "carbs_g": 35.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 228,
+    "food_item": "Taro Dumpling",
+    "serving_size": "3 pieces (~90g)",
+    "calories": 240.0,
+    "protein_g": 5.0,
+    "carbs_g": 28.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 229,
+    "food_item": "Beef Bun",
+    "serving_size": "1 bun (~80g)",
+    "calories": 300.0,
+    "protein_g": 12.0,
+    "carbs_g": 38.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 230,
+    "food_item": "Gingerbread",
+    "serving_size": "1 piece (~40g)",
+    "calories": 365.0,
+    "protein_g": 4.5,
+    "carbs_g": 70.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 231,
+    "food_item": "Boston Cream Pie",
+    "serving_size": "1 slice (~100g)",
+    "calories": 310.0,
+    "protein_g": 5.0,
+    "carbs_g": 46.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 232,
+    "food_item": "Champurrado",
+    "serving_size": "1 cup (~240g)",
+    "calories": 100.0,
+    "protein_g": 2.5,
+    "carbs_g": 19.0,
+    "fat_g": 2.5
+  },
+  {
+    "id": 233,
+    "food_item": "Aligot",
+    "serving_size": "½ cup (~120g)",
+    "calories": 260.0,
+    "protein_g": 10.0,
+    "carbs_g": 25.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 234,
+    "food_item": "Crab Puff",
+    "serving_size": "2 pieces (~80g)",
+    "calories": 290.0,
+    "protein_g": 9.0,
+    "carbs_g": 28.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 235,
+    "food_item": "Nasi Kuning",
+    "serving_size": "1 serving (~200g)",
+    "calories": 165.0,
+    "protein_g": 3.5,
+    "carbs_g": 35.0,
+    "fat_g": 1.5
+  },
+  {
+    "id": 236,
+    "food_item": "Suckling Pig",
+    "serving_size": "1 serving (~100g)",
+    "calories": 295.0,
+    "protein_g": 23.0,
+    "carbs_g": 0.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 237,
+    "food_item": "Coquilles Saint-Jacques",
+    "serving_size": "1 serving (~150g)",
+    "calories": 180.0,
+    "protein_g": 16.0,
+    "carbs_g": 8.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 238,
+    "food_item": "Cottage Pie",
+    "serving_size": "1 serving (~250g)",
+    "calories": 130.0,
+    "protein_g": 8.5,
+    "carbs_g": 10.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 239,
+    "food_item": "Apple Dumpling",
+    "serving_size": "1 piece (~150g)",
+    "calories": 280.0,
+    "protein_g": 3.0,
+    "carbs_g": 45.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 240,
+    "food_item": "Botan-ebi",
+    "serving_size": "1 serving (~85g)",
+    "calories": 95.0,
+    "protein_g": 18.0,
+    "carbs_g": 1.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 241,
+    "food_item": "Pig's Trotters",
+    "serving_size": "1 serving (~100g)",
+    "calories": 240.0,
+    "protein_g": 19.0,
+    "carbs_g": 0.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 242,
+    "food_item": "Laddu",
+    "serving_size": "1 piece (~50g)",
+    "calories": 450.0,
+    "protein_g": 7.0,
+    "carbs_g": 65.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 243,
+    "food_item": "Okinawa Soba",
+    "serving_size": "1 bowl (~350g)",
+    "calories": 155.0,
+    "protein_g": 9.0,
+    "carbs_g": 26.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 244,
+    "food_item": "Barbecued Spareribs",
+    "serving_size": "1 serving (~140g)",
+    "calories": 310.0,
+    "protein_g": 22.0,
+    "carbs_g": 8.0,
+    "fat_g": 21.0
+  },
+  {
+    "id": 245,
+    "food_item": "Sheep's Trotters",
+    "serving_size": "1 serving (~100g)",
+    "calories": 210.0,
+    "protein_g": 20.0,
+    "carbs_g": 0.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 246,
+    "food_item": "Syrniki",
+    "serving_size": "3 cakes (~120g)",
+    "calories": 230.0,
+    "protein_g": 12.0,
+    "carbs_g": 22.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 247,
+    "food_item": "Frittata",
+    "serving_size": "1 serving (~120g)",
+    "calories": 170.0,
+    "protein_g": 13.0,
+    "carbs_g": 3.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 248,
+    "food_item": "Vindaloo",
+    "serving_size": "1 serving (~200g)",
+    "calories": 175.0,
+    "protein_g": 18.0,
+    "carbs_g": 6.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 249,
+    "food_item": "Croissant",
+    "serving_size": "1 medium (~57g)",
+    "calories": 406.0,
+    "protein_g": 8.0,
+    "carbs_g": 46.0,
+    "fat_g": 21.0
+  },
+  {
+    "id": 250,
+    "food_item": "Lettuce Soup",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 35.0,
+    "protein_g": 2.0,
+    "carbs_g": 4.0,
+    "fat_g": 1.5
+  },
+  {
+    "id": 251,
+    "food_item": "Refried Beans",
+    "serving_size": "½ cup (~120g)",
+    "calories": 108.0,
+    "protein_g": 6.0,
+    "carbs_g": 16.3,
+    "fat_g": 2.4
+  },
+  {
+    "id": 252,
+    "food_item": "Apple Cobbler",
+    "serving_size": "1 serving (~150g)",
+    "calories": 265.0,
+    "protein_g": 2.5,
+    "carbs_g": 48.0,
+    "fat_g": 7.5
+  },
+  {
+    "id": 253,
+    "food_item": "Naengmyeon",
+    "serving_size": "1 bowl (~400g)",
+    "calories": 125.0,
+    "protein_g": 4.0,
+    "carbs_g": 25.0,
+    "fat_g": 1.0
+  },
+  {
+    "id": 254,
+    "food_item": "Strudel",
+    "serving_size": "1 slice (~100g)",
+    "calories": 274.0,
+    "protein_g": 3.3,
+    "carbs_g": 40.5,
+    "fat_g": 11.0
+  },
+  {
+    "id": 255,
+    "food_item": "Cannelloni",
+    "serving_size": "2 tubes (~200g)",
+    "calories": 157.0,
+    "protein_g": 6.3,
+    "carbs_g": 18.4,
+    "fat_g": 6.5
+  },
+  {
+    "id": 256,
+    "food_item": "Orange Chicken",
+    "serving_size": "1 serving (~150g)",
+    "calories": 262.0,
+    "protein_g": 14.5,
+    "carbs_g": 22.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 257,
+    "food_item": "Chowder",
+    "serving_size": "1 cup (~245g)",
+    "calories": 102.0,
+    "protein_g": 4.5,
+    "carbs_g": 12.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 258,
+    "food_item": "Sapo Tahu",
+    "serving_size": "1 serving (~200g)",
+    "calories": 118.0,
+    "protein_g": 8.0,
+    "carbs_g": 7.0,
+    "fat_g": 6.5
+  },
+  {
+    "id": 259,
+    "food_item": "Shrimp Toast",
+    "serving_size": "2 pieces (~80g)",
+    "calories": 320.0,
+    "protein_g": 10.0,
+    "carbs_g": 22.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 260,
+    "food_item": "Boiled Egg",
+    "serving_size": "1 large egg (~50g)",
+    "calories": 155.0,
+    "protein_g": 13.0,
+    "carbs_g": 1.1,
+    "fat_g": 11.0
+  },
+  {
+    "id": 261,
+    "food_item": "Ham and Eggs",
+    "serving_size": "1 serving (~150g)",
+    "calories": 195.0,
+    "protein_g": 16.0,
+    "carbs_g": 2.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 262,
+    "food_item": "Prawn Cocktail",
+    "serving_size": "1 serving (~150g)",
+    "calories": 85.0,
+    "protein_g": 13.5,
+    "carbs_g": 5.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 263,
+    "food_item": "Chicken Cacciatore",
+    "serving_size": "1 cup (~244g)",
+    "calories": 109.0,
+    "protein_g": 9.3,
+    "carbs_g": 4.8,
+    "fat_g": 5.4
+  },
+  {
+    "id": 264,
+    "food_item": "Parmigiana",
+    "serving_size": "1 serving (~200g)",
+    "calories": 175.0,
+    "protein_g": 11.0,
+    "carbs_g": 10.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 265,
+    "food_item": "Bánh Bò",
+    "serving_size": "1 piece (~80g)",
+    "calories": 240.0,
+    "protein_g": 3.5,
+    "carbs_g": 45.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 266,
+    "food_item": "Es Campur",
+    "serving_size": "1 glass (~350g)",
+    "calories": 185.0,
+    "protein_g": 2.5,
+    "carbs_g": 38.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 267,
+    "food_item": "Stew Peas",
+    "serving_size": "1 cup (~250g)",
+    "calories": 148.0,
+    "protein_g": 9.0,
+    "carbs_g": 18.0,
+    "fat_g": 4.5
+  },
+  {
+    "id": 268,
+    "food_item": "Bacon Lettuce Tomato Sandwich",
+    "serving_size": "1 sandwich (~180g)",
+    "calories": 248.0,
+    "protein_g": 11.0,
+    "carbs_g": 27.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 269,
+    "food_item": "Cherry Ice Cream",
+    "serving_size": "½ cup (~66g)",
+    "calories": 207.0,
+    "protein_g": 3.5,
+    "carbs_g": 24.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 270,
+    "food_item": "Corn Tortilla",
+    "serving_size": "1 tortilla (~28g)",
+    "calories": 218.0,
+    "protein_g": 5.5,
+    "carbs_g": 45.0,
+    "fat_g": 2.5
+  },
+  {
+    "id": 271,
+    "food_item": "Dolmas",
+    "serving_size": "4 pieces (~100g)",
+    "calories": 133.0,
+    "protein_g": 2.9,
+    "carbs_g": 16.7,
+    "fat_g": 6.7
+  },
+  {
+    "id": 272,
+    "food_item": "Set Dosa",
+    "serving_size": "2 dosas (~160g)",
+    "calories": 188.0,
+    "protein_g": 5.2,
+    "carbs_g": 32.0,
+    "fat_g": 5.5
+  },
+  {
+    "id": 273,
+    "food_item": "Avocado Sauce",
+    "serving_size": "2 tbsp (~30g)",
+    "calories": 160.0,
+    "protein_g": 2.0,
+    "carbs_g": 7.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 274,
+    "food_item": "Arancini",
+    "serving_size": "2 balls (~120g)",
+    "calories": 300.0,
+    "protein_g": 8.0,
+    "carbs_g": 37.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 275,
+    "food_item": "Sweet Saffron Rice",
+    "serving_size": "1 cup (~185g)",
+    "calories": 220.0,
+    "protein_g": 4.0,
+    "carbs_g": 46.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 276,
+    "food_item": "Fettuccine",
+    "serving_size": "1 cup cooked (~140g)",
+    "calories": 99.0,
+    "protein_g": 6.2,
+    "carbs_g": 20.0,
+    "fat_g": 2.1
+  },
+  {
+    "id": 277,
+    "food_item": "Melt Sandwich",
+    "serving_size": "1 sandwich (~200g)",
+    "calories": 295.0,
+    "protein_g": 16.0,
+    "carbs_g": 28.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 278,
+    "food_item": "Sev Puri",
+    "serving_size": "6 puris (~100g)",
+    "calories": 315.0,
+    "protein_g": 6.5,
+    "carbs_g": 42.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 279,
+    "food_item": "Wenchang Chicken",
+    "serving_size": "1 serving (~150g)",
+    "calories": 195.0,
+    "protein_g": 22.0,
+    "carbs_g": 2.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 280,
+    "food_item": "Crayfish",
+    "serving_size": "1 serving (~85g)",
+    "calories": 77.0,
+    "protein_g": 16.0,
+    "carbs_g": 0.0,
+    "fat_g": 1.1
+  },
+  {
+    "id": 281,
+    "food_item": "Terrine",
+    "serving_size": "1 slice (~80g)",
+    "calories": 210.0,
+    "protein_g": 14.0,
+    "carbs_g": 2.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 282,
+    "food_item": "Red Bean Ice",
+    "serving_size": "1 cup (~250g)",
+    "calories": 160.0,
+    "protein_g": 3.5,
+    "carbs_g": 32.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 283,
+    "food_item": "Bánh Canh",
+    "serving_size": "1 bowl (~400g)",
+    "calories": 140.0,
+    "protein_g": 8.5,
+    "carbs_g": 22.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 284,
+    "food_item": "Bhindi Masala",
+    "serving_size": "1 cup (~150g)",
+    "calories": 125.0,
+    "protein_g": 3.5,
+    "carbs_g": 12.0,
+    "fat_g": 7.5
+  },
+  {
+    "id": 285,
+    "food_item": "Custard",
+    "serving_size": "½ cup (~120g)",
+    "calories": 122.0,
+    "protein_g": 4.0,
+    "carbs_g": 16.5,
+    "fat_g": 4.5
+  },
+  {
+    "id": 286,
+    "food_item": "Chiles en Nogada",
+    "serving_size": "1 chile (~200g)",
+    "calories": 215.0,
+    "protein_g": 9.0,
+    "carbs_g": 22.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 287,
+    "food_item": "Linguine",
+    "serving_size": "1 cup cooked (~140g)",
+    "calories": 131.0,
+    "protein_g": 5.5,
+    "carbs_g": 26.0,
+    "fat_g": 1.0
+  },
+  {
+    "id": 288,
+    "food_item": "Minestrone",
+    "serving_size": "1 cup (~245g)",
+    "calories": 82.0,
+    "protein_g": 4.5,
+    "carbs_g": 11.5,
+    "fat_g": 2.0
+  },
+  {
+    "id": 289,
+    "food_item": "Brown Stew Chicken",
+    "serving_size": "1 serving (~200g)",
+    "calories": 185.0,
+    "protein_g": 20.0,
+    "carbs_g": 6.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 290,
+    "food_item": "Cheese Maki",
+    "serving_size": "6 pieces (~100g)",
+    "calories": 210.0,
+    "protein_g": 7.0,
+    "carbs_g": 30.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 291,
+    "food_item": "Ham and Cheese Sandwich",
+    "serving_size": "1 sandwich (~150g)",
+    "calories": 310.0,
+    "protein_g": 17.0,
+    "carbs_g": 26.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 292,
+    "food_item": "Ginger Beef",
+    "serving_size": "1 serving (~150g)",
+    "calories": 245.0,
+    "protein_g": 18.0,
+    "carbs_g": 14.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 293,
+    "food_item": "Meatball",
+    "serving_size": "3 pieces (~90g)",
+    "calories": 248.0,
+    "protein_g": 16.0,
+    "carbs_g": 8.0,
+    "fat_g": 17.0
+  },
+  {
+    "id": 294,
+    "food_item": "Cassoulet",
+    "serving_size": "1 cup (~250g)",
+    "calories": 153.0,
+    "protein_g": 10.5,
+    "carbs_g": 14.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 295,
+    "food_item": "Chicken Cordon Bleu",
+    "serving_size": "1 piece (~140g)",
+    "calories": 229.0,
+    "protein_g": 21.0,
+    "carbs_g": 11.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 296,
+    "food_item": "Chicken Parmigiana",
+    "serving_size": "1 serving (~200g)",
+    "calories": 204.0,
+    "protein_g": 21.0,
+    "carbs_g": 9.0,
+    "fat_g": 9.5
+  },
+  {
+    "id": 297,
+    "food_item": "Plateau de Fruits de Mer",
+    "serving_size": "1 serving (~300g)",
+    "calories": 100.0,
+    "protein_g": 18.0,
+    "carbs_g": 3.0,
+    "fat_g": 2.5
+  },
+  {
+    "id": 298,
+    "food_item": "Babi Panggang",
+    "serving_size": "1 serving (~150g)",
+    "calories": 280.0,
+    "protein_g": 22.0,
+    "carbs_g": 4.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 299,
+    "food_item": "Crumble",
+    "serving_size": "1 serving (~120g)",
+    "calories": 290.0,
+    "protein_g": 3.5,
+    "carbs_g": 45.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 300,
+    "food_item": "Italian Tomato Pie",
+    "serving_size": "1 slice (~150g)",
+    "calories": 240.0,
+    "protein_g": 8.5,
+    "carbs_g": 32.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 301,
+    "food_item": "Thukpa",
+    "serving_size": "1 bowl (~400g)",
+    "calories": 130.0,
+    "protein_g": 9.0,
+    "carbs_g": 18.0,
+    "fat_g": 3.5
+  },
+  {
+    "id": 302,
+    "food_item": "Caldo Verde",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 75.0,
+    "protein_g": 3.5,
+    "carbs_g": 10.0,
+    "fat_g": 2.5
+  },
+  {
+    "id": 303,
+    "food_item": "Sambar",
+    "serving_size": "1 cup (~240g)",
+    "calories": 60.0,
+    "protein_g": 3.5,
+    "carbs_g": 8.5,
+    "fat_g": 1.5
+  },
+  {
+    "id": 304,
+    "food_item": "Colcannon",
+    "serving_size": "1 cup (~200g)",
+    "calories": 150.0,
+    "protein_g": 4.0,
+    "carbs_g": 22.0,
+    "fat_g": 5.5
+  },
+  {
+    "id": 305,
+    "food_item": "Dandan Noodles",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 280.0,
+    "protein_g": 14.0,
+    "carbs_g": 32.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 306,
+    "food_item": "Lemon Meringue Pie",
+    "serving_size": "1 slice (~100g)",
+    "calories": 325.0,
+    "protein_g": 4.5,
+    "carbs_g": 56.0,
+    "fat_g": 9.5
+  },
+  {
+    "id": 307,
+    "food_item": "Rice and Peas",
+    "serving_size": "1 cup (~200g)",
+    "calories": 205.0,
+    "protein_g": 5.5,
+    "carbs_g": 40.0,
+    "fat_g": 3.5
+  },
+  {
+    "id": 308,
+    "food_item": "Stinky Tofu",
+    "serving_size": "1 serving (~100g)",
+    "calories": 145.0,
+    "protein_g": 10.0,
+    "carbs_g": 5.0,
+    "fat_g": 9.5
+  },
+  {
+    "id": 309,
+    "food_item": "Beef Chow Fun",
+    "serving_size": "1 serving (~280g)",
+    "calories": 185.0,
+    "protein_g": 11.0,
+    "carbs_g": 22.0,
+    "fat_g": 6.5
+  },
+  {
+    "id": 310,
+    "food_item": "Red Beans and Rice",
+    "serving_size": "1 cup (~200g)",
+    "calories": 195.0,
+    "protein_g": 8.5,
+    "carbs_g": 35.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 311,
+    "food_item": "Ayam Goreng",
+    "serving_size": "1 piece (~100g)",
+    "calories": 260.0,
+    "protein_g": 20.0,
+    "carbs_g": 10.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 312,
+    "food_item": "Tsukemono",
+    "serving_size": "¼ cup (~50g)",
+    "calories": 20.0,
+    "protein_g": 1.0,
+    "carbs_g": 4.0,
+    "fat_g": 0.1
+  },
+  {
+    "id": 313,
+    "food_item": "Unagi",
+    "serving_size": "1 serving (~85g)",
+    "calories": 184.0,
+    "protein_g": 18.4,
+    "carbs_g": 0.0,
+    "fat_g": 11.5
+  },
+  {
+    "id": 314,
+    "food_item": "Farfalle",
+    "serving_size": "1 cup cooked (~140g)",
+    "calories": 131.0,
+    "protein_g": 5.0,
+    "carbs_g": 27.0,
+    "fat_g": 0.5
+  },
+  {
+    "id": 315,
+    "food_item": "Cockle",
+    "serving_size": "1 serving (~100g)",
+    "calories": 79.0,
+    "protein_g": 13.0,
+    "carbs_g": 2.0,
+    "fat_g": 1.5
+  },
+  {
+    "id": 316,
+    "food_item": "Milk Shake",
+    "serving_size": "1 cup (~300g)",
+    "calories": 112.0,
+    "protein_g": 3.5,
+    "carbs_g": 18.0,
+    "fat_g": 3.5
+  },
+  {
+    "id": 317,
+    "food_item": "Pot Roast",
+    "serving_size": "1 serving (~170g)",
+    "calories": 218.0,
+    "protein_g": 25.0,
+    "carbs_g": 3.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 318,
+    "food_item": "Corn Pudding",
+    "serving_size": "½ cup (~120g)",
+    "calories": 175.0,
+    "protein_g": 4.0,
+    "carbs_g": 28.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 319,
+    "food_item": "She-Crab Soup",
+    "serving_size": "1 cup (~245g)",
+    "calories": 145.0,
+    "protein_g": 9.0,
+    "carbs_g": 8.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 320,
+    "food_item": "Torte",
+    "serving_size": "1 slice (~100g)",
+    "calories": 380.0,
+    "protein_g": 6.0,
+    "carbs_g": 42.0,
+    "fat_g": 21.0
+  },
+  {
+    "id": 321,
+    "food_item": "Coda alla Vaccinara",
+    "serving_size": "1 serving (~250g)",
+    "calories": 195.0,
+    "protein_g": 18.0,
+    "carbs_g": 8.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 322,
+    "food_item": "Chazuke",
+    "serving_size": "1 bowl (~350g)",
+    "calories": 80.0,
+    "protein_g": 4.5,
+    "carbs_g": 14.0,
+    "fat_g": 1.0
+  },
+  {
+    "id": 323,
+    "food_item": "Egg Roll",
+    "serving_size": "1 roll (~85g)",
+    "calories": 220.0,
+    "protein_g": 7.5,
+    "carbs_g": 24.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 324,
+    "food_item": "Vitello Tonnato",
+    "serving_size": "1 serving (~150g)",
+    "calories": 215.0,
+    "protein_g": 22.0,
+    "carbs_g": 3.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 325,
+    "food_item": "Croquette",
+    "serving_size": "2 pieces (~80g)",
+    "calories": 250.0,
+    "protein_g": 8.0,
+    "carbs_g": 22.0,
+    "fat_g": 14.5
+  },
+  {
+    "id": 326,
+    "food_item": "Blackberry Pie",
+    "serving_size": "1 slice (~125g)",
+    "calories": 290.0,
+    "protein_g": 3.0,
+    "carbs_g": 44.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 327,
+    "food_item": "Bún Bò Huế",
+    "serving_size": "1 bowl (~500g)",
+    "calories": 120.0,
+    "protein_g": 8.5,
+    "carbs_g": 14.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 328,
+    "food_item": "Cheese Pudding",
+    "serving_size": "½ cup (~120g)",
+    "calories": 215.0,
+    "protein_g": 11.0,
+    "carbs_g": 12.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 329,
+    "food_item": "Banana Pancakes",
+    "serving_size": "2 pancakes (~120g)",
+    "calories": 245.0,
+    "protein_g": 5.5,
+    "carbs_g": 38.0,
+    "fat_g": 8.5
+  },
+  {
+    "id": 330,
+    "food_item": "Clam",
+    "serving_size": "1 serving (~85g)",
+    "calories": 74.0,
+    "protein_g": 12.8,
+    "carbs_g": 2.6,
+    "fat_g": 1.0
+  },
+  {
+    "id": 331,
+    "food_item": "Andong Jjimdak",
+    "serving_size": "1 serving (~250g)",
+    "calories": 185.0,
+    "protein_g": 17.0,
+    "carbs_g": 14.0,
+    "fat_g": 7.5
+  },
+  {
+    "id": 332,
+    "food_item": "Tafelspitz",
+    "serving_size": "1 serving (~200g)",
+    "calories": 170.0,
+    "protein_g": 24.0,
+    "carbs_g": 2.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 333,
+    "food_item": "Arab Salad",
+    "serving_size": "1 cup (~200g)",
+    "calories": 80.0,
+    "protein_g": 2.0,
+    "carbs_g": 8.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 334,
+    "food_item": "Pommes Dauphine",
+    "serving_size": "6 pieces (~100g)",
+    "calories": 265.0,
+    "protein_g": 5.0,
+    "carbs_g": 28.0,
+    "fat_g": 14.5
+  },
+  {
+    "id": 335,
+    "food_item": "Pasta (plain)",
+    "serving_size": "1 cup cooked (~140g)",
+    "calories": 131.0,
+    "protein_g": 5.0,
+    "carbs_g": 25.0,
+    "fat_g": 1.0
+  },
+  {
+    "id": 336,
+    "food_item": "Plum Cake",
+    "serving_size": "1 slice (~100g)",
+    "calories": 350.0,
+    "protein_g": 5.0,
+    "carbs_g": 52.0,
+    "fat_g": 13.5
+  },
+  {
+    "id": 337,
+    "food_item": "Kadhi",
+    "serving_size": "1 cup (~240g)",
+    "calories": 120.0,
+    "protein_g": 4.5,
+    "carbs_g": 10.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 338,
+    "food_item": "Corn Dog",
+    "serving_size": "1 dog (~75g)",
+    "calories": 260.0,
+    "protein_g": 7.0,
+    "carbs_g": 26.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 339,
+    "food_item": "Suanmeitang",
+    "serving_size": "1 cup (~250g)",
+    "calories": 50.0,
+    "protein_g": 0.5,
+    "carbs_g": 12.0,
+    "fat_g": 0.1
+  },
+  {
+    "id": 340,
+    "food_item": "Barbecued Wing",
+    "serving_size": "3 wings (~120g)",
+    "calories": 285.0,
+    "protein_g": 22.0,
+    "carbs_g": 8.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 341,
+    "food_item": "Cheese Roll",
+    "serving_size": "1 roll (~80g)",
+    "calories": 290.0,
+    "protein_g": 11.0,
+    "carbs_g": 30.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 342,
+    "food_item": "Crudo",
+    "serving_size": "1 serving (~100g)",
+    "calories": 95.0,
+    "protein_g": 16.0,
+    "carbs_g": 1.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 343,
+    "food_item": "Corn Chip",
+    "serving_size": "1 oz (~28g)",
+    "calories": 520.0,
+    "protein_g": 7.0,
+    "carbs_g": 58.0,
+    "fat_g": 29.0
+  },
+  {
+    "id": 344,
+    "food_item": "Tinga",
+    "serving_size": "1 serving (~150g)",
+    "calories": 185.0,
+    "protein_g": 16.0,
+    "carbs_g": 8.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 345,
+    "food_item": "Fritter",
+    "serving_size": "2 pieces (~80g)",
+    "calories": 280.0,
+    "protein_g": 5.5,
+    "carbs_g": 30.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 346,
+    "food_item": "Kung Pao Chicken",
+    "serving_size": "1 cup (~200g)",
+    "calories": 129.0,
+    "protein_g": 9.8,
+    "carbs_g": 6.0,
+    "fat_g": 7.5
+  },
+  {
+    "id": 347,
+    "food_item": "Zürcher Geschnetzeltes",
+    "serving_size": "1 serving (~200g)",
+    "calories": 220.0,
+    "protein_g": 20.0,
+    "carbs_g": 5.0,
+    "fat_g": 13.5
+  },
+  {
+    "id": 348,
+    "food_item": "Crab",
+    "serving_size": "1 serving (~85g)",
+    "calories": 84.0,
+    "protein_g": 17.4,
+    "carbs_g": 0.0,
+    "fat_g": 1.5
+  },
+  {
+    "id": 349,
+    "food_item": "Enchilada",
+    "serving_size": "1 enchilada (~170g)",
+    "calories": 213.0,
+    "protein_g": 10.0,
+    "carbs_g": 24.0,
+    "fat_g": 8.5
+  },
+  {
+    "id": 350,
+    "food_item": "Chicken and Waffles",
+    "serving_size": "1 serving (~250g)",
+    "calories": 340.0,
+    "protein_g": 22.0,
+    "carbs_g": 32.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 351,
+    "food_item": "Chili_con_carne",
+    "serving_size": "1 cup (~250g)",
+    "calories": 270.0,
+    "protein_g": 15.0,
+    "carbs_g": 22.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 352,
+    "food_item": "Mutton_korma",
+    "serving_size": "1 cup (~250g)",
+    "calories": 420.0,
+    "protein_g": 24.0,
+    "carbs_g": 10.0,
+    "fat_g": 33.0
+  },
+  {
+    "id": 353,
+    "food_item": "Couscous",
+    "serving_size": "1 cup cooked (~157g)",
+    "calories": 176.0,
+    "protein_g": 6.0,
+    "carbs_g": 36.0,
+    "fat_g": 0.3
+  },
+  {
+    "id": 354,
+    "food_item": "Crab_in_Padang_sauce",
+    "serving_size": "1 serving (~300g)",
+    "calories": 380.0,
+    "protein_g": 28.0,
+    "carbs_g": 22.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 355,
+    "food_item": "Bacon_egg_and_cheese_sandwich",
+    "serving_size": "1 sandwich (~150g)",
+    "calories": 400.0,
+    "protein_g": 18.0,
+    "carbs_g": 30.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 356,
+    "food_item": "Adobo",
+    "serving_size": "1 serving (~200g)",
+    "calories": 300.0,
+    "protein_g": 25.0,
+    "carbs_g": 5.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 357,
+    "food_item": "Mì_Quảng",
+    "serving_size": "1 bowl (~350g)",
+    "calories": 550.0,
+    "protein_g": 28.0,
+    "carbs_g": 65.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 358,
+    "food_item": "Coconut_cream",
+    "serving_size": "1/4 cup (~60g)",
+    "calories": 198.0,
+    "protein_g": 2.0,
+    "carbs_g": 4.0,
+    "fat_g": 21.0
+  },
+  {
+    "id": 359,
+    "food_item": "Mushy_peas",
+    "serving_size": "1 serving (~100g)",
+    "calories": 98.0,
+    "protein_g": 6.0,
+    "carbs_g": 16.0,
+    "fat_g": 0.4
+  },
+  {
+    "id": 360,
+    "food_item": "Pork_tenderloin",
+    "serving_size": "3 oz cooked (~85g)",
+    "calories": 122.0,
+    "protein_g": 22.0,
+    "carbs_g": 0.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 361,
+    "food_item": "Pasta_alla_Norma",
+    "serving_size": "1 serving (~350g)",
+    "calories": 480.0,
+    "protein_g": 16.0,
+    "carbs_g": 68.0,
+    "fat_g": 17.0
+  },
+  {
+    "id": 362,
+    "food_item": "Crumb_cake",
+    "serving_size": "1 slice (~92g)",
+    "calories": 340.0,
+    "protein_g": 5.0,
+    "carbs_g": 56.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 363,
+    "food_item": "Orzo",
+    "serving_size": "1 cup cooked (~157g)",
+    "calories": 221.0,
+    "protein_g": 8.0,
+    "carbs_g": 44.0,
+    "fat_g": 1.3
+  },
+  {
+    "id": 364,
+    "food_item": "Soba",
+    "serving_size": "1 cup cooked (~114g)",
+    "calories": 113.0,
+    "protein_g": 6.0,
+    "carbs_g": 24.0,
+    "fat_g": 0.1
+  },
+  {
+    "id": 365,
+    "food_item": "Banana_split",
+    "serving_size": "1 serving (~400g)",
+    "calories": 800.0,
+    "protein_g": 10.0,
+    "carbs_g": 120.0,
+    "fat_g": 30.0
+  },
+  {
+    "id": 366,
+    "food_item": "Compote",
+    "serving_size": "1/2 cup (~125g)",
+    "calories": 107.0,
+    "protein_g": 1.0,
+    "carbs_g": 27.0,
+    "fat_g": 0.3
+  },
+  {
+    "id": 367,
+    "food_item": "Kheer",
+    "serving_size": "1 cup (~250g)",
+    "calories": 308.0,
+    "protein_g": 11.0,
+    "carbs_g": 35.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 368,
+    "food_item": "Chiffon_cake",
+    "serving_size": "1 slice (~80g)",
+    "calories": 250.0,
+    "protein_g": 5.0,
+    "carbs_g": 38.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 369,
+    "food_item": "Fish_chowder",
+    "serving_size": "1 cup (~244g)",
+    "calories": 276.0,
+    "protein_g": 20.0,
+    "carbs_g": 15.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 370,
+    "food_item": "Lentil_soup",
+    "serving_size": "1 cup (~250g)",
+    "calories": 180.0,
+    "protein_g": 10.0,
+    "carbs_g": 25.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 371,
+    "food_item": "Coffee_cake",
+    "serving_size": "1 slice (~58g)",
+    "calories": 189.0,
+    "protein_g": 3.0,
+    "carbs_g": 29.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 372,
+    "food_item": "Pasta_al_pomodoro",
+    "serving_size": "1 serving (~300g)",
+    "calories": 350.0,
+    "protein_g": 12.0,
+    "carbs_g": 60.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 373,
+    "food_item": "Currywurst",
+    "serving_size": "1 serving (~138g)",
+    "calories": 341.0,
+    "protein_g": 13.0,
+    "carbs_g": 18.0,
+    "fat_g": 25.0
+  },
+  {
+    "id": 374,
+    "food_item": "Oyster_omelette",
+    "serving_size": "1 serving (~200g)",
+    "calories": 320.0,
+    "protein_g": 15.0,
+    "carbs_g": 25.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 375,
+    "food_item": "Cobbler_food",
+    "serving_size": "1 serving (~150g)",
+    "calories": 350.0,
+    "protein_g": 3.0,
+    "carbs_g": 55.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 376,
+    "food_item": "Cheese_bun",
+    "serving_size": "1 bun (~100g)",
+    "calories": 320.0,
+    "protein_g": 10.0,
+    "carbs_g": 42.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 377,
+    "food_item": "Casserole",
+    "serving_size": "1 cup (~240g)",
+    "calories": 300.0,
+    "protein_g": 18.0,
+    "carbs_g": 22.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 378,
+    "food_item": "Huitre (Oysters)",
+    "serving_size": "6 medium (~84g)",
+    "calories": 57.0,
+    "protein_g": 6.0,
+    "carbs_g": 3.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 379,
+    "food_item": "Cherry_pie",
+    "serving_size": "1 slice (~125g)",
+    "calories": 325.0,
+    "protein_g": 3.0,
+    "carbs_g": 50.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 380,
+    "food_item": "Anzac_biscuit",
+    "serving_size": "1 biscuit (~30g)",
+    "calories": 132.0,
+    "protein_g": 2.0,
+    "carbs_g": 18.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 381,
+    "food_item": "Broccoli_slaw",
+    "serving_size": "1 cup (~140g)",
+    "calories": 130.0,
+    "protein_g": 3.0,
+    "carbs_g": 15.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 382,
+    "food_item": "Cotoletta",
+    "serving_size": "1 piece (~150g)",
+    "calories": 380.0,
+    "protein_g": 27.0,
+    "carbs_g": 18.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 383,
+    "food_item": "Soused_herring",
+    "serving_size": "1 fillet (~75g)",
+    "calories": 145.0,
+    "protein_g": 15.0,
+    "carbs_g": 3.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 384,
+    "food_item": "Black_pepper_crab",
+    "serving_size": "1 serving (~300g)",
+    "calories": 350.0,
+    "protein_g": 30.0,
+    "carbs_g": 10.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 385,
+    "food_item": "Pizza_pugliese",
+    "serving_size": "1 slice (~120g)",
+    "calories": 280.0,
+    "protein_g": 11.0,
+    "carbs_g": 35.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 386,
+    "food_item": "Stir-fried_tomato_and_scrambled_eggs",
+    "serving_size": "1 serving (~200g)",
+    "calories": 210.0,
+    "protein_g": 12.0,
+    "carbs_g": 10.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 387,
+    "food_item": "Torta_caprese",
+    "serving_size": "1 slice (~100g)",
+    "calories": 400.0,
+    "protein_g": 7.0,
+    "carbs_g": 35.0,
+    "fat_g": 27.0
+  },
+  {
+    "id": 388,
+    "food_item": "Green_papaya_salad",
+    "serving_size": "1 cup (~200g)",
+    "calories": 100.0,
+    "protein_g": 2.0,
+    "carbs_g": 20.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 389,
+    "food_item": "Har_gow",
+    "serving_size": "4 pieces (~80g)",
+    "calories": 130.0,
+    "protein_g": 8.0,
+    "carbs_g": 16.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 390,
+    "food_item": "Kaju_katli",
+    "serving_size": "2 pieces (~30g)",
+    "calories": 160.0,
+    "protein_g": 3.0,
+    "carbs_g": 22.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 391,
+    "food_item": "Strawberry_jam",
+    "serving_size": "1 tbsp (~20g)",
+    "calories": 56.0,
+    "protein_g": 0.0,
+    "carbs_g": 14.0,
+    "fat_g": 0.0
+  },
+  {
+    "id": 392,
+    "food_item": "Carrot_juice",
+    "serving_size": "1 cup (~236ml)",
+    "calories": 94.0,
+    "protein_g": 2.0,
+    "carbs_g": 22.0,
+    "fat_g": 0.3
+  },
+  {
+    "id": 393,
+    "food_item": "Beef_noodle_soup",
+    "serving_size": "1 bowl (~400g)",
+    "calories": 450.0,
+    "protein_g": 28.0,
+    "carbs_g": 50.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 394,
+    "food_item": "Michigan_hot_dog",
+    "serving_size": "1 dog (~150g)",
+    "calories": 380.0,
+    "protein_g": 14.0,
+    "carbs_g": 32.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 395,
+    "food_item": "Avocado_bread (Avocado Toast)",
+    "serving_size": "1 slice (~150g)",
+    "calories": 290.0,
+    "protein_g": 7.0,
+    "carbs_g": 30.0,
+    "fat_g": 17.0
+  },
+  {
+    "id": 396,
+    "food_item": "Calamari",
+    "serving_size": "1 serving (~85g)",
+    "calories": 149.0,
+    "protein_g": 15.0,
+    "carbs_g": 7.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 397,
+    "food_item": "Christmas_cake",
+    "serving_size": "1 slice (~80g)",
+    "calories": 320.0,
+    "protein_g": 4.0,
+    "carbs_g": 56.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 398,
+    "food_item": "Payasam",
+    "serving_size": "1 cup (~250g)",
+    "calories": 280.0,
+    "protein_g": 7.0,
+    "carbs_g": 45.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 399,
+    "food_item": "Pork_Knuckles_and_Ginger_Stew",
+    "serving_size": "1 serving (~300g)",
+    "calories": 520.0,
+    "protein_g": 35.0,
+    "carbs_g": 18.0,
+    "fat_g": 35.0
+  },
+  {
+    "id": 400,
+    "food_item": "Rajma_chawal",
+    "serving_size": "1 plate (~400g)",
+    "calories": 480.0,
+    "protein_g": 18.0,
+    "carbs_g": 80.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 401,
+    "food_item": "Crab_dip",
+    "serving_size": "2 tbsp (~30g)",
+    "calories": 90.0,
+    "protein_g": 5.0,
+    "carbs_g": 2.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 402,
+    "food_item": "Bánh_chuối (Banana cake/pudding)",
+    "serving_size": "1 serving (~150g)",
+    "calories": 290.0,
+    "protein_g": 4.0,
+    "carbs_g": 45.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 403,
+    "food_item": "Bún_riêu",
+    "serving_size": "1 bowl (~400g)",
+    "calories": 380.0,
+    "protein_g": 22.0,
+    "carbs_g": 45.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 404,
+    "food_item": "Fricassee",
+    "serving_size": "1 serving (~250g)",
+    "calories": 380.0,
+    "protein_g": 30.0,
+    "carbs_g": 10.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 405,
+    "food_item": "Fuqi_feipian",
+    "serving_size": "1 serving (~150g)",
+    "calories": 280.0,
+    "protein_g": 20.0,
+    "carbs_g": 8.0,
+    "fat_g": 19.0
+  },
+  {
+    "id": 406,
+    "food_item": "White_cut_chicken",
+    "serving_size": "1 serving (~150g)",
+    "calories": 235.0,
+    "protein_g": 30.0,
+    "carbs_g": 1.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 407,
+    "food_item": "Galbi (Korean short ribs)",
+    "serving_size": "1 serving (~200g)",
+    "calories": 540.0,
+    "protein_g": 38.0,
+    "carbs_g": 10.0,
+    "fat_g": 38.0
+  },
+  {
+    "id": 408,
+    "food_item": "Strawberry_pie",
+    "serving_size": "1 slice (~125g)",
+    "calories": 310.0,
+    "protein_g": 3.0,
+    "carbs_g": 46.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 409,
+    "food_item": "Corned_beef_sandwich",
+    "serving_size": "1 sandwich (~200g)",
+    "calories": 430.0,
+    "protein_g": 22.0,
+    "carbs_g": 40.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 410,
+    "food_item": "Char_kway_teow",
+    "serving_size": "1 plate (~300g)",
+    "calories": 520.0,
+    "protein_g": 20.0,
+    "carbs_g": 65.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 411,
+    "food_item": "Yuxiangrousi (Fish-fragrant shredded pork)",
+    "serving_size": "1 serving (~200g)",
+    "calories": 280.0,
+    "protein_g": 20.0,
+    "carbs_g": 15.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 412,
+    "food_item": "Gravlax",
+    "serving_size": "3 oz (~85g)",
+    "calories": 130.0,
+    "protein_g": 14.0,
+    "carbs_g": 1.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 413,
+    "food_item": "Korean_fried_chicken",
+    "serving_size": "1 serving (~200g)",
+    "calories": 480.0,
+    "protein_g": 30.0,
+    "carbs_g": 28.0,
+    "fat_g": 28.0
+  },
+  {
+    "id": 414,
+    "food_item": "Sausage_sandwich",
+    "serving_size": "1 sandwich (~200g)",
+    "calories": 500.0,
+    "protein_g": 20.0,
+    "carbs_g": 40.0,
+    "fat_g": 28.0
+  },
+  {
+    "id": 415,
+    "food_item": "Sardine",
+    "serving_size": "1 can (~92g)",
+    "calories": 190.0,
+    "protein_g": 23.0,
+    "carbs_g": 0.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 416,
+    "food_item": "Hiyayakko (Cold tofu)",
+    "serving_size": "1 serving (~150g)",
+    "calories": 75.0,
+    "protein_g": 8.0,
+    "carbs_g": 3.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 417,
+    "food_item": "Carpaccio",
+    "serving_size": "1 serving (~85g)",
+    "calories": 150.0,
+    "protein_g": 17.0,
+    "carbs_g": 1.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 418,
+    "food_item": "Chicken_nugget",
+    "serving_size": "6 pieces (~100g)",
+    "calories": 296.0,
+    "protein_g": 15.0,
+    "carbs_g": 17.0,
+    "fat_g": 19.0
+  },
+  {
+    "id": 419,
+    "food_item": "Key_lime_pie",
+    "serving_size": "1 slice (~113g)",
+    "calories": 330.0,
+    "protein_g": 6.0,
+    "carbs_g": 48.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 420,
+    "food_item": "Raita",
+    "serving_size": "1/2 cup (~120g)",
+    "calories": 70.0,
+    "protein_g": 4.0,
+    "carbs_g": 6.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 421,
+    "food_item": "Drunken_shrimp",
+    "serving_size": "1 serving (~200g)",
+    "calories": 210.0,
+    "protein_g": 26.0,
+    "carbs_g": 5.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 422,
+    "food_item": "Bubur_ayam (Chicken congee)",
+    "serving_size": "1 bowl (~350g)",
+    "calories": 280.0,
+    "protein_g": 18.0,
+    "carbs_g": 35.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 423,
+    "food_item": "Creamed_eggs_on_toast",
+    "serving_size": "1 serving (~200g)",
+    "calories": 320.0,
+    "protein_g": 14.0,
+    "carbs_g": 28.0,
+    "fat_g": 17.0
+  },
+  {
+    "id": 424,
+    "food_item": "Peanut_butter_cookie",
+    "serving_size": "1 cookie (~40g)",
+    "calories": 190.0,
+    "protein_g": 4.0,
+    "carbs_g": 22.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 425,
+    "food_item": "Lemon_ice_box_pie",
+    "serving_size": "1 slice (~113g)",
+    "calories": 340.0,
+    "protein_g": 5.0,
+    "carbs_g": 48.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 426,
+    "food_item": "Cucumber_soup",
+    "serving_size": "1 cup (~240g)",
+    "calories": 90.0,
+    "protein_g": 3.0,
+    "carbs_g": 8.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 427,
+    "food_item": "Ants_climbing_a_tree (Mabo vermicelli)",
+    "serving_size": "1 serving (~200g)",
+    "calories": 360.0,
+    "protein_g": 18.0,
+    "carbs_g": 32.0,
+    "fat_g": 17.0
+  },
+  {
+    "id": 428,
+    "food_item": "Denver_omelette",
+    "serving_size": "1 omelette (~220g)",
+    "calories": 320.0,
+    "protein_g": 22.0,
+    "carbs_g": 8.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 429,
+    "food_item": "Pork_ball",
+    "serving_size": "5 pieces (~100g)",
+    "calories": 220.0,
+    "protein_g": 16.0,
+    "carbs_g": 8.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 430,
+    "food_item": "Quiche_Lorraine",
+    "serving_size": "1 slice (~140g)",
+    "calories": 370.0,
+    "protein_g": 14.0,
+    "carbs_g": 22.0,
+    "fat_g": 26.0
+  },
+  {
+    "id": 431,
+    "food_item": "Panzanella",
+    "serving_size": "1 serving (~200g)",
+    "calories": 230.0,
+    "protein_g": 5.0,
+    "carbs_g": 28.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 432,
+    "food_item": "Pani_puri",
+    "serving_size": "6 pieces (~100g)",
+    "calories": 180.0,
+    "protein_g": 4.0,
+    "carbs_g": 30.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 433,
+    "food_item": "Steamed_rice",
+    "serving_size": "1 cup cooked (~186g)",
+    "calories": 242.0,
+    "protein_g": 4.0,
+    "carbs_g": 53.0,
+    "fat_g": 0.4
+  },
+  {
+    "id": 434,
+    "food_item": "Rice_ball (Onigiri)",
+    "serving_size": "1 piece (~100g)",
+    "calories": 185.0,
+    "protein_g": 4.0,
+    "carbs_g": 40.0,
+    "fat_g": 0.5
+  },
+  {
+    "id": 435,
+    "food_item": "Fried_aubergine (Eggplant)",
+    "serving_size": "1 cup (~100g)",
+    "calories": 160.0,
+    "protein_g": 2.0,
+    "carbs_g": 9.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 436,
+    "food_item": "Mee_siam",
+    "serving_size": "1 plate (~300g)",
+    "calories": 420.0,
+    "protein_g": 16.0,
+    "carbs_g": 65.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 437,
+    "food_item": "Bangers_and_mash",
+    "serving_size": "1 serving (~350g)",
+    "calories": 520.0,
+    "protein_g": 20.0,
+    "carbs_g": 45.0,
+    "fat_g": 28.0
+  },
+  {
+    "id": 438,
+    "food_item": "Buttercream",
+    "serving_size": "2 tbsp (~30g)",
+    "calories": 150.0,
+    "protein_g": 0.0,
+    "carbs_g": 18.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 439,
+    "food_item": "Hainanese_chicken_rice",
+    "serving_size": "1 plate (~400g)",
+    "calories": 560.0,
+    "protein_g": 32.0,
+    "carbs_g": 62.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 440,
+    "food_item": "Pig's_organ_soup",
+    "serving_size": "1 bowl (~350g)",
+    "calories": 200.0,
+    "protein_g": 22.0,
+    "carbs_g": 8.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 441,
+    "food_item": "Tomato_bredie (Lamb stew)",
+    "serving_size": "1 serving (~300g)",
+    "calories": 380.0,
+    "protein_g": 28.0,
+    "carbs_g": 18.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 442,
+    "food_item": "Fish_head_casserole",
+    "serving_size": "1 serving (~350g)",
+    "calories": 320.0,
+    "protein_g": 30.0,
+    "carbs_g": 12.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 443,
+    "food_item": "Israeli_salad",
+    "serving_size": "1 cup (~150g)",
+    "calories": 80.0,
+    "protein_g": 2.0,
+    "carbs_g": 8.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 444,
+    "food_item": "Nasi_liwet",
+    "serving_size": "1 plate (~300g)",
+    "calories": 480.0,
+    "protein_g": 15.0,
+    "carbs_g": 68.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 445,
+    "food_item": "Shaker_Lemon_Pie",
+    "serving_size": "1 slice (~120g)",
+    "calories": 380.0,
+    "protein_g": 5.0,
+    "carbs_g": 58.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 446,
+    "food_item": "Svíčková (Czech beef sirloin)",
+    "serving_size": "1 serving (~350g)",
+    "calories": 550.0,
+    "protein_g": 35.0,
+    "carbs_g": 40.0,
+    "fat_g": 25.0
+  },
+  {
+    "id": 447,
+    "food_item": "Cured_salmon",
+    "serving_size": "3 oz (~85g)",
+    "calories": 130.0,
+    "protein_g": 18.0,
+    "carbs_g": 0.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 448,
+    "food_item": "Eisbein (Pork knuckle)",
+    "serving_size": "1 serving (~300g)",
+    "calories": 680.0,
+    "protein_g": 50.0,
+    "carbs_g": 2.0,
+    "fat_g": 52.0
+  },
+  {
+    "id": 449,
+    "food_item": "Jewish_apple_cake",
+    "serving_size": "1 slice (~100g)",
+    "calories": 360.0,
+    "protein_g": 5.0,
+    "carbs_g": 52.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 450,
+    "food_item": "Butadon (Pork rice bowl)",
+    "serving_size": "1 bowl (~350g)",
+    "calories": 580.0,
+    "protein_g": 28.0,
+    "carbs_g": 75.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 451,
+    "food_item": "Bisque_food",
+    "serving_size": "1 cup (~250g)",
+    "calories": 300.0,
+    "protein_g": 13.0,
+    "carbs_g": 18.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 452,
+    "food_item": "Queso_flameado",
+    "serving_size": "1 serving (~150g)",
+    "calories": 443.0,
+    "protein_g": 29.0,
+    "carbs_g": 2.0,
+    "fat_g": 34.0
+  },
+  {
+    "id": 453,
+    "food_item": "Ayam_bakar",
+    "serving_size": "1 serving (~200g)",
+    "calories": 320.0,
+    "protein_g": 30.0,
+    "carbs_g": 8.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 454,
+    "food_item": "Pipikaula (Hawaiian dried beef)",
+    "serving_size": "1 serving (~85g)",
+    "calories": 220.0,
+    "protein_g": 25.0,
+    "carbs_g": 0.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 455,
+    "food_item": "Huangqiao_sesame_cake",
+    "serving_size": "1 piece (~80g)",
+    "calories": 280.0,
+    "protein_g": 7.0,
+    "carbs_g": 35.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 456,
+    "food_item": "Fish_steak",
+    "serving_size": "1 fillet (~180g)",
+    "calories": 280.0,
+    "protein_g": 35.0,
+    "carbs_g": 0.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 457,
+    "food_item": "Jiuniang (fermented rice wine)",
+    "serving_size": "1/2 cup (~120g)",
+    "calories": 130.0,
+    "protein_g": 2.0,
+    "carbs_g": 28.0,
+    "fat_g": 0.5
+  },
+  {
+    "id": 458,
+    "food_item": "Pulled_pork",
+    "serving_size": "1 serving (~140g)",
+    "calories": 250.0,
+    "protein_g": 22.0,
+    "carbs_g": 0.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 459,
+    "food_item": "Pork_blood_soup",
+    "serving_size": "1 bowl (~350g)",
+    "calories": 220.0,
+    "protein_g": 18.0,
+    "carbs_g": 10.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 460,
+    "food_item": "Abalone",
+    "serving_size": "3 oz (~85g)",
+    "calories": 89.0,
+    "protein_g": 15.0,
+    "carbs_g": 5.0,
+    "fat_g": 1.0
+  },
+  {
+    "id": 461,
+    "food_item": "Chinese_chicken_salad",
+    "serving_size": "1 serving (~300g)",
+    "calories": 380.0,
+    "protein_g": 25.0,
+    "carbs_g": 30.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 462,
+    "food_item": "Tuna_salad",
+    "serving_size": "1/2 cup (~120g)",
+    "calories": 190.0,
+    "protein_g": 20.0,
+    "carbs_g": 4.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 463,
+    "food_item": "Wonton_noodles",
+    "serving_size": "1 bowl (~350g)",
+    "calories": 420.0,
+    "protein_g": 20.0,
+    "carbs_g": 55.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 464,
+    "food_item": "Rava_dosa",
+    "serving_size": "2 pieces (~120g)",
+    "calories": 220.0,
+    "protein_g": 5.0,
+    "carbs_g": 32.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 465,
+    "food_item": "Coconut_shrimp",
+    "serving_size": "6 pieces (~150g)",
+    "calories": 380.0,
+    "protein_g": 18.0,
+    "carbs_g": 30.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 466,
+    "food_item": "Goulash",
+    "serving_size": "1 cup (~250g)",
+    "calories": 275.0,
+    "protein_g": 17.0,
+    "carbs_g": 22.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 467,
+    "food_item": "Lemon_chicken",
+    "serving_size": "1 serving (~200g)",
+    "calories": 350.0,
+    "protein_g": 30.0,
+    "carbs_g": 18.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 468,
+    "food_item": "Fried_tofu",
+    "serving_size": "1 cup (~130g)",
+    "calories": 220.0,
+    "protein_g": 17.0,
+    "carbs_g": 8.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 469,
+    "food_item": "Kachori",
+    "serving_size": "1 piece (~60g)",
+    "calories": 180.0,
+    "protein_g": 4.0,
+    "carbs_g": 22.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 470,
+    "food_item": "Sausage_bun",
+    "serving_size": "1 bun (~120g)",
+    "calories": 310.0,
+    "protein_g": 12.0,
+    "carbs_g": 35.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 471,
+    "food_item": "Olivier_salad",
+    "serving_size": "1 cup (~200g)",
+    "calories": 290.0,
+    "protein_g": 10.0,
+    "carbs_g": 20.0,
+    "fat_g": 19.0
+  },
+  {
+    "id": 472,
+    "food_item": "Sauerbraten",
+    "serving_size": "1 serving (~250g)",
+    "calories": 420.0,
+    "protein_g": 38.0,
+    "carbs_g": 18.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 473,
+    "food_item": "Toad_in_the_hole",
+    "serving_size": "1 serving (~250g)",
+    "calories": 450.0,
+    "protein_g": 20.0,
+    "carbs_g": 38.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 474,
+    "food_item": "Tuna_fish_sandwich",
+    "serving_size": "1 sandwich (~180g)",
+    "calories": 380.0,
+    "protein_g": 25.0,
+    "carbs_g": 36.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 475,
+    "food_item": "Baingan_bharta",
+    "serving_size": "1 cup (~200g)",
+    "calories": 150.0,
+    "protein_g": 4.0,
+    "carbs_g": 15.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 476,
+    "food_item": "Lemon_tart",
+    "serving_size": "1 slice (~100g)",
+    "calories": 320.0,
+    "protein_g": 5.0,
+    "carbs_g": 42.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 477,
+    "food_item": "Pea_soup",
+    "serving_size": "1 cup (~250g)",
+    "calories": 185.0,
+    "protein_g": 11.0,
+    "carbs_g": 28.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 478,
+    "food_item": "Dabeli",
+    "serving_size": "1 piece (~120g)",
+    "calories": 280.0,
+    "protein_g": 7.0,
+    "carbs_g": 40.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 479,
+    "food_item": "Kakuni (braised pork belly)",
+    "serving_size": "1 serving (~150g)",
+    "calories": 450.0,
+    "protein_g": 22.0,
+    "carbs_g": 8.0,
+    "fat_g": 37.0
+  },
+  {
+    "id": 480,
+    "food_item": "Mapo_doufu",
+    "serving_size": "1 serving (~200g)",
+    "calories": 280.0,
+    "protein_g": 16.0,
+    "carbs_g": 12.0,
+    "fat_g": 19.0
+  },
+  {
+    "id": 481,
+    "food_item": "Kedgeree",
+    "serving_size": "1 serving (~250g)",
+    "calories": 380.0,
+    "protein_g": 25.0,
+    "carbs_g": 42.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 482,
+    "food_item": "Mongolian_beef",
+    "serving_size": "1 serving (~200g)",
+    "calories": 430.0,
+    "protein_g": 28.0,
+    "carbs_g": 30.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 483,
+    "food_item": "Mango_pomelo_sago",
+    "serving_size": "1 cup (~250g)",
+    "calories": 200.0,
+    "protein_g": 2.0,
+    "carbs_g": 42.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 484,
+    "food_item": "Gejang (marinated raw crab)",
+    "serving_size": "1 serving (~100g)",
+    "calories": 120.0,
+    "protein_g": 18.0,
+    "carbs_g": 4.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 485,
+    "food_item": "Potato_salad",
+    "serving_size": "1 cup (~200g)",
+    "calories": 280.0,
+    "protein_g": 4.0,
+    "carbs_g": 32.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 486,
+    "food_item": "Fish_ball",
+    "serving_size": "6 pieces (~100g)",
+    "calories": 120.0,
+    "protein_g": 10.0,
+    "carbs_g": 12.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 487,
+    "food_item": "Shanghai_fried_noodles",
+    "serving_size": "1 plate (~300g)",
+    "calories": 480.0,
+    "protein_g": 18.0,
+    "carbs_g": 65.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 488,
+    "food_item": "Fried_onion",
+    "serving_size": "1/4 cup (~30g)",
+    "calories": 100.0,
+    "protein_g": 2.0,
+    "carbs_g": 10.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 489,
+    "food_item": "Apple_strudel",
+    "serving_size": "1 serving (~120g)",
+    "calories": 280.0,
+    "protein_g": 4.0,
+    "carbs_g": 40.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 490,
+    "food_item": "Laksa",
+    "serving_size": "1 bowl (~400g)",
+    "calories": 580.0,
+    "protein_g": 22.0,
+    "carbs_g": 58.0,
+    "fat_g": 30.0
+  },
+  {
+    "id": 491,
+    "food_item": "Jalebi",
+    "serving_size": "3 pieces (~100g)",
+    "calories": 300.0,
+    "protein_g": 3.0,
+    "carbs_g": 55.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 492,
+    "food_item": "Salmon_pie",
+    "serving_size": "1 slice (~180g)",
+    "calories": 380.0,
+    "protein_g": 22.0,
+    "carbs_g": 30.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 493,
+    "food_item": "Doufunao (soy milk curd)",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 160.0,
+    "protein_g": 12.0,
+    "carbs_g": 8.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 494,
+    "food_item": "Botifarra (Catalan sausage)",
+    "serving_size": "1 link (~100g)",
+    "calories": 300.0,
+    "protein_g": 16.0,
+    "carbs_g": 2.0,
+    "fat_g": 26.0
+  },
+  {
+    "id": 495,
+    "food_item": "Cream_of_broccoli_soup",
+    "serving_size": "1 cup (~245g)",
+    "calories": 180.0,
+    "protein_g": 7.0,
+    "carbs_g": 16.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 496,
+    "food_item": "Cabbage_soup",
+    "serving_size": "1 cup (~240g)",
+    "calories": 90.0,
+    "protein_g": 4.0,
+    "carbs_g": 12.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 497,
+    "food_item": "Lo_mein",
+    "serving_size": "1 serving (~330g)",
+    "calories": 490.0,
+    "protein_g": 20.0,
+    "carbs_g": 65.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 498,
+    "food_item": "Zongzi (sticky rice dumpling)",
+    "serving_size": "1 piece (~150g)",
+    "calories": 310.0,
+    "protein_g": 8.0,
+    "carbs_g": 50.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 499,
+    "food_item": "Chaas (buttermilk)",
+    "serving_size": "1 cup (~240ml)",
+    "calories": 60.0,
+    "protein_g": 4.0,
+    "carbs_g": 6.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 500,
+    "food_item": "Papdi_chaat",
+    "serving_size": "1 plate (~150g)",
+    "calories": 280.0,
+    "protein_g": 7.0,
+    "carbs_g": 38.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 501,
+    "food_item": "Breakfast_burrito",
+    "serving_size": "1 burrito (~250g)",
+    "calories": 500.0,
+    "protein_g": 22.0,
+    "carbs_g": 48.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 502,
+    "food_item": "Cheese_plate",
+    "serving_size": "1 serving (~100g)",
+    "calories": 380.0,
+    "protein_g": 22.0,
+    "carbs_g": 3.0,
+    "fat_g": 32.0
+  },
+  {
+    "id": 503,
+    "food_item": "Steak",
+    "serving_size": "6 oz cooked (~170g)",
+    "calories": 420.0,
+    "protein_g": 44.0,
+    "carbs_g": 0.0,
+    "fat_g": 26.0
+  },
+  {
+    "id": 504,
+    "food_item": "Steak_tartare",
+    "serving_size": "1 serving (~150g)",
+    "calories": 285.0,
+    "protein_g": 27.0,
+    "carbs_g": 3.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 505,
+    "food_item": "Tabbouleh",
+    "serving_size": "1 cup (~160g)",
+    "calories": 170.0,
+    "protein_g": 4.0,
+    "carbs_g": 22.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 506,
+    "food_item": "Carrot_soup",
+    "serving_size": "1 cup (~245g)",
+    "calories": 130.0,
+    "protein_g": 3.0,
+    "carbs_g": 18.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 507,
+    "food_item": "Pumpkin_pie",
+    "serving_size": "1 slice (~130g)",
+    "calories": 316.0,
+    "protein_g": 7.0,
+    "carbs_g": 46.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 508,
+    "food_item": "Corn_stew",
+    "serving_size": "1 cup (~245g)",
+    "calories": 180.0,
+    "protein_g": 5.0,
+    "carbs_g": 32.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 509,
+    "food_item": "Carrot_salad",
+    "serving_size": "1 cup (~110g)",
+    "calories": 130.0,
+    "protein_g": 1.0,
+    "carbs_g": 18.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 510,
+    "food_item": "Borscht",
+    "serving_size": "1 cup (~244g)",
+    "calories": 100.0,
+    "protein_g": 4.0,
+    "carbs_g": 14.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 511,
+    "food_item": "Apple_sauce",
+    "serving_size": "1/2 cup (~122g)",
+    "calories": 100.0,
+    "protein_g": 0.2,
+    "carbs_g": 28.0,
+    "fat_g": 0.1
+  },
+  {
+    "id": 512,
+    "food_item": "Deep-fried_peanuts",
+    "serving_size": "1/4 cup (~35g)",
+    "calories": 200.0,
+    "protein_g": 8.0,
+    "carbs_g": 7.0,
+    "fat_g": 17.0
+  },
+  {
+    "id": 513,
+    "food_item": "Banana_pudding",
+    "serving_size": "1 cup (~280g)",
+    "calories": 360.0,
+    "protein_g": 6.0,
+    "carbs_g": 60.0,
+    "fat_g": 11.0
+  },
+  {
+    "id": 514,
+    "food_item": "Pork_ribs",
+    "serving_size": "1 serving (~200g)",
+    "calories": 500.0,
+    "protein_g": 30.0,
+    "carbs_g": 3.0,
+    "fat_g": 42.0
+  },
+  {
+    "id": 515,
+    "food_item": "Pork_knuckle",
+    "serving_size": "1 serving (~300g)",
+    "calories": 680.0,
+    "protein_g": 50.0,
+    "carbs_g": 2.0,
+    "fat_g": 52.0
+  },
+  {
+    "id": 516,
+    "food_item": "Tostada",
+    "serving_size": "1 piece (~135g)",
+    "calories": 290.0,
+    "protein_g": 13.0,
+    "carbs_g": 30.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 517,
+    "food_item": "Curry_Mee",
+    "serving_size": "1 bowl (~400g)",
+    "calories": 550.0,
+    "protein_g": 20.0,
+    "carbs_g": 62.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 518,
+    "food_item": "Frappe",
+    "serving_size": "1 serving (~350ml)",
+    "calories": 280.0,
+    "protein_g": 4.0,
+    "carbs_g": 48.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 519,
+    "food_item": "Steamed_meatball",
+    "serving_size": "4 pieces (~120g)",
+    "calories": 240.0,
+    "protein_g": 18.0,
+    "carbs_g": 10.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 520,
+    "food_item": "BLT_sandwich",
+    "serving_size": "1 sandwich (~200g)",
+    "calories": 420.0,
+    "protein_g": 16.0,
+    "carbs_g": 38.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 521,
+    "food_item": "Baked_beans",
+    "serving_size": "1 cup (~250g)",
+    "calories": 240.0,
+    "protein_g": 12.0,
+    "carbs_g": 48.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 522,
+    "food_item": "Boiled_peanuts",
+    "serving_size": "1/2 cup (~90g)",
+    "calories": 180.0,
+    "protein_g": 8.0,
+    "carbs_g": 12.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 523,
+    "food_item": "Sesame_chicken",
+    "serving_size": "1 serving (~200g)",
+    "calories": 480.0,
+    "protein_g": 28.0,
+    "carbs_g": 40.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 524,
+    "food_item": "Spiced_beef",
+    "serving_size": "1 serving (~150g)",
+    "calories": 300.0,
+    "protein_g": 28.0,
+    "carbs_g": 5.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 525,
+    "food_item": "Masala_papad",
+    "serving_size": "1 piece (~30g)",
+    "calories": 80.0,
+    "protein_g": 3.0,
+    "carbs_g": 10.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 526,
+    "food_item": "Kebab",
+    "serving_size": "1 skewer (~120g)",
+    "calories": 290.0,
+    "protein_g": 22.0,
+    "carbs_g": 5.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 527,
+    "food_item": "Strawberry_cheesecake",
+    "serving_size": "1 slice (~125g)",
+    "calories": 380.0,
+    "protein_g": 7.0,
+    "carbs_g": 42.0,
+    "fat_g": 21.0
+  },
+  {
+    "id": 528,
+    "food_item": "Agedashi_tofu",
+    "serving_size": "1 serving (~200g)",
+    "calories": 200.0,
+    "protein_g": 10.0,
+    "carbs_g": 18.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 529,
+    "food_item": "Claypot_chicken_rice",
+    "serving_size": "1 serving (~350g)",
+    "calories": 540.0,
+    "protein_g": 28.0,
+    "carbs_g": 68.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 530,
+    "food_item": "Spinach_soup",
+    "serving_size": "1 cup (~240g)",
+    "calories": 90.0,
+    "protein_g": 5.0,
+    "carbs_g": 8.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 531,
+    "food_item": "Corn_soup",
+    "serving_size": "1 cup (~245g)",
+    "calories": 160.0,
+    "protein_g": 5.0,
+    "carbs_g": 28.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 532,
+    "food_item": "Noodle_soup",
+    "serving_size": "1 bowl (~350g)",
+    "calories": 280.0,
+    "protein_g": 14.0,
+    "carbs_g": 38.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 533,
+    "food_item": "Squash_soup",
+    "serving_size": "1 cup (~245g)",
+    "calories": 120.0,
+    "protein_g": 3.0,
+    "carbs_g": 20.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 534,
+    "food_item": "Chicken_Kiev",
+    "serving_size": "1 piece (~200g)",
+    "calories": 520.0,
+    "protein_g": 32.0,
+    "carbs_g": 18.0,
+    "fat_g": 36.0
+  },
+  {
+    "id": 535,
+    "food_item": "Nuomici (glutinous rice ball)",
+    "serving_size": "3 pieces (~90g)",
+    "calories": 230.0,
+    "protein_g": 3.0,
+    "carbs_g": 45.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 536,
+    "food_item": "Youtiao (Chinese fried dough)",
+    "serving_size": "1 stick (~70g)",
+    "calories": 240.0,
+    "protein_g": 5.0,
+    "carbs_g": 28.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 537,
+    "food_item": "Leek_soup",
+    "serving_size": "1 cup (~240g)",
+    "calories": 100.0,
+    "protein_g": 3.0,
+    "carbs_g": 12.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 538,
+    "food_item": "Tonkatsu",
+    "serving_size": "1 serving (~160g)",
+    "calories": 400.0,
+    "protein_g": 25.0,
+    "carbs_g": 22.0,
+    "fat_g": 25.0
+  },
+  {
+    "id": 539,
+    "food_item": "Chicken_salad",
+    "serving_size": "1 cup (~200g)",
+    "calories": 300.0,
+    "protein_g": 22.0,
+    "carbs_g": 8.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 540,
+    "food_item": "Fish_soup",
+    "serving_size": "1 bowl (~350g)",
+    "calories": 180.0,
+    "protein_g": 22.0,
+    "carbs_g": 10.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 541,
+    "food_item": "Nasi_goreng",
+    "serving_size": "1 plate (~280g)",
+    "calories": 476.0,
+    "protein_g": 20.0,
+    "carbs_g": 64.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 542,
+    "food_item": "Pig's_ear",
+    "serving_size": "1 serving (~100g)",
+    "calories": 220.0,
+    "protein_g": 18.0,
+    "carbs_g": 0.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 543,
+    "food_item": "Bread_roll",
+    "serving_size": "1 roll (~55g)",
+    "calories": 150.0,
+    "protein_g": 5.0,
+    "carbs_g": 28.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 544,
+    "food_item": "Bacon_sandwich",
+    "serving_size": "1 sandwich (~180g)",
+    "calories": 420.0,
+    "protein_g": 18.0,
+    "carbs_g": 35.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 545,
+    "food_item": "Succotash",
+    "serving_size": "1 cup (~185g)",
+    "calories": 200.0,
+    "protein_g": 8.0,
+    "carbs_g": 32.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 546,
+    "food_item": "Bacon_and_eggs",
+    "serving_size": "1 serving (~150g)",
+    "calories": 380.0,
+    "protein_g": 22.0,
+    "carbs_g": 1.0,
+    "fat_g": 32.0
+  },
+  {
+    "id": 547,
+    "food_item": "Rasgulla",
+    "serving_size": "2 pieces (~110g)",
+    "calories": 180.0,
+    "protein_g": 5.0,
+    "carbs_g": 36.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 548,
+    "food_item": "Strawberry_tart",
+    "serving_size": "1 tart (~120g)",
+    "calories": 320.0,
+    "protein_g": 5.0,
+    "carbs_g": 42.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 549,
+    "food_item": "Zhajiangmian",
+    "serving_size": "1 bowl (~350g)",
+    "calories": 580.0,
+    "protein_g": 22.0,
+    "carbs_g": 75.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 550,
+    "food_item": "Black_Forest_gateau",
+    "serving_size": "1 slice (~120g)",
+    "calories": 274.0,
+    "protein_g": 4.0,
+    "carbs_g": 38.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 551,
+    "food_item": "Cherry_cake",
+    "serving_size": "1 slice (~100g)",
+    "calories": 310.0,
+    "protein_g": 5.0,
+    "carbs_g": 48.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 552,
+    "food_item": "Wotou",
+    "serving_size": "1 piece (~120g)",
+    "calories": 230.0,
+    "protein_g": 6.0,
+    "carbs_g": 46.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 553,
+    "food_item": "Chole_bhature",
+    "serving_size": "1 serving (~300g)",
+    "calories": 580.0,
+    "protein_g": 16.0,
+    "carbs_g": 75.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 554,
+    "food_item": "Blueberry_pie",
+    "serving_size": "1 slice (~125g)",
+    "calories": 290.0,
+    "protein_g": 3.0,
+    "carbs_g": 44.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 555,
+    "food_item": "Mango_pudding",
+    "serving_size": "1 cup (~200g)",
+    "calories": 220.0,
+    "protein_g": 4.0,
+    "carbs_g": 38.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 556,
+    "food_item": "Butter_cake",
+    "serving_size": "1 slice (~100g)",
+    "calories": 380.0,
+    "protein_g": 5.0,
+    "carbs_g": 48.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 557,
+    "food_item": "Anago (sea eel)",
+    "serving_size": "3 oz (~85g)",
+    "calories": 156.0,
+    "protein_g": 16.0,
+    "carbs_g": 0.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 558,
+    "food_item": "Fondue",
+    "serving_size": "1/2 cup (~100g)",
+    "calories": 320.0,
+    "protein_g": 18.0,
+    "carbs_g": 5.0,
+    "fat_g": 26.0
+  },
+  {
+    "id": 559,
+    "food_item": "Pickled_cucumber",
+    "serving_size": "1 cup (~155g)",
+    "calories": 20.0,
+    "protein_g": 1.0,
+    "carbs_g": 4.0,
+    "fat_g": 0.1
+  },
+  {
+    "id": 560,
+    "food_item": "Avocado_toast",
+    "serving_size": "1 slice (~150g)",
+    "calories": 290.0,
+    "protein_g": 7.0,
+    "carbs_g": 30.0,
+    "fat_g": 17.0
+  },
+  {
+    "id": 561,
+    "food_item": "Rouladen",
+    "serving_size": "1 roll (~200g)",
+    "calories": 380.0,
+    "protein_g": 32.0,
+    "carbs_g": 8.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 562,
+    "food_item": "Aburaage",
+    "serving_size": "1 piece (~30g)",
+    "calories": 80.0,
+    "protein_g": 5.0,
+    "carbs_g": 1.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 563,
+    "food_item": "Dal_khichdi",
+    "serving_size": "1 cup (~250g)",
+    "calories": 280.0,
+    "protein_g": 12.0,
+    "carbs_g": 48.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 564,
+    "food_item": "Ham_salad",
+    "serving_size": "1/2 cup (~120g)",
+    "calories": 200.0,
+    "protein_g": 12.0,
+    "carbs_g": 5.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 565,
+    "food_item": "Di_san_xian (potato, eggplant, pepper stir-fry)",
+    "serving_size": "1 serving (~200g)",
+    "calories": 280.0,
+    "protein_g": 4.0,
+    "carbs_g": 28.0,
+    "fat_g": 17.0
+  },
+  {
+    "id": 566,
+    "food_item": "Shrimp_ball",
+    "serving_size": "4 pieces (~80g)",
+    "calories": 130.0,
+    "protein_g": 12.0,
+    "carbs_g": 8.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 567,
+    "food_item": "Coleslaw",
+    "serving_size": "1 cup (~120g)",
+    "calories": 150.0,
+    "protein_g": 1.0,
+    "carbs_g": 18.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 568,
+    "food_item": "Yeung_Chow_fried_rice",
+    "serving_size": "1 plate (~300g)",
+    "calories": 480.0,
+    "protein_g": 20.0,
+    "carbs_g": 62.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 569,
+    "food_item": "Shuizhu (water-boiled beef/fish)",
+    "serving_size": "1 serving (~300g)",
+    "calories": 420.0,
+    "protein_g": 28.0,
+    "carbs_g": 15.0,
+    "fat_g": 28.0
+  },
+  {
+    "id": 570,
+    "food_item": "Mousse",
+    "serving_size": "1/2 cup (~120g)",
+    "calories": 220.0,
+    "protein_g": 4.0,
+    "carbs_g": 25.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 571,
+    "food_item": "Bean_salad",
+    "serving_size": "1 cup (~200g)",
+    "calories": 190.0,
+    "protein_g": 9.0,
+    "carbs_g": 30.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 572,
+    "food_item": "Smoked_salmon",
+    "serving_size": "3 oz (~85g)",
+    "calories": 100.0,
+    "protein_g": 16.0,
+    "carbs_g": 0.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 573,
+    "food_item": "Vichyssoise",
+    "serving_size": "1 cup (~245g)",
+    "calories": 180.0,
+    "protein_g": 4.0,
+    "carbs_g": 18.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 574,
+    "food_item": "Tomato_omelette",
+    "serving_size": "1 serving (~200g)",
+    "calories": 220.0,
+    "protein_g": 12.0,
+    "carbs_g": 10.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 575,
+    "food_item": "Applesauce_cake",
+    "serving_size": "1 slice (~100g)",
+    "calories": 320.0,
+    "protein_g": 4.0,
+    "carbs_g": 50.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 576,
+    "food_item": "Tonkotsu_ramen",
+    "serving_size": "1 bowl (~500g)",
+    "calories": 580.0,
+    "protein_g": 26.0,
+    "carbs_g": 65.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 577,
+    "food_item": "Tomato_and_egg_soup",
+    "serving_size": "1 bowl (~300g)",
+    "calories": 120.0,
+    "protein_g": 8.0,
+    "carbs_g": 8.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 578,
+    "food_item": "Stuffed_eggplant",
+    "serving_size": "1 serving (~250g)",
+    "calories": 280.0,
+    "protein_g": 12.0,
+    "carbs_g": 18.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 579,
+    "food_item": "Almond_biscuit",
+    "serving_size": "2 pieces (~40g)",
+    "calories": 190.0,
+    "protein_g": 4.0,
+    "carbs_g": 24.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 580,
+    "food_item": "Rice_pudding",
+    "serving_size": "1 cup (~250g)",
+    "calories": 310.0,
+    "protein_g": 8.0,
+    "carbs_g": 55.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 581,
+    "food_item": "Steamed_clams",
+    "serving_size": "1 serving (~180g)",
+    "calories": 150.0,
+    "protein_g": 26.0,
+    "carbs_g": 5.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 582,
+    "food_item": "Butter_pecan (ice cream)",
+    "serving_size": "1/2 cup (~65g)",
+    "calories": 280.0,
+    "protein_g": 3.0,
+    "carbs_g": 28.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 583,
+    "food_item": "Fried_chicken",
+    "serving_size": "1 piece (~140g)",
+    "calories": 400.0,
+    "protein_g": 30.0,
+    "carbs_g": 14.0,
+    "fat_g": 26.0
+  },
+  {
+    "id": 584,
+    "food_item": "French_fries",
+    "serving_size": "1 medium serving (~117g)",
+    "calories": 365.0,
+    "protein_g": 4.0,
+    "carbs_g": 48.0,
+    "fat_g": 17.0
+  },
+  {
+    "id": 585,
+    "food_item": "Hot_dog",
+    "serving_size": "1 with bun (~113g)",
+    "calories": 310.0,
+    "protein_g": 12.0,
+    "carbs_g": 24.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 586,
+    "food_item": "Seaweed_salad",
+    "serving_size": "1 cup (~100g)",
+    "calories": 70.0,
+    "protein_g": 2.0,
+    "carbs_g": 10.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 587,
+    "food_item": "Meatloaf",
+    "serving_size": "1 slice (~100g)",
+    "calories": 280.0,
+    "protein_g": 18.0,
+    "carbs_g": 14.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 588,
+    "food_item": "Jajangmyeon",
+    "serving_size": "1 bowl (~500g)",
+    "calories": 560.0,
+    "protein_g": 20.0,
+    "carbs_g": 80.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 589,
+    "food_item": "Hongshao_rou (red braised pork belly)",
+    "serving_size": "1 serving (~200g)",
+    "calories": 520.0,
+    "protein_g": 22.0,
+    "carbs_g": 18.0,
+    "fat_g": 42.0
+  },
+  {
+    "id": 590,
+    "food_item": "Banana_bread",
+    "serving_size": "1 slice (~60g)",
+    "calories": 198.0,
+    "protein_g": 3.0,
+    "carbs_g": 34.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 591,
+    "food_item": "Beef_Wellington",
+    "serving_size": "1 serving (~250g)",
+    "calories": 560.0,
+    "protein_g": 35.0,
+    "carbs_g": 30.0,
+    "fat_g": 34.0
+  },
+  {
+    "id": 592,
+    "food_item": "Pizza",
+    "serving_size": "1 slice (~107g)",
+    "calories": 285.0,
+    "protein_g": 12.0,
+    "carbs_g": 36.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 593,
+    "food_item": "Apple_crisp",
+    "serving_size": "1 serving (~150g)",
+    "calories": 320.0,
+    "protein_g": 3.0,
+    "carbs_g": 52.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 594,
+    "food_item": "Spaghetti_bolognese",
+    "serving_size": "1 serving (~350g)",
+    "calories": 480.0,
+    "protein_g": 24.0,
+    "carbs_g": 58.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 595,
+    "food_item": "Chocolate_cake",
+    "serving_size": "1 slice (~100g)",
+    "calories": 370.0,
+    "protein_g": 5.0,
+    "carbs_g": 52.0,
+    "fat_g": 17.0
+  },
+  {
+    "id": 596,
+    "food_item": "Pancakes",
+    "serving_size": "2 pancakes (~150g)",
+    "calories": 350.0,
+    "protein_g": 8.0,
+    "carbs_g": 58.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 597,
+    "food_item": "Waffles",
+    "serving_size": "1 waffle (~75g)",
+    "calories": 220.0,
+    "protein_g": 6.0,
+    "carbs_g": 30.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 598,
+    "food_item": "Red_velvet_cake",
+    "serving_size": "1 slice (~100g)",
+    "calories": 380.0,
+    "protein_g": 5.0,
+    "carbs_g": 52.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 599,
+    "food_item": "Strawberry_cake",
+    "serving_size": "1 slice (~100g)",
+    "calories": 320.0,
+    "protein_g": 4.0,
+    "carbs_g": 48.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 600,
+    "food_item": "Beef_tartare",
+    "serving_size": "1 serving (~150g)",
+    "calories": 285.0,
+    "protein_g": 27.0,
+    "carbs_g": 3.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 601,
+    "food_item": "Bubur_kacang_hijau (mung bean porridge)",
+    "serving_size": "1 cup (~250g)",
+    "calories": 210.0,
+    "protein_g": 8.0,
+    "carbs_g": 40.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 602,
+    "food_item": "Mie_goreng",
+    "serving_size": "1 plate (~300g)",
+    "calories": 480.0,
+    "protein_g": 16.0,
+    "carbs_g": 65.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 603,
+    "food_item": "Sushi",
+    "serving_size": "6 pieces (~150g)",
+    "calories": 250.0,
+    "protein_g": 10.0,
+    "carbs_g": 46.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 604,
+    "food_item": "Shrimp_and_grits",
+    "serving_size": "1 serving (~350g)",
+    "calories": 500.0,
+    "protein_g": 28.0,
+    "carbs_g": 45.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 605,
+    "food_item": "Spaghetti_carbonara",
+    "serving_size": "1 serving (~300g)",
+    "calories": 580.0,
+    "protein_g": 24.0,
+    "carbs_g": 65.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 606,
+    "food_item": "Prime_rib",
+    "serving_size": "6 oz (~170g)",
+    "calories": 500.0,
+    "protein_g": 42.0,
+    "carbs_g": 0.0,
+    "fat_g": 36.0
+  },
+  {
+    "id": 607,
+    "food_item": "Chicken_soup",
+    "serving_size": "1 bowl (~240g)",
+    "calories": 170.0,
+    "protein_g": 18.0,
+    "carbs_g": 14.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 608,
+    "food_item": "Escargots",
+    "serving_size": "6 pieces (~100g)",
+    "calories": 140.0,
+    "protein_g": 15.0,
+    "carbs_g": 3.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 609,
+    "food_item": "Tuna_tartare",
+    "serving_size": "1 serving (~150g)",
+    "calories": 200.0,
+    "protein_g": 28.0,
+    "carbs_g": 4.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 610,
+    "food_item": "Lobster_roll_sandwich",
+    "serving_size": "1 roll (~200g)",
+    "calories": 430.0,
+    "protein_g": 22.0,
+    "carbs_g": 38.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 611,
+    "food_item": "Fish_and_chips",
+    "serving_size": "1 serving (~340g)",
+    "calories": 800.0,
+    "protein_g": 28.0,
+    "carbs_g": 76.0,
+    "fat_g": 44.0
+  },
+  {
+    "id": 612,
+    "food_item": "Poha",
+    "serving_size": "1 cup (~180g)",
+    "calories": 270.0,
+    "protein_g": 6.0,
+    "carbs_g": 48.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 613,
+    "food_item": "Samgyetang",
+    "serving_size": "1 bowl (~450g)",
+    "calories": 372.0,
+    "protein_g": 27.0,
+    "carbs_g": 13.0,
+    "fat_g": 21.0
+  },
+  {
+    "id": 614,
+    "food_item": "Blancmange",
+    "serving_size": "1 cup (~156g)",
+    "calories": 191.0,
+    "protein_g": 5.0,
+    "carbs_g": 28.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 615,
+    "food_item": "Fried_calamari",
+    "serving_size": "1 serving (~85g)",
+    "calories": 150.0,
+    "protein_g": 10.0,
+    "carbs_g": 10.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 616,
+    "food_item": "Miso_soup",
+    "serving_size": "1 cup (~240ml)",
+    "calories": 40.0,
+    "protein_g": 3.0,
+    "carbs_g": 5.0,
+    "fat_g": 1.0
+  },
+  {
+    "id": 617,
+    "food_item": "Spinach_salad",
+    "serving_size": "1 cup (~100g)",
+    "calories": 80.0,
+    "protein_g": 4.0,
+    "carbs_g": 6.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 618,
+    "food_item": "Cream_of_mushroom_soup",
+    "serving_size": "1 cup (~245g)",
+    "calories": 200.0,
+    "protein_g": 5.0,
+    "carbs_g": 18.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 619,
+    "food_item": "Strawberry_shortcake",
+    "serving_size": "1 serving (~200g)",
+    "calories": 380.0,
+    "protein_g": 6.0,
+    "carbs_g": 52.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 620,
+    "food_item": "Peking_duck",
+    "serving_size": "1 serving (~200g)",
+    "calories": 520.0,
+    "protein_g": 32.0,
+    "carbs_g": 12.0,
+    "fat_g": 38.0
+  },
+  {
+    "id": 621,
+    "food_item": "Cup_cakes",
+    "serving_size": "1 cupcake (~60g)",
+    "calories": 230.0,
+    "protein_g": 3.0,
+    "carbs_g": 35.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 622,
+    "food_item": "Scallops",
+    "serving_size": "3 oz cooked (~85g)",
+    "calories": 100.0,
+    "protein_g": 19.0,
+    "carbs_g": 5.0,
+    "fat_g": 1.0
+  },
+  {
+    "id": 623,
+    "food_item": "Lamb_chop",
+    "serving_size": "1 chop (~120g)",
+    "calories": 360.0,
+    "protein_g": 26.0,
+    "carbs_g": 0.0,
+    "fat_g": 28.0
+  },
+  {
+    "id": 624,
+    "food_item": "Guacamole",
+    "serving_size": "2 tbsp (~30g)",
+    "calories": 50.0,
+    "protein_g": 1.0,
+    "carbs_g": 3.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 625,
+    "food_item": "Pork_chop",
+    "serving_size": "1 chop (~140g)",
+    "calories": 330.0,
+    "protein_g": 30.0,
+    "carbs_g": 0.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 626,
+    "food_item": "Jambalaya",
+    "serving_size": "1 cup (~244g)",
+    "calories": 380.0,
+    "protein_g": 22.0,
+    "carbs_g": 42.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 627,
+    "food_item": "Ravioli",
+    "serving_size": "1 cup (~120g)",
+    "calories": 320.0,
+    "protein_g": 14.0,
+    "carbs_g": 45.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 628,
+    "food_item": "Pulled_pork_sandwich",
+    "serving_size": "1 sandwich (~280g)",
+    "calories": 500.0,
+    "protein_g": 28.0,
+    "carbs_g": 48.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 629,
+    "food_item": "Frozen_yogurt",
+    "serving_size": "1/2 cup (~85g)",
+    "calories": 120.0,
+    "protein_g": 3.0,
+    "carbs_g": 24.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 630,
+    "food_item": "Spring_rolls",
+    "serving_size": "2 pieces (~100g)",
+    "calories": 180.0,
+    "protein_g": 5.0,
+    "carbs_g": 22.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 631,
+    "food_item": "Curry_rice",
+    "serving_size": "1 plate (~400g)",
+    "calories": 520.0,
+    "protein_g": 16.0,
+    "carbs_g": 72.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 632,
+    "food_item": "Schweinshaxe (German pork knuckle)",
+    "serving_size": "1 serving (~300g)",
+    "calories": 680.0,
+    "protein_g": 50.0,
+    "carbs_g": 2.0,
+    "fat_g": 52.0
+  },
+  {
+    "id": 633,
+    "food_item": "Beef_carpaccio",
+    "serving_size": "1 serving (~85g)",
+    "calories": 150.0,
+    "protein_g": 17.0,
+    "carbs_g": 1.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 634,
+    "food_item": "Buttery_bread",
+    "serving_size": "1 slice (~40g)",
+    "calories": 150.0,
+    "protein_g": 3.0,
+    "carbs_g": 18.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 635,
+    "food_item": "Ice_cream",
+    "serving_size": "1/2 cup (~66g)",
+    "calories": 145.0,
+    "protein_g": 3.0,
+    "carbs_g": 17.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 636,
+    "food_item": "Mussels",
+    "serving_size": "3 oz (~85g)",
+    "calories": 73.0,
+    "protein_g": 10.0,
+    "carbs_g": 3.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 637,
+    "food_item": "Risotto",
+    "serving_size": "1 cup (~200g)",
+    "calories": 380.0,
+    "protein_g": 12.0,
+    "carbs_g": 52.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 638,
+    "food_item": "Falafel",
+    "serving_size": "3 pieces (~90g)",
+    "calories": 210.0,
+    "protein_g": 9.0,
+    "carbs_g": 28.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 639,
+    "food_item": "Coconut_cake",
+    "serving_size": "1 slice (~100g)",
+    "calories": 350.0,
+    "protein_g": 4.0,
+    "carbs_g": 48.0,
+    "fat_g": 17.0
+  },
+  {
+    "id": 640,
+    "food_item": "Foie_gras",
+    "serving_size": "1 oz (~28g)",
+    "calories": 130.0,
+    "protein_g": 3.0,
+    "carbs_g": 2.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 641,
+    "food_item": "Grilled_salmon",
+    "serving_size": "1 fillet (~170g)",
+    "calories": 350.0,
+    "protein_g": 40.0,
+    "carbs_g": 0.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 642,
+    "food_item": "Pumpkin_bread",
+    "serving_size": "1 slice (~60g)",
+    "calories": 190.0,
+    "protein_g": 3.0,
+    "carbs_g": 32.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 643,
+    "food_item": "Fish_curry",
+    "serving_size": "1 serving (~250g)",
+    "calories": 320.0,
+    "protein_g": 28.0,
+    "carbs_g": 12.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 644,
+    "food_item": "Oysters",
+    "serving_size": "6 medium (~84g)",
+    "calories": 57.0,
+    "protein_g": 6.0,
+    "carbs_g": 3.0,
+    "fat_g": 2.0
+  },
+  {
+    "id": 645,
+    "food_item": "Gyoza",
+    "serving_size": "6 pieces (~120g)",
+    "calories": 280.0,
+    "protein_g": 12.0,
+    "carbs_g": 32.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 646,
+    "food_item": "Pad_thai",
+    "serving_size": "1 plate (~350g)",
+    "calories": 550.0,
+    "protein_g": 22.0,
+    "carbs_g": 68.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 647,
+    "food_item": "Baby_back_ribs",
+    "serving_size": "1 serving (~300g)",
+    "calories": 620.0,
+    "protein_g": 44.0,
+    "carbs_g": 8.0,
+    "fat_g": 46.0
+  },
+  {
+    "id": 648,
+    "food_item": "Croque_madame",
+    "serving_size": "1 sandwich (~220g)",
+    "calories": 520.0,
+    "protein_g": 26.0,
+    "carbs_g": 35.0,
+    "fat_g": 32.0
+  },
+  {
+    "id": 649,
+    "food_item": "Chicken_quesadilla",
+    "serving_size": "1 quesadilla (~200g)",
+    "calories": 480.0,
+    "protein_g": 28.0,
+    "carbs_g": 40.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 650,
+    "food_item": "Baklava",
+    "serving_size": "1 piece (~60g)",
+    "calories": 290.0,
+    "protein_g": 4.0,
+    "carbs_g": 35.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 651,
+    "food_item": "Eggs_benedict",
+    "serving_size": "1 serving (~230g)",
+    "calories": 530.0,
+    "protein_g": 22.0,
+    "carbs_g": 28.0,
+    "fat_g": 38.0
+  },
+  {
+    "id": 652,
+    "food_item": "Cannoli",
+    "serving_size": "1 piece (~85g)",
+    "calories": 310.0,
+    "protein_g": 8.0,
+    "carbs_g": 32.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 653,
+    "food_item": "Seafood_pizza",
+    "serving_size": "1 slice (~130g)",
+    "calories": 290.0,
+    "protein_g": 16.0,
+    "carbs_g": 35.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 654,
+    "food_item": "Aloo_gobi",
+    "serving_size": "1 cup (~200g)",
+    "calories": 180.0,
+    "protein_g": 5.0,
+    "carbs_g": 24.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 655,
+    "food_item": "Panna_cotta",
+    "serving_size": "1 serving (~150g)",
+    "calories": 240.0,
+    "protein_g": 5.0,
+    "carbs_g": 22.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 656,
+    "food_item": "Stuffed_peppers",
+    "serving_size": "1 pepper (~200g)",
+    "calories": 280.0,
+    "protein_g": 14.0,
+    "carbs_g": 28.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 657,
+    "food_item": "Creme_brulee",
+    "serving_size": "1 ramekin (~120g)",
+    "calories": 290.0,
+    "protein_g": 5.0,
+    "carbs_g": 26.0,
+    "fat_g": 19.0
+  },
+  {
+    "id": 658,
+    "food_item": "Omelette",
+    "serving_size": "2-egg (~130g)",
+    "calories": 200.0,
+    "protein_g": 14.0,
+    "carbs_g": 2.0,
+    "fat_g": 15.0
+  },
+  {
+    "id": 659,
+    "food_item": "Rack_of_lamb",
+    "serving_size": "3 ribs (~150g)",
+    "calories": 430.0,
+    "protein_g": 30.0,
+    "carbs_g": 0.0,
+    "fat_g": 34.0
+  },
+  {
+    "id": 660,
+    "food_item": "Quesadilla",
+    "serving_size": "1 piece (~140g)",
+    "calories": 400.0,
+    "protein_g": 18.0,
+    "carbs_g": 38.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 661,
+    "food_item": "Grilled_cheese_sandwich",
+    "serving_size": "1 sandwich (~120g)",
+    "calories": 380.0,
+    "protein_g": 14.0,
+    "carbs_g": 35.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 662,
+    "food_item": "Hara_bhara_kabab",
+    "serving_size": "3 pieces (~120g)",
+    "calories": 360.0,
+    "protein_g": 10.0,
+    "carbs_g": 42.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 663,
+    "food_item": "Deviled_eggs",
+    "serving_size": "2 halves (~60g)",
+    "calories": 110.0,
+    "protein_g": 6.0,
+    "carbs_g": 1.0,
+    "fat_g": 9.0
+  },
+  {
+    "id": 664,
+    "food_item": "Thali",
+    "serving_size": "1 plate (~500g)",
+    "calories": 650.0,
+    "protein_g": 22.0,
+    "carbs_g": 90.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 665,
+    "food_item": "Bread_pudding",
+    "serving_size": "1 serving (~150g)",
+    "calories": 340.0,
+    "protein_g": 8.0,
+    "carbs_g": 48.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 666,
+    "food_item": "Chocolate_mousse",
+    "serving_size": "1/2 cup (~120g)",
+    "calories": 240.0,
+    "protein_g": 4.0,
+    "carbs_g": 22.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 667,
+    "food_item": "Dumplings",
+    "serving_size": "6 pieces (~120g)",
+    "calories": 280.0,
+    "protein_g": 12.0,
+    "carbs_g": 38.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 668,
+    "food_item": "Macaroni_and_cheese",
+    "serving_size": "1 cup (~200g)",
+    "calories": 350.0,
+    "protein_g": 14.0,
+    "carbs_g": 44.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 669,
+    "food_item": "Ambrosia_fruit_salad",
+    "serving_size": "1 cup (~210g)",
+    "calories": 240.0,
+    "protein_g": 2.0,
+    "carbs_g": 48.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 670,
+    "food_item": "Gnocchi",
+    "serving_size": "1 cup (~150g)",
+    "calories": 250.0,
+    "protein_g": 6.0,
+    "carbs_g": 48.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 671,
+    "food_item": "Beet_salad",
+    "serving_size": "1 cup (~150g)",
+    "calories": 130.0,
+    "protein_g": 3.0,
+    "carbs_g": 18.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 672,
+    "food_item": "Kwetiau_goreng",
+    "serving_size": "1 plate (~300g)",
+    "calories": 480.0,
+    "protein_g": 14.0,
+    "carbs_g": 68.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 673,
+    "food_item": "Cheese_and_tomato_sandwich",
+    "serving_size": "1 sandwich (~180g)",
+    "calories": 350.0,
+    "protein_g": 14.0,
+    "carbs_g": 38.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 674,
+    "food_item": "Congee",
+    "serving_size": "1 bowl (~400g)",
+    "calories": 180.0,
+    "protein_g": 6.0,
+    "carbs_g": 38.0,
+    "fat_g": 1.0
+  },
+  {
+    "id": 675,
+    "food_item": "Profiterole",
+    "serving_size": "3 pieces (~90g)",
+    "calories": 330.0,
+    "protein_g": 6.0,
+    "carbs_g": 32.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 676,
+    "food_item": "Steamed_momo",
+    "serving_size": "6 pieces (~150g)",
+    "calories": 260.0,
+    "protein_g": 14.0,
+    "carbs_g": 32.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 677,
+    "food_item": "Fried_noodles",
+    "serving_size": "1 plate (~300g)",
+    "calories": 480.0,
+    "protein_g": 14.0,
+    "carbs_g": 64.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 678,
+    "food_item": "Scampi",
+    "serving_size": "1 serving (~200g)",
+    "calories": 380.0,
+    "protein_g": 28.0,
+    "carbs_g": 12.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 679,
+    "food_item": "Stuffed_tomatoes",
+    "serving_size": "1 serving (~200g)",
+    "calories": 220.0,
+    "protein_g": 8.0,
+    "carbs_g": 22.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 680,
+    "food_item": "Burrito",
+    "serving_size": "1 burrito (~300g)",
+    "calories": 540.0,
+    "protein_g": 22.0,
+    "carbs_g": 70.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 681,
+    "food_item": "Chow_mein",
+    "serving_size": "1 plate (~300g)",
+    "calories": 480.0,
+    "protein_g": 18.0,
+    "carbs_g": 62.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 682,
+    "food_item": "Dhokla",
+    "serving_size": "2 pieces (~100g)",
+    "calories": 150.0,
+    "protein_g": 5.0,
+    "carbs_g": 24.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 683,
+    "food_item": "Cheesecake",
+    "serving_size": "1 slice (~125g)",
+    "calories": 400.0,
+    "protein_g": 8.0,
+    "carbs_g": 36.0,
+    "fat_g": 26.0
+  },
+  {
+    "id": 684,
+    "food_item": "Sausage_roll",
+    "serving_size": "1 roll (~100g)",
+    "calories": 320.0,
+    "protein_g": 10.0,
+    "carbs_g": 24.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 685,
+    "food_item": "Banana_salad",
+    "serving_size": "1 cup (~200g)",
+    "calories": 180.0,
+    "protein_g": 2.0,
+    "carbs_g": 40.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 686,
+    "food_item": "Aloo_paratha",
+    "serving_size": "1 paratha (~120g)",
+    "calories": 300.0,
+    "protein_g": 6.0,
+    "carbs_g": 40.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 687,
+    "food_item": "Anda_curry (egg curry)",
+    "serving_size": "1 serving (~200g)",
+    "calories": 280.0,
+    "protein_g": 16.0,
+    "carbs_g": 10.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 688,
+    "food_item": "Apple_pie",
+    "serving_size": "1 slice (~125g)",
+    "calories": 296.0,
+    "protein_g": 3.0,
+    "carbs_g": 43.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 689,
+    "food_item": "Beignets",
+    "serving_size": "3 pieces (~90g)",
+    "calories": 340.0,
+    "protein_g": 6.0,
+    "carbs_g": 48.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 690,
+    "food_item": "Bibimbap",
+    "serving_size": "1 bowl (~450g)",
+    "calories": 560.0,
+    "protein_g": 22.0,
+    "carbs_g": 78.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 691,
+    "food_item": "Biryani",
+    "serving_size": "1 serving (~350g)",
+    "calories": 560.0,
+    "protein_g": 28.0,
+    "carbs_g": 65.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 692,
+    "food_item": "Bruschetta",
+    "serving_size": "2 pieces (~100g)",
+    "calories": 180.0,
+    "protein_g": 4.0,
+    "carbs_g": 26.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 693,
+    "food_item": "Caesar_salad",
+    "serving_size": "1 serving (~180g)",
+    "calories": 300.0,
+    "protein_g": 8.0,
+    "carbs_g": 12.0,
+    "fat_g": 26.0
+  },
+  {
+    "id": 694,
+    "food_item": "Caprese_salad",
+    "serving_size": "1 serving (~200g)",
+    "calories": 220.0,
+    "protein_g": 12.0,
+    "carbs_g": 6.0,
+    "fat_g": 17.0
+  },
+  {
+    "id": 695,
+    "food_item": "Carrot_cake",
+    "serving_size": "1 slice (~100g)",
+    "calories": 380.0,
+    "protein_g": 5.0,
+    "carbs_g": 50.0,
+    "fat_g": 19.0
+  },
+  {
+    "id": 696,
+    "food_item": "Ceviche",
+    "serving_size": "1 serving (~150g)",
+    "calories": 160.0,
+    "protein_g": 20.0,
+    "carbs_g": 10.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 697,
+    "food_item": "Chana_masala",
+    "serving_size": "1 cup (~200g)",
+    "calories": 240.0,
+    "protein_g": 12.0,
+    "carbs_g": 35.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 698,
+    "food_item": "Chapati",
+    "serving_size": "1 piece (~40g)",
+    "calories": 120.0,
+    "protein_g": 3.0,
+    "carbs_g": 22.0,
+    "fat_g": 3.0
+  },
+  {
+    "id": 699,
+    "food_item": "Chicken_pizza",
+    "serving_size": "1 slice (~130g)",
+    "calories": 300.0,
+    "protein_g": 18.0,
+    "carbs_g": 34.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 700,
+    "food_item": "Chicken_curry",
+    "serving_size": "1 serving (~250g)",
+    "calories": 380.0,
+    "protein_g": 28.0,
+    "carbs_g": 15.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 701,
+    "food_item": "Chicken_wings",
+    "serving_size": "4 wings (~160g)",
+    "calories": 430.0,
+    "protein_g": 30.0,
+    "carbs_g": 4.0,
+    "fat_g": 32.0
+  },
+  {
+    "id": 702,
+    "food_item": "Churros",
+    "serving_size": "3 pieces (~90g)",
+    "calories": 310.0,
+    "protein_g": 4.0,
+    "carbs_g": 42.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 703,
+    "food_item": "Clam_chowder",
+    "serving_size": "1 cup (~245g)",
+    "calories": 280.0,
+    "protein_g": 14.0,
+    "carbs_g": 22.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 704,
+    "food_item": "Club_sandwich",
+    "serving_size": "1 sandwich (~250g)",
+    "calories": 540.0,
+    "protein_g": 28.0,
+    "carbs_g": 50.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 705,
+    "food_item": "Crab_cakes",
+    "serving_size": "2 cakes (~130g)",
+    "calories": 320.0,
+    "protein_g": 18.0,
+    "carbs_g": 20.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 706,
+    "food_item": "Donuts",
+    "serving_size": "1 glazed (~60g)",
+    "calories": 250.0,
+    "protein_g": 4.0,
+    "carbs_g": 34.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 707,
+    "food_item": "Edamame",
+    "serving_size": "1/2 cup shelled (~78g)",
+    "calories": 95.0,
+    "protein_g": 8.0,
+    "carbs_g": 8.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 708,
+    "food_item": "Falooda",
+    "serving_size": "1 glass (~300ml)",
+    "calories": 320.0,
+    "protein_g": 6.0,
+    "carbs_g": 58.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 709,
+    "food_item": "Filet_mignon",
+    "serving_size": "6 oz (~170g)",
+    "calories": 420.0,
+    "protein_g": 44.0,
+    "carbs_g": 0.0,
+    "fat_g": 26.0
+  },
+  {
+    "id": 710,
+    "food_item": "French_onion_soup",
+    "serving_size": "1 bowl (~240g)",
+    "calories": 290.0,
+    "protein_g": 12.0,
+    "carbs_g": 28.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 711,
+    "food_item": "French_toast",
+    "serving_size": "2 slices (~130g)",
+    "calories": 320.0,
+    "protein_g": 10.0,
+    "carbs_g": 42.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 712,
+    "food_item": "Fried_rice",
+    "serving_size": "1 cup (~200g)",
+    "calories": 340.0,
+    "protein_g": 10.0,
+    "carbs_g": 52.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 713,
+    "food_item": "Garlic_naan",
+    "serving_size": "1 piece (~90g)",
+    "calories": 280.0,
+    "protein_g": 8.0,
+    "carbs_g": 44.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 714,
+    "food_item": "Garlic_bread",
+    "serving_size": "1 slice (~45g)",
+    "calories": 170.0,
+    "protein_g": 4.0,
+    "carbs_g": 22.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 715,
+    "food_item": "Greek_salad",
+    "serving_size": "1 cup (~150g)",
+    "calories": 180.0,
+    "protein_g": 5.0,
+    "carbs_g": 10.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 716,
+    "food_item": "Grilled_sandwich",
+    "serving_size": "1 sandwich (~150g)",
+    "calories": 350.0,
+    "protein_g": 14.0,
+    "carbs_g": 38.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 717,
+    "food_item": "Gulab_jamun",
+    "serving_size": "2 pieces (~60g)",
+    "calories": 180.0,
+    "protein_g": 3.0,
+    "carbs_g": 30.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 718,
+    "food_item": "Hamburger",
+    "serving_size": "1 burger (~200g)",
+    "calories": 540.0,
+    "protein_g": 26.0,
+    "carbs_g": 44.0,
+    "fat_g": 28.0
+  },
+  {
+    "id": 719,
+    "food_item": "Ham_sandwich",
+    "serving_size": "1 sandwich (~180g)",
+    "calories": 360.0,
+    "protein_g": 22.0,
+    "carbs_g": 36.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 720,
+    "food_item": "Hot_and_sour_soup",
+    "serving_size": "1 cup (~244g)",
+    "calories": 120.0,
+    "protein_g": 8.0,
+    "carbs_g": 12.0,
+    "fat_g": 4.0
+  },
+  {
+    "id": 721,
+    "food_item": "Huevos_rancheros",
+    "serving_size": "1 serving (~220g)",
+    "calories": 380.0,
+    "protein_g": 18.0,
+    "carbs_g": 28.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 722,
+    "food_item": "Hummus",
+    "serving_size": "2 tbsp (~30g)",
+    "calories": 70.0,
+    "protein_g": 2.0,
+    "carbs_g": 6.0,
+    "fat_g": 5.0
+  },
+  {
+    "id": 723,
+    "food_item": "Idli",
+    "serving_size": "2 pieces (~80g)",
+    "calories": 130.0,
+    "protein_g": 4.0,
+    "carbs_g": 26.0,
+    "fat_g": 1.0
+  },
+  {
+    "id": 724,
+    "food_item": "Kulfi",
+    "serving_size": "1 serving (~80g)",
+    "calories": 190.0,
+    "protein_g": 5.0,
+    "carbs_g": 26.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 725,
+    "food_item": "Lasagna",
+    "serving_size": "1 serving (~250g)",
+    "calories": 480.0,
+    "protein_g": 22.0,
+    "carbs_g": 48.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 726,
+    "food_item": "Lobster_bisque",
+    "serving_size": "1 cup (~245g)",
+    "calories": 280.0,
+    "protein_g": 14.0,
+    "carbs_g": 14.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 727,
+    "food_item": "Macarons",
+    "serving_size": "2 pieces (~50g)",
+    "calories": 210.0,
+    "protein_g": 3.0,
+    "carbs_g": 32.0,
+    "fat_g": 8.0
+  },
+  {
+    "id": 728,
+    "food_item": "Margherita_pizza",
+    "serving_size": "1 slice (~120g)",
+    "calories": 270.0,
+    "protein_g": 11.0,
+    "carbs_g": 34.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 729,
+    "food_item": "Masala_dosa",
+    "serving_size": "1 dosa (~200g)",
+    "calories": 340.0,
+    "protein_g": 8.0,
+    "carbs_g": 52.0,
+    "fat_g": 12.0
+  },
+  {
+    "id": 730,
+    "food_item": "Nachos",
+    "serving_size": "1 serving (~150g)",
+    "calories": 480.0,
+    "protein_g": 14.0,
+    "carbs_g": 52.0,
+    "fat_g": 24.0
+  },
+  {
+    "id": 731,
+    "food_item": "Onion_rings",
+    "serving_size": "6 rings (~90g)",
+    "calories": 275.0,
+    "protein_g": 4.0,
+    "carbs_g": 34.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 732,
+    "food_item": "Paella",
+    "serving_size": "1 serving (~350g)",
+    "calories": 520.0,
+    "protein_g": 28.0,
+    "carbs_g": 65.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 733,
+    "food_item": "Palak_paneer",
+    "serving_size": "1 cup (~200g)",
+    "calories": 280.0,
+    "protein_g": 14.0,
+    "carbs_g": 12.0,
+    "fat_g": 20.0
+  },
+  {
+    "id": 734,
+    "food_item": "Paneer_masala",
+    "serving_size": "1 cup (~200g)",
+    "calories": 320.0,
+    "protein_g": 16.0,
+    "carbs_g": 14.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 735,
+    "food_item": "Paneer_pizza",
+    "serving_size": "1 slice (~130g)",
+    "calories": 310.0,
+    "protein_g": 14.0,
+    "carbs_g": 35.0,
+    "fat_g": 13.0
+  },
+  {
+    "id": 736,
+    "food_item": "Pav_bhaji",
+    "serving_size": "1 plate (~300g)",
+    "calories": 480.0,
+    "protein_g": 12.0,
+    "carbs_g": 68.0,
+    "fat_g": 18.0
+  },
+  {
+    "id": 737,
+    "food_item": "Pho",
+    "serving_size": "1 bowl (~450g)",
+    "calories": 420.0,
+    "protein_g": 28.0,
+    "carbs_g": 50.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 738,
+    "food_item": "Poutine",
+    "serving_size": "1 serving (~400g)",
+    "calories": 740.0,
+    "protein_g": 22.0,
+    "carbs_g": 72.0,
+    "fat_g": 42.0
+  },
+  {
+    "id": 739,
+    "food_item": "Ramen",
+    "serving_size": "1 bowl (~500g)",
+    "calories": 520.0,
+    "protein_g": 24.0,
+    "carbs_g": 66.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 740,
+    "food_item": "Samosa",
+    "serving_size": "2 pieces (~100g)",
+    "calories": 300.0,
+    "protein_g": 6.0,
+    "carbs_g": 38.0,
+    "fat_g": 14.0
+  },
+  {
+    "id": 741,
+    "food_item": "Sashimi",
+    "serving_size": "6 pieces (~120g)",
+    "calories": 180.0,
+    "protein_g": 28.0,
+    "carbs_g": 0.0,
+    "fat_g": 7.0
+  },
+  {
+    "id": 742,
+    "food_item": "Sauteed_mushrooms",
+    "serving_size": "1 cup (~100g)",
+    "calories": 90.0,
+    "protein_g": 3.0,
+    "carbs_g": 6.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 743,
+    "food_item": "Seekh_kebab",
+    "serving_size": "2 skewers (~120g)",
+    "calories": 280.0,
+    "protein_g": 22.0,
+    "carbs_g": 5.0,
+    "fat_g": 19.0
+  },
+  {
+    "id": 744,
+    "food_item": "Tacos",
+    "serving_size": "2 tacos (~180g)",
+    "calories": 360.0,
+    "protein_g": 18.0,
+    "carbs_g": 36.0,
+    "fat_g": 16.0
+  },
+  {
+    "id": 745,
+    "food_item": "Takoyaki",
+    "serving_size": "6 pieces (~120g)",
+    "calories": 260.0,
+    "protein_g": 10.0,
+    "carbs_g": 32.0,
+    "fat_g": 10.0
+  },
+  {
+    "id": 746,
+    "food_item": "Tiramisu",
+    "serving_size": "1 serving (~150g)",
+    "calories": 380.0,
+    "protein_g": 8.0,
+    "carbs_g": 38.0,
+    "fat_g": 22.0
+  },
+  {
+    "id": 747,
+    "food_item": "Uttapam",
+    "serving_size": "1 piece (~120g)",
+    "calories": 200.0,
+    "protein_g": 6.0,
+    "carbs_g": 32.0,
+    "fat_g": 6.0
+  },
+  {
+    "id": 748,
+    "food_item": "Vada_pav",
+    "serving_size": "1 piece (~150g)",
+    "calories": 310.0,
+    "protein_g": 8.0,
+    "carbs_g": 42.0,
+    "fat_g": 13.0
+  }
+]
