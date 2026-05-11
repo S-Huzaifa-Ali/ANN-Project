@@ -1,8 +1,3 @@
-"""
-Nutrition lookup utility — maps predicted food labels to nutritional data.
-Supports portion size estimation and fuzzy matching.
-"""
-
 import json
 import os
 import re

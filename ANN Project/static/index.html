@@ -11,7 +11,6 @@
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-    <!-- ===== Header ===== -->
     <header class="header" id="header">
         <div class="header-inner">
             <div class="logo">
@@ -33,7 +32,6 @@
     </header>
 
     <main class="main">
-        <!-- ===== Hero Section ===== -->
         <section class="hero" id="hero">
             <div class="hero-bg-orbs">
                 <div class="orb orb-1"></div>
@@ -47,7 +45,6 @@
             <p class="hero-subtitle">Upload a food image and let our AI identify items, predict labels, and estimate calories & macros in seconds.</p>
         </section>
 
-        <!-- ===== Upload Section ===== -->
         <section class="section" id="upload-section">
             <div class="upload-zone" id="upload-zone">
                 <div class="upload-zone-content" id="upload-zone-content">
@@ -63,7 +60,6 @@
                     <button class="btn btn-primary" id="browse-btn">Choose Image</button>
                 </div>
                 <input type="file" id="file-input" accept="image/png,image/jpeg,image/webp,image/bmp" hidden>
-                <!-- Preview shown after upload -->
                 <div class="upload-preview" id="upload-preview" style="display:none;">
                     <img id="preview-image" alt="Preview">
                     <button class="btn btn-outline btn-sm" id="clear-btn">✕ Clear</button>
@@ -79,7 +75,6 @@
             </button>
         </section>
 
-        <!-- ===== Loading Overlay ===== -->
         <div class="loading-overlay" id="loading-overlay" style="display:none;">
             <div class="loading-card">
                 <div class="spinner"></div>
@@ -88,28 +83,23 @@
             </div>
         </div>
 
-        <!-- ===== Error Banner ===== -->
         <div class="error-banner" id="error-banner" style="display:none;">
             <span class="error-icon">⚠</span>
             <span id="error-text"></span>
             <button class="error-close" id="error-close">✕</button>
         </div>
 
-        <!-- ===== Results Section ===== -->
         <section class="section" id="results-section" style="display:none;">
             <h2 class="section-title">Detection Results</h2>
             <p class="section-subtitle" id="results-message"></p>
 
-            <!-- Detection Image with Bounding Boxes -->
             <div class="detection-canvas-wrapper" id="detection-canvas-wrapper">
                 <canvas id="detection-canvas"></canvas>
             </div>
 
-            <!-- Detected Items Grid -->
             <div class="detections-grid" id="detections-grid"></div>
         </section>
 
-        <!-- ===== Nutrition Summary Section ===== -->
         <section class="section" id="nutrition-section" style="display:none;">
             <h2 class="section-title">Nutritional Summary</h2>
             <p class="section-subtitle">Total estimated nutrition for all selected food items</p>
@@ -133,7 +123,6 @@
         </section>
     </main>
 
-    <!-- ===== Footer ===== -->
     <footer class="footer">
         <p>NutriScan AI — Deep Learning Food Analysis Pipeline &nbsp;|&nbsp; Models can be swapped for improved accuracy</p>
     </footer>

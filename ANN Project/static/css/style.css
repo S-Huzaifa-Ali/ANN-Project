@@ -1,8 +1,3 @@
-/* =========================================================
-   NutriScan AI — Premium Dark Glassmorphism Theme
-   ========================================================= */
-
-/* ----- CSS Custom Properties ----- */
 :root {
     --bg-primary: #0a0e1a;
     --bg-secondary: #111827;
@@ -15,9 +10,9 @@
     --text-secondary: #94a3b8;
     --text-muted: #64748b;
 
-    --accent-1: #6366f1;       /* Indigo */
-    --accent-2: #8b5cf6;       /* Violet */
-    --accent-3: #06b6d4;       /* Cyan */
+    --accent-1: #6366f1;  
+    --accent-2: #8b5cf6; 
+    --accent-3: #06b6d4;  
     --accent-gradient: linear-gradient(135deg, #6366f1, #8b5cf6, #06b6d4);
     --accent-glow: rgba(99, 102, 241, 0.3);
 
@@ -42,7 +37,6 @@
     --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/* ----- Reset & Base ----- */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 html {
@@ -62,7 +56,6 @@ body {
 a { color: var(--accent-3); text-decoration: none; transition: var(--transition); }
 a:hover { color: var(--accent-1); }
 
-/* ----- Header ----- */
 .header {
     position: fixed; top: 0; left: 0; right: 0; z-index: 100;
     background: rgba(10, 14, 26, 0.8);
@@ -109,7 +102,6 @@ a:hover { color: var(--accent-1); }
     background: var(--bg-glass-hover);
 }
 
-/* ----- Main Content ----- */
 .main {
     max-width: 1200px; margin: 0 auto;
     padding: 5rem 1.5rem 2rem;
@@ -128,7 +120,6 @@ a:hover { color: var(--accent-1); }
     color: var(--text-secondary); font-size: 0.95rem; margin-bottom: 1.5rem;
 }
 
-/* ----- Hero ----- */
 .hero {
     text-align: center;
     padding: 3rem 0 2rem;
@@ -171,7 +162,6 @@ a:hover { color: var(--accent-1); }
     max-width: 600px; margin: 0 auto;
 }
 
-/* ----- Upload Zone ----- */
 .upload-zone {
     border: 2px dashed var(--border-color);
     border-radius: var(--radius-xl);
@@ -202,7 +192,6 @@ a:hover { color: var(--accent-1); }
 .upload-text { font-size: 1.1rem; font-weight: 600; margin-bottom: 0.25rem; }
 .upload-subtext { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1.25rem; }
 
-/* Upload preview */
 .upload-preview {
     position: relative;
     display: flex; flex-direction: column; align-items: center; gap: 1rem;
@@ -213,7 +202,6 @@ a:hover { color: var(--accent-1); }
     object-fit: contain;
 }
 
-/* ----- Buttons ----- */
 .btn {
     display: inline-flex; align-items: center; gap: 0.5rem;
     padding: 0.65rem 1.5rem;
@@ -246,7 +234,6 @@ a:hover { color: var(--accent-1); }
     display: flex; margin: 1.5rem auto 0;
 }
 
-/* ----- Loading Overlay ----- */
 .loading-overlay {
     position: fixed; inset: 0; z-index: 200;
     background: rgba(10, 14, 26, 0.85);
@@ -275,7 +262,6 @@ a:hover { color: var(--accent-1); }
 .loading-text { font-weight: 600; margin-bottom: 0.25rem; }
 .loading-subtext { font-size: 0.85rem; color: var(--text-muted); }
 
-/* ----- Error Banner ----- */
 .error-banner {
     max-width: 1200px; margin: 1rem auto;
     padding: 0.75rem 1.25rem;
@@ -294,7 +280,6 @@ a:hover { color: var(--accent-1); }
     color: #fca5a5; cursor: pointer; font-size: 1rem;
 }
 
-/* ----- Detection Canvas ----- */
 .detection-canvas-wrapper {
     background: var(--bg-card);
     border: 1px solid var(--border-color);
@@ -310,7 +295,6 @@ a:hover { color: var(--accent-1); }
     border-radius: var(--radius-sm);
 }
 
-/* ----- Detection Cards Grid ----- */
 .detections-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
@@ -362,7 +346,6 @@ a:hover { color: var(--accent-1); }
 
 .prediction-label { font-size: 0.78rem; color: var(--text-muted); margin-bottom: 0.5rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.05em; }
 
-/* Prediction option (radio-style) */
 .prediction-option {
     display: flex; align-items: center; gap: 0.75rem;
     padding: 0.65rem 0.85rem;
@@ -417,7 +400,6 @@ a:hover { color: var(--accent-1); }
     font-size: 0.78rem; color: var(--text-muted); min-width: 42px; text-align: right;
 }
 
-/* Portion slider */
 .portion-control {
     margin-top: 0.75rem;
     padding-top: 0.75rem;
@@ -442,7 +424,6 @@ a:hover { color: var(--accent-1); }
     box-shadow: 0 0 8px rgba(99,102,241,0.4);
 }
 
-/* ----- Nutrition Summary ----- */
 .nutrition-summary-cards {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -477,13 +458,11 @@ a:hover { color: var(--accent-1); }
     margin-top: 0.25rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.05em;
 }
 
-/* Specific card accent colors */
 .nutri-card.calories .nutri-card-value { background: linear-gradient(135deg, #f59e0b, #ef4444); -webkit-background-clip: text; background-clip: text; }
 .nutri-card.protein .nutri-card-value { background: linear-gradient(135deg, #10b981, #06b6d4); -webkit-background-clip: text; background-clip: text; }
 .nutri-card.carbs .nutri-card-value { background: linear-gradient(135deg, #6366f1, #8b5cf6); -webkit-background-clip: text; background-clip: text; }
 .nutri-card.fat .nutri-card-value { background: linear-gradient(135deg, #ec4899, #f59e0b); -webkit-background-clip: text; background-clip: text; }
 
-/* ----- Nutrition Table ----- */
 .nutrition-detail-table-wrapper {
     background: var(--bg-card);
     border: 1px solid var(--border-color);
@@ -526,7 +505,6 @@ a:hover { color: var(--accent-1); }
     background: rgba(99, 102, 241, 0.05);
 }
 
-/* ----- Footer ----- */
 .footer {
     text-align: center;
     padding: 2rem 1.5rem;
@@ -536,7 +514,6 @@ a:hover { color: var(--accent-1); }
     margin-top: 2rem;
 }
 
-/* ----- Responsive ----- */
 @media (max-width: 768px) {
     .header-inner { padding: 0.6rem 1rem; }
     .nav-links { gap: 0; }
